@@ -1,0 +1,10 @@
+config/InvTweaks.cfg
+config/InvTweaksTree.txt
+config/InvTweaksRules.txt
+minecraftinstance.json
+crafttweaker.log
+.curseclient
+/saves
+/logs
+/local
+/crash-reports
