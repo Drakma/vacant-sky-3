@@ -57,7 +57,7 @@ minecraft:tallgrass:1, Grass
 minecraft:tallgrass:2, Fern
 minecraft:deadbush, Dead Bush
 minecraft:piston, Piston
-minecraft:wool:0, White Wool
+minecraft:wool:0, Wool
 minecraft:wool:1, Orange Wool
 minecraft:wool:2, Magenta Wool
 minecraft:wool:3, Light Blue Wool
@@ -110,7 +110,7 @@ minecraft:farmland, Farmland
 minecraft:furnace, Furnace
 minecraft:ladder, Ladder
 minecraft:rail, Rail
-minecraft:stone_stairs, Cobblestone Stairs
+minecraft:stone_stairs, Stone Stairs
 minecraft:lever, Lever
 minecraft:stone_pressure_plate, Stone Pressure Plate
 minecraft:wooden_pressure_plate, Wooden Pressure Plate
@@ -123,7 +123,7 @@ minecraft:snow, Snow
 minecraft:cactus, Cactus
 minecraft:clay, Clay
 minecraft:jukebox, Jukebox
-minecraft:fence, Oak Fence
+minecraft:fence, Fence
 minecraft:pumpkin, Pumpkin
 minecraft:netherrack, Netherrack
 minecraft:soul_sand, Soul Sand
@@ -145,7 +145,7 @@ minecraft:stained_glass:12, Brown Stained Glass
 minecraft:stained_glass:13, Green Stained Glass
 minecraft:stained_glass:14, Red Stained Glass
 minecraft:stained_glass:15, Black Stained Glass
-minecraft:trapdoor, Wooden Trapdoor
+minecraft:trapdoor, Trapdoor
 minecraft:monster_egg:0, Stone Monster Egg
 minecraft:monster_egg:1, Cobblestone Monster Egg
 minecraft:monster_egg:2, Stone Brick Monster Egg
@@ -162,7 +162,7 @@ minecraft:iron_bars, Iron Bars
 minecraft:glass_pane, Glass Pane
 minecraft:melon_block, Melon
 minecraft:vine, Vines
-minecraft:fence_gate, Oak Fence Gate
+minecraft:fence_gate, Fence Gate
 minecraft:brick_stairs, Brick Stairs
 minecraft:stone_brick_stairs, Stone Brick Stairs
 minecraft:mycelium, Mycelium
@@ -210,22 +210,22 @@ minecraft:quartz_block:2, Pillar Quartz Block
 minecraft:quartz_stairs, Quartz Stairs
 minecraft:activator_rail, Activator Rail
 minecraft:dropper, Dropper
-minecraft:stained_hardened_clay:0, White Terracotta
-minecraft:stained_hardened_clay:1, Orange Terracotta
-minecraft:stained_hardened_clay:2, Magenta Terracotta
-minecraft:stained_hardened_clay:3, Light Blue Terracotta
-minecraft:stained_hardened_clay:4, Yellow Terracotta
-minecraft:stained_hardened_clay:5, Lime Terracotta
-minecraft:stained_hardened_clay:6, Pink Terracotta
-minecraft:stained_hardened_clay:7, Gray Terracotta
-minecraft:stained_hardened_clay:8, Light Gray Terracotta
-minecraft:stained_hardened_clay:9, Cyan Terracotta
-minecraft:stained_hardened_clay:10, Purple Terracotta
-minecraft:stained_hardened_clay:11, Blue Terracotta
-minecraft:stained_hardened_clay:12, Brown Terracotta
-minecraft:stained_hardened_clay:13, Green Terracotta
-minecraft:stained_hardened_clay:14, Red Terracotta
-minecraft:stained_hardened_clay:15, Black Terracotta
+minecraft:stained_hardened_clay:0, White Stained Clay
+minecraft:stained_hardened_clay:1, Orange Stained Clay
+minecraft:stained_hardened_clay:2, Magenta Stained Clay
+minecraft:stained_hardened_clay:3, Light Blue Stained Clay
+minecraft:stained_hardened_clay:4, Yellow Stained Clay
+minecraft:stained_hardened_clay:5, Lime Stained Clay
+minecraft:stained_hardened_clay:6, Pink Stained Clay
+minecraft:stained_hardened_clay:7, Gray Stained Clay
+minecraft:stained_hardened_clay:8, Light Gray Stained Clay
+minecraft:stained_hardened_clay:9, Cyan Stained Clay
+minecraft:stained_hardened_clay:10, Purple Stained Clay
+minecraft:stained_hardened_clay:11, Blue Stained Clay
+minecraft:stained_hardened_clay:12, Brown Stained Clay
+minecraft:stained_hardened_clay:13, Green Stained Clay
+minecraft:stained_hardened_clay:14, Red Stained Clay
+minecraft:stained_hardened_clay:15, Black Stained Clay
 minecraft:stained_glass_pane:0, White Stained Glass Pane
 minecraft:stained_glass_pane:1, Orange Stained Glass Pane
 minecraft:stained_glass_pane:2, Magenta Stained Glass Pane
@@ -256,7 +256,7 @@ minecraft:prismarine:1, Prismarine Bricks
 minecraft:prismarine:2, Dark Prismarine
 minecraft:sea_lantern, Sea Lantern
 minecraft:hay_block, Hay Bale
-minecraft:carpet:0, White Carpet
+minecraft:carpet:0, Carpet
 minecraft:carpet:1, Orange Carpet
 minecraft:carpet:2, Magenta Carpet
 minecraft:carpet:3, Light Blue Carpet
@@ -272,7 +272,7 @@ minecraft:carpet:12, Brown Carpet
 minecraft:carpet:13, Green Carpet
 minecraft:carpet:14, Red Carpet
 minecraft:carpet:15, Black Carpet
-minecraft:hardened_clay, Terracotta
+minecraft:hardened_clay, Hardened Clay
 minecraft:coal_block, Block of Coal
 minecraft:packed_ice, Packed Ice
 minecraft:double_plant:0, Sunflower
@@ -713,19 +713,11 @@ forestry:resource_storage:2, Block of Tin
 forestry:resource_storage:3, Block of Bronze
 forestry:ash_brick:0, Ash Bricks
 forestry:ash_stairs:0, Ash Brick Stairs
-forestry:crate, Crate
-forestry:genetic_filter:0, Genetic Filter
-forestry:bottler:0, Bottler
-forestry:carpenter:0, Carpenter
-forestry:centrifuge:0, Centrifuge
-forestry:fermenter:0, Fermenter
-forestry:moistener:0, Moistener
-forestry:squeezer:0, Squeezer
-forestry:still:0, Still
-forestry:rainmaker:0, Rainmaker
-forestry:fabricator:0, Thermionic Fabricator
-forestry:raintank:0, Rain Tank
-forestry:worktable:0, Worktable
+forestry:charcoal:0, Block of Charcoal
+forestry:wood_pile:0, Wood Pile
+forestry:wood_pile_decorative:0, Decorative Wood Pile
+forestry:ash_block:0, Ash Block
+forestry:loam:0, Loam
 forestry:fluid.bio.ethanol, Ethanol
 forestry:fluid.biomass, Biomass
 forestry:fluid.glass, Liquid Glass
@@ -738,11 +730,6 @@ forestry:fluid.short.mead, Short Mead
 forestry:can, item.for.can.name
 forestry:capsule, item.for.capsule.name
 forestry:refractory, item.for.refractory.name
-forestry:charcoal:0, Block of Charcoal
-forestry:wood_pile:0, Wood Pile
-forestry:wood_pile_decorative:0, Decorative Wood Pile
-forestry:ash_block:0, Ash Block
-forestry:loam:0, Loam
 forestry:greenhouse:0, Greenhouse Block
 forestry:greenhouse:3, Greenhouse Energy Distributor
 forestry:greenhouse:4, Greenhouse Control
@@ -768,6 +755,11 @@ forestry:adventurer_bag, Adventuring Backpack
 forestry:adventurer_bag_t2, Woven Adventuring Backpack
 forestry:builder_bag, Building Backpack
 forestry:builder_bag_t2, Woven Building Backpack
+forestry:worktable:0, Worktable
+forestry:honeyed_slice, Honeyed Slice
+forestry:ambrosia, Ambrosia
+forestry:honey_pot, Honey Pot
+forestry:genetic_filter:0, Genetic Filter
 forestry:grafter, Grafter
 forestry:grafter_proven, Proven Grafter
 forestry:logs.0:0, Larch Wood
@@ -1020,7 +1012,7 @@ forestry:fences.fireproof.1:9, Ipe Fence (Fireproof)
 forestry:fences.fireproof.1:10, Padauk Fence (Fireproof)
 forestry:fences.fireproof.1:11, Cocobolo Fence (Fireproof)
 forestry:fences.fireproof.1:12, Zebrawood Fence (Fireproof)
-forestry:fences.vanilla.fireproof.0:0, Oak Fence (Fireproof)
+forestry:fences.vanilla.fireproof.0:0, Fence (Fireproof)
 forestry:fences.vanilla.fireproof.0:1, Spruce Fence (Fireproof)
 forestry:fences.vanilla.fireproof.0:2, Birch Fence (Fireproof)
 forestry:fences.vanilla.fireproof.0:3, Jungle Fence (Fireproof)
@@ -1084,7 +1076,7 @@ forestry:fence.gates.cocobolo:0, Cocobolo Fence Gate
 forestry:fence.gates.fireproof.cocobolo:0, Cocobolo Fence Gate (Fireproof)
 forestry:fence.gates.zebrawood:0, Zebrawood Fence Gate
 forestry:fence.gates.fireproof.zebrawood:0, Zebrawood Fence Gate (Fireproof)
-forestry:fence.gates.vanilla.fireproof.oak:0, Oak Fence Gate (Fireproof)
+forestry:fence.gates.vanilla.fireproof.oak:0, Fence Gate (Fireproof)
 forestry:fence.gates.vanilla.fireproof.spruce:0, Spruce Fence Gate (Fireproof)
 forestry:fence.gates.vanilla.fireproof.birch:0, Birch Fence Gate (Fireproof)
 forestry:fence.gates.vanilla.fireproof.jungle:0, Jungle Fence Gate (Fireproof)
@@ -1223,6 +1215,8 @@ forestry:tree_chest:0, Arborist's Chest
 forestry:butterfly_chest:0, Lepidopterist's Chest
 forestry:cocoon:0, tile.for.cocoon.name
 forestry:cocoon.solid:0, tile.for.cocoon.solid.name
+forestry:book_forester, Forester's Manual
+forestry:crate, Crate
 forestry:mushroom:0, tile.for.mushroom.name
 forestry:mushroom:1, tile.for.mushroom.name
 forestry:ffarm:0, Farm Block
@@ -1294,24 +1288,20 @@ forestry:farm_ender:0, Ender Farm (Managed)
 forestry:farm_ender:1, Ender Farm (Manual)
 forestry:peat_bog:0, Peat Bog (Managed)
 forestry:peat_bog:1, Peat Bog (Manual)
+forestry:database:0, Database
+forestry:bottler:0, Bottler
+forestry:carpenter:0, Carpenter
+forestry:centrifuge:0, Centrifuge
+forestry:fermenter:0, Fermenter
+forestry:moistener:0, Moistener
+forestry:squeezer:0, Squeezer
+forestry:still:0, Still
+forestry:rainmaker:0, Rainmaker
+forestry:fabricator:0, Thermionic Fabricator
+forestry:raintank:0, Rain Tank
 forestry:engine_peat:0, Peat-fired Engine
 forestry:engine_biogas:0, Biogas Engine
 forestry:engine_clockwork:0, Clockwork Engine
-forestry:honeyed_slice, Honeyed Slice
-forestry:ambrosia, Ambrosia
-forestry:honey_pot, Honey Pot
-forestry:stamps:0, Stamp (1n)
-forestry:stamps:1, Stamp (2n)
-forestry:stamps:2, Stamp (5n)
-forestry:stamps:3, Stamp (10n)
-forestry:stamps:4, Stamp (20n)
-forestry:stamps:5, Stamp (50n)
-forestry:stamps:6, Stamp (100n)
-forestry:letters, Letter
-forestry:catalogue, Catalogue
-forestry:mailbox:0, Mailbox
-forestry:trade_station:0, Trade Station
-forestry:stamp_collector:0, Stamp Collector
 forestry:habitat_locator, Habitat Locator
 forestry:imprinter, Imprinter
 forestry:cart.beehouse:0, Minecart with Bee House
@@ -1371,8 +1361,6 @@ forestry:alveary.heater:0, Alveary Heater
 forestry:alveary.hygro:0, Alveary Hygroregulator
 forestry:alveary.stabiliser:0, Alveary Stabiliser
 forestry:alveary.sieve:0, Alveary Sieve
-forestry:book_forester, Forester's Manual
-forestry:database:0, Database
 careerbees:flower_pedastal, Flower Pedastal
 careerbees:alveary_frame, Alveary Frame Holder
 careerbees:mutation_frame, Mutation Frame
@@ -2905,7 +2893,7 @@ thermaldynamics:cover:0, Sandstone Cover
 thermaldynamics:cover:0, Chiseled Sandstone Cover
 thermaldynamics:cover:0, Smooth Sandstone Cover
 thermaldynamics:cover:0, Grass Cover
-thermaldynamics:cover:0, White Wool Cover
+thermaldynamics:cover:0, Wool Cover
 thermaldynamics:cover:0, Orange Wool Cover
 thermaldynamics:cover:0, Magenta Wool Cover
 thermaldynamics:cover:0, Light Blue Wool Cover
@@ -2939,7 +2927,7 @@ thermaldynamics:cover:0, Oak Wood Stairs Cover
 thermaldynamics:cover:0, Diamond Ore Cover
 thermaldynamics:cover:0, Block of Diamond Cover
 thermaldynamics:cover:0, Crafting Table Cover
-thermaldynamics:cover:0, Cobblestone Stairs Cover
+thermaldynamics:cover:0, Stone Stairs Cover
 thermaldynamics:cover:0, Redstone Ore Cover
 thermaldynamics:cover:0, Ice Cover
 thermaldynamics:cover:0, Snow Cover
@@ -3007,22 +2995,22 @@ thermaldynamics:cover:0, Block of Quartz Cover
 thermaldynamics:cover:0, Chiseled Quartz Block Cover
 thermaldynamics:cover:0, Pillar Quartz Block Cover
 thermaldynamics:cover:0, Quartz Stairs Cover
-thermaldynamics:cover:0, White Terracotta Cover
-thermaldynamics:cover:0, Orange Terracotta Cover
-thermaldynamics:cover:0, Magenta Terracotta Cover
-thermaldynamics:cover:0, Light Blue Terracotta Cover
-thermaldynamics:cover:0, Yellow Terracotta Cover
-thermaldynamics:cover:0, Lime Terracotta Cover
-thermaldynamics:cover:0, Pink Terracotta Cover
-thermaldynamics:cover:0, Gray Terracotta Cover
-thermaldynamics:cover:0, Light Gray Terracotta Cover
-thermaldynamics:cover:0, Cyan Terracotta Cover
-thermaldynamics:cover:0, Purple Terracotta Cover
-thermaldynamics:cover:0, Blue Terracotta Cover
-thermaldynamics:cover:0, Brown Terracotta Cover
-thermaldynamics:cover:0, Green Terracotta Cover
-thermaldynamics:cover:0, Red Terracotta Cover
-thermaldynamics:cover:0, Black Terracotta Cover
+thermaldynamics:cover:0, White Stained Clay Cover
+thermaldynamics:cover:0, Orange Stained Clay Cover
+thermaldynamics:cover:0, Magenta Stained Clay Cover
+thermaldynamics:cover:0, Light Blue Stained Clay Cover
+thermaldynamics:cover:0, Yellow Stained Clay Cover
+thermaldynamics:cover:0, Lime Stained Clay Cover
+thermaldynamics:cover:0, Pink Stained Clay Cover
+thermaldynamics:cover:0, Gray Stained Clay Cover
+thermaldynamics:cover:0, Light Gray Stained Clay Cover
+thermaldynamics:cover:0, Cyan Stained Clay Cover
+thermaldynamics:cover:0, Purple Stained Clay Cover
+thermaldynamics:cover:0, Blue Stained Clay Cover
+thermaldynamics:cover:0, Brown Stained Clay Cover
+thermaldynamics:cover:0, Green Stained Clay Cover
+thermaldynamics:cover:0, Red Stained Clay Cover
+thermaldynamics:cover:0, Black Stained Clay Cover
 thermaldynamics:cover:0, White Stained Glass Pane Cover
 thermaldynamics:cover:0, Orange Stained Glass Pane Cover
 thermaldynamics:cover:0, Magenta Stained Glass Pane Cover
@@ -3051,7 +3039,7 @@ thermaldynamics:cover:0, Prismarine Bricks Cover
 thermaldynamics:cover:0, Dark Prismarine Cover
 thermaldynamics:cover:0, Sea Lantern Cover
 thermaldynamics:cover:0, Hay Bale Cover
-thermaldynamics:cover:0, Terracotta Cover
+thermaldynamics:cover:0, Hardened Clay Cover
 thermaldynamics:cover:0, Block of Coal Cover
 thermaldynamics:cover:0, Packed Ice Cover
 thermaldynamics:cover:0, Red Sandstone Cover
@@ -3382,7 +3370,7 @@ thermaldynamics:cover:0, Ipe Fence (Fireproof) Cover
 thermaldynamics:cover:0, Padauk Fence (Fireproof) Cover
 thermaldynamics:cover:0, Cocobolo Fence (Fireproof) Cover
 thermaldynamics:cover:0, Zebrawood Fence (Fireproof) Cover
-thermaldynamics:cover:0, Oak Fence (Fireproof) Cover
+thermaldynamics:cover:0, Fence (Fireproof) Cover
 thermaldynamics:cover:0, Spruce Fence (Fireproof) Cover
 thermaldynamics:cover:0, Birch Fence (Fireproof) Cover
 thermaldynamics:cover:0, Jungle Fence (Fireproof) Cover
@@ -3446,7 +3434,7 @@ thermaldynamics:cover:0, Cocobolo Fence Gate Cover
 thermaldynamics:cover:0, Cocobolo Fence Gate (Fireproof) Cover
 thermaldynamics:cover:0, Zebrawood Fence Gate Cover
 thermaldynamics:cover:0, Zebrawood Fence Gate (Fireproof) Cover
-thermaldynamics:cover:0, Oak Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Fence Gate (Fireproof) Cover
 thermaldynamics:cover:0, Spruce Fence Gate (Fireproof) Cover
 thermaldynamics:cover:0, Birch Fence Gate (Fireproof) Cover
 thermaldynamics:cover:0, Jungle Fence Gate (Fireproof) Cover
@@ -3712,6 +3700,12 @@ thermaldynamics:cover:0, Supercold Ice Cover
 thermaldynamics:cover:0, Fusion Connector Cover
 thermaldynamics:cover:0, Glowing Mushroom Cover
 thermaldynamics:cover:0, Wasteland Earth Cover
+torcherino:blocktorcherino, Torcherino
+torcherino:blockcompressedtorcherino, Compressed Torcherino
+torcherino:blockdoublecompressedtorcherino, Double Compressed Torcherino
+torcherino:blocklanterino, Jack o'Lanterino
+torcherino:blockcompressedlanterino, Compressed Jack o'Lanterino
+torcherino:blockdoublecompressedlanterino, Double Compressed Jack o'Lanterino
 chisel:blockaluminum:0, Block of Aluminum
 chisel:blockaluminum:1, Block of Aluminum
 chisel:blockaluminum:2, Block of Aluminum
@@ -6213,7 +6207,7 @@ appliedenergistics2:facade:0, Cable Facade - Lapis Lazuli Block
 appliedenergistics2:facade:0, Cable Facade - Sandstone
 appliedenergistics2:facade:0, Cable Facade - Chiseled Sandstone
 appliedenergistics2:facade:0, Cable Facade - Smooth Sandstone
-appliedenergistics2:facade:0, Cable Facade - White Wool
+appliedenergistics2:facade:0, Cable Facade - Wool
 appliedenergistics2:facade:0, Cable Facade - Orange Wool
 appliedenergistics2:facade:0, Cable Facade - Magenta Wool
 appliedenergistics2:facade:0, Cable Facade - Light Blue Wool
@@ -6288,22 +6282,22 @@ appliedenergistics2:facade:0, Cable Facade - Nether Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Block of Quartz
 appliedenergistics2:facade:0, Cable Facade - Chiseled Quartz Block
 appliedenergistics2:facade:0, Cable Facade - Pillar Quartz Block
-appliedenergistics2:facade:0, Cable Facade - White Terracotta
-appliedenergistics2:facade:0, Cable Facade - Orange Terracotta
-appliedenergistics2:facade:0, Cable Facade - Magenta Terracotta
-appliedenergistics2:facade:0, Cable Facade - Light Blue Terracotta
-appliedenergistics2:facade:0, Cable Facade - Yellow Terracotta
-appliedenergistics2:facade:0, Cable Facade - Lime Terracotta
-appliedenergistics2:facade:0, Cable Facade - Pink Terracotta
-appliedenergistics2:facade:0, Cable Facade - Gray Terracotta
-appliedenergistics2:facade:0, Cable Facade - Light Gray Terracotta
-appliedenergistics2:facade:0, Cable Facade - Cyan Terracotta
-appliedenergistics2:facade:0, Cable Facade - Purple Terracotta
-appliedenergistics2:facade:0, Cable Facade - Blue Terracotta
-appliedenergistics2:facade:0, Cable Facade - Brown Terracotta
-appliedenergistics2:facade:0, Cable Facade - Green Terracotta
-appliedenergistics2:facade:0, Cable Facade - Red Terracotta
-appliedenergistics2:facade:0, Cable Facade - Black Terracotta
+appliedenergistics2:facade:0, Cable Facade - White Stained Clay
+appliedenergistics2:facade:0, Cable Facade - Orange Stained Clay
+appliedenergistics2:facade:0, Cable Facade - Magenta Stained Clay
+appliedenergistics2:facade:0, Cable Facade - Light Blue Stained Clay
+appliedenergistics2:facade:0, Cable Facade - Yellow Stained Clay
+appliedenergistics2:facade:0, Cable Facade - Lime Stained Clay
+appliedenergistics2:facade:0, Cable Facade - Pink Stained Clay
+appliedenergistics2:facade:0, Cable Facade - Gray Stained Clay
+appliedenergistics2:facade:0, Cable Facade - Light Gray Stained Clay
+appliedenergistics2:facade:0, Cable Facade - Cyan Stained Clay
+appliedenergistics2:facade:0, Cable Facade - Purple Stained Clay
+appliedenergistics2:facade:0, Cable Facade - Blue Stained Clay
+appliedenergistics2:facade:0, Cable Facade - Brown Stained Clay
+appliedenergistics2:facade:0, Cable Facade - Green Stained Clay
+appliedenergistics2:facade:0, Cable Facade - Red Stained Clay
+appliedenergistics2:facade:0, Cable Facade - Black Stained Clay
 appliedenergistics2:facade:0, Cable Facade - Acacia Leaves
 appliedenergistics2:facade:0, Cable Facade - Dark Oak Leaves
 appliedenergistics2:facade:0, Cable Facade - Acacia Wood
@@ -6314,7 +6308,7 @@ appliedenergistics2:facade:0, Cable Facade - Prismarine Bricks
 appliedenergistics2:facade:0, Cable Facade - Dark Prismarine
 appliedenergistics2:facade:0, Cable Facade - Sea Lantern
 appliedenergistics2:facade:0, Cable Facade - Hay Bale
-appliedenergistics2:facade:0, Cable Facade - Terracotta
+appliedenergistics2:facade:0, Cable Facade - Hardened Clay
 appliedenergistics2:facade:0, Cable Facade - Block of Coal
 appliedenergistics2:facade:0, Cable Facade - Packed Ice
 appliedenergistics2:facade:0, Cable Facade - Red Sandstone
@@ -9923,34 +9917,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Tool Rod Pattern
 tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
 tconstruct:pattern:0, Cross Guard Pattern
 tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Shard Pattern
 tconstruct:pattern:0, Hammer Head Pattern
 tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
 tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Axe Head Pattern
 tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -11363,64 +11357,64 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Tool Rod Cast
 tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Pickaxe Head Cast
 tconstruct:cast:0, Cross Guard Cast
 tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Shard Cast
 tconstruct:cast:0, Hammer Head Cast
 tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Kama Head Cast
 tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Axe Head Cast
 tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Large Sword Blade Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
 tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
 tconstruct:clay_cast:0, Cross Guard Clay Cast
 tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
 tconstruct:clay_cast:0, Hammer Head Clay Cast
 tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
 tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
 tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -11506,24 +11500,6 @@ ftbquests:rare_lootcrate, Loot Crate
 ftbquests:epic_lootcrate, Loot Crate
 ftbquests:legendary_lootcrate, Loot Crate
 ftbquests:missing, Missing Item
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -11644,6 +11620,24 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 matc:inferiumcrystal, §eInferium Infusion Crystal
 matc:prudentiumcrystal, §2Prudentium Infusion Crystal
 matc:intermediumcrystal, §6Intermedium Infusion Crystal
@@ -12385,7 +12379,7 @@ chiselsandbits:block_bit:0, Chiseled Bit - Lapis Lazuli Block
 chiselsandbits:block_bit:0, Chiseled Bit - Sandstone
 chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Sandstone
 chiselsandbits:block_bit:0, Chiseled Bit - Smooth Sandstone
-chiselsandbits:block_bit:0, Chiseled Bit - White Wool
+chiselsandbits:block_bit:0, Chiseled Bit - Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Orange Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Magenta Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Light Blue Wool
@@ -12454,22 +12448,22 @@ chiselsandbits:block_bit:0, Chiseled Bit - Nether Quartz Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Quartz
 chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Quartz Block
 chiselsandbits:block_bit:0, Chiseled Bit - Pillar Quartz Block
-chiselsandbits:block_bit:0, Chiseled Bit - White Terracotta
-chiselsandbits:block_bit:0, Chiseled Bit - Orange Terracotta
-chiselsandbits:block_bit:0, Chiseled Bit - Magenta Terracotta
-chiselsandbits:block_bit:0, Chiseled Bit - Light Blue Terracotta
-chiselsandbits:block_bit:0, Chiseled Bit - Yellow Terracotta
-chiselsandbits:block_bit:0, Chiseled Bit - Lime Terracotta
-chiselsandbits:block_bit:0, Chiseled Bit - Pink Terracotta
-chiselsandbits:block_bit:0, Chiseled Bit - Gray Terracotta
-chiselsandbits:block_bit:0, Chiseled Bit - Light Gray Terracotta
-chiselsandbits:block_bit:0, Chiseled Bit - Cyan Terracotta
-chiselsandbits:block_bit:0, Chiseled Bit - Purple Terracotta
-chiselsandbits:block_bit:0, Chiseled Bit - Blue Terracotta
-chiselsandbits:block_bit:0, Chiseled Bit - Brown Terracotta
-chiselsandbits:block_bit:0, Chiseled Bit - Green Terracotta
-chiselsandbits:block_bit:0, Chiseled Bit - Red Terracotta
-chiselsandbits:block_bit:0, Chiseled Bit - Black Terracotta
+chiselsandbits:block_bit:0, Chiseled Bit - White Stained Clay
+chiselsandbits:block_bit:0, Chiseled Bit - Orange Stained Clay
+chiselsandbits:block_bit:0, Chiseled Bit - Magenta Stained Clay
+chiselsandbits:block_bit:0, Chiseled Bit - Light Blue Stained Clay
+chiselsandbits:block_bit:0, Chiseled Bit - Yellow Stained Clay
+chiselsandbits:block_bit:0, Chiseled Bit - Lime Stained Clay
+chiselsandbits:block_bit:0, Chiseled Bit - Pink Stained Clay
+chiselsandbits:block_bit:0, Chiseled Bit - Gray Stained Clay
+chiselsandbits:block_bit:0, Chiseled Bit - Light Gray Stained Clay
+chiselsandbits:block_bit:0, Chiseled Bit - Cyan Stained Clay
+chiselsandbits:block_bit:0, Chiseled Bit - Purple Stained Clay
+chiselsandbits:block_bit:0, Chiseled Bit - Blue Stained Clay
+chiselsandbits:block_bit:0, Chiseled Bit - Brown Stained Clay
+chiselsandbits:block_bit:0, Chiseled Bit - Green Stained Clay
+chiselsandbits:block_bit:0, Chiseled Bit - Red Stained Clay
+chiselsandbits:block_bit:0, Chiseled Bit - Black Stained Clay
 chiselsandbits:block_bit:0, Chiseled Bit - Acacia Leaves
 chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Leaves
 chiselsandbits:block_bit:0, Chiseled Bit - Acacia Wood Up/Down
@@ -12480,7 +12474,7 @@ chiselsandbits:block_bit:0, Chiseled Bit - Prismarine Bricks
 chiselsandbits:block_bit:0, Chiseled Bit - Dark Prismarine
 chiselsandbits:block_bit:0, Chiseled Bit - Sea Lantern
 chiselsandbits:block_bit:0, Chiseled Bit - Hay Bale Up/Down
-chiselsandbits:block_bit:0, Chiseled Bit - Terracotta
+chiselsandbits:block_bit:0, Chiseled Bit - Hardened Clay
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Coal
 chiselsandbits:block_bit:0, Chiseled Bit - Packed Ice
 chiselsandbits:block_bit:0, Chiseled Bit - Red Sandstone
@@ -15611,12 +15605,12 @@ magicbees:moondial, Jade Moon Dial
 magicbees:manasteelgrafter, Manasteel Grafter
 magicbees:manasteelscoop, Manasteel Scoop
 magicbees:frames.gentle, Gentle Frame
-magicbees:frames.magic, Magic Frame
 magicbees:frames.metabolic, Metabolic Frame
+magicbees:frames.resilient, Resilient Frame
+magicbees:frames.magic, Magic Frame
+magicbees:frames.necrotic, Necrotic Frame
 magicbees:frames.temporal, Temporal Frame
 magicbees:frames.oblivion, Oblivion Frame
-magicbees:frames.necrotic, Necrotic Frame
-magicbees:frames.resilient, Resilient Frame
 magicbees:hiveblock:0, Curious Hive
 magicbees:hiveblock:1, Unusual Hive
 magicbees:hiveblock:2, Resonating Hive
