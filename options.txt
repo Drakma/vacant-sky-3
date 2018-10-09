@@ -11,12 +11,12 @@ bobView:false
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:0
 fancyGraphics:true
 ao:2
 renderClouds:false
-resourcePacks:["Faithful 1.12.2-rv4.zip","[1.10.2]Dramatic Skys [v1.7].zip"]
-incompatibleResourcePacks:["[1.10.2]Dramatic Skys [v1.7].zip"]
+resourcePacks:["Faithful 1.12.2-rv4.zip","[1.10.2]Dramatic Skys [v1.7].zip","PackAssets"]
+incompatibleResourcePacks:["[1.10.2]Dramatic Skys [v1.7].zip","PackAssets"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -106,6 +106,17 @@ key_enderio.keybind.fovminusfast:0
 key_key.ftbquests.quests:34
 key_key.ftbutilities.warp:35
 key_key.ftbutilities.nbt:49:ALT
+key_ingameinfoxml.key.toggle:0
+key_Blink:33
+key_key.moreoverlays.lightoverlay.desc:65
+key_key.moreoverlays.chunkbounds.desc:67
+key_oreexcavation.key.excavate:41
+key_oreexcavation.key.shape:47
+key_key.thebomplugin.scrollmodifier:56
+key_key.toastcontrol.clear:36
+key_key.torcherino.useage_key:42
+key_key.narrator:48:CONTROL
+key_smoothfont.key.guiOpen:199
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -146,6 +157,21 @@ key_mod.chiselsandbits.other.undo:0
 key_mod.chiselsandbits.other.redo:0
 key_mod.chiselsandbits.other.add_to_clipboard:0
 key_key.cofh.multimode:47
+key_key.craftingtweaks.rotate:0
+key_key.craftingtweaks.rotate_counter_clockwise:0
+key_key.craftingtweaks.balance:0
+key_key.craftingtweaks.spread:0
+key_key.craftingtweaks.clear:0
+key_key.craftingtweaks.force_clear:0
+key_key.craftingtweaks.toggleButtons:0
+key_key.craftingtweaks.compressOne:37:CONTROL
+key_key.craftingtweaks.compressStack:37
+key_key.craftingtweaks.compressAll:37:SHIFT
+key_key.craftingtweaks.decompressOne:0
+key_key.craftingtweaks.decompressStack:0
+key_key.craftingtweaks.decompressAll:0
+key_key.craftingtweaks.refill_last:15
+key_key.craftingtweaks.refill_last_stack:15
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
