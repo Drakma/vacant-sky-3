@@ -1,3 +1,7 @@
 {
-  "materialMappings": {}
+  "materialMappings": {
+    "drakonium_rod": 2,
+    "drakonium_ingot": 1,
+    "drakonium_dust": 0
+  }
 }

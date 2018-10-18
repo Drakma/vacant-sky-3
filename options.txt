@@ -12,9 +12,9 @@ anaglyph3d:false
 maxFps:260
 fboEnable:true
 difficulty:2
-fancyGraphics:true
-ao:2
-renderClouds:true
+fancyGraphics:false
+ao:1
+renderClouds:fast
 resourcePacks:["Faithful 1.12.2-rv4.zip","[1.10.2]Dramatic Skys [v1.7].zip","PackAssets"]
 incompatibleResourcePacks:["[1.10.2]Dramatic Skys [v1.7].zip","PackAssets"]
 lastServer:
@@ -111,6 +111,8 @@ key_key.ftbquests.quests:38
 key_key.ftbutilities.warp:35
 key_key.ftbutilities.nbt:49:ALT
 key_ingameinfoxml.key.toggle:0
+key_key.ironbackpacks.equip:35
+key_key.ironbackpacks.open:23
 key_Blink:50
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67

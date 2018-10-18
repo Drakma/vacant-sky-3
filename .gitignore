@@ -9,3 +9,8 @@ crafttweaker.log
 /local
 /crash-reports
 config/MouseTweaks.cfg
+usercache.json
+config/MouseTweaks.cfg
+journeymap/journeymap.log
+/usercache.json
+/usernamecache.json
