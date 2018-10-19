@@ -3,5 +3,6 @@
   "minecraft:flowing_lava:-1": 3,
   "minecraft:lava:-1": 3,
   "thermalfoundation:fluid_pyrotheum:-1": 15,
-  "minecraft:torch:-1": 1
+  "minecraft:torch:-1": 1,
+  "immersiveengineering:storage:5": 50
 }

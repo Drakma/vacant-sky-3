@@ -14,7 +14,7 @@ fboEnable:true
 difficulty:2
 fancyGraphics:false
 ao:1
-renderClouds:fast
+renderClouds:false
 resourcePacks:["Faithful 1.12.2-rv4.zip","[1.10.2]Dramatic Skys [v1.7].zip","PackAssets"]
 incompatibleResourcePacks:["[1.10.2]Dramatic Skys [v1.7].zip","PackAssets"]
 lastServer:
