@@ -59,3 +59,9 @@ mods.jei.JEI.removeAndHide(<exnihilocreatio:block_granite_crushed>);
 mods.jei.JEI.removeAndHide(<exnihilocreatio:block_barrel0>);
 mods.jei.JEI.removeAndHide(<exnihilocreatio:block_barrel1>);
 mods.jei.JEI.removeAndHide(<exnihilocreatio:block_crucible_wood>);
+
+recipes.remove(<exnihilocreatio:block_sieve>);
+recipes.addShaped(<exnihilocreatio:block_sieve>, 
+  [[ <ore:plankWood>, null, <ore:plankWood>],
+   [ <ore:plankWood>, <ore:gearNickel>, <ore:plankWood>],
+   [ <ore:stick>, null, <ore:stick>]]);
