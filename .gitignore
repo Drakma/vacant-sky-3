@@ -14,3 +14,4 @@ config/MouseTweaks.cfg
 journeymap/journeymap.log
 /usercache.json
 /usernamecache.json
+config/Guide-API/Guide-API.cfg

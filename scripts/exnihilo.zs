@@ -64,4 +64,4 @@ recipes.remove(<exnihilocreatio:block_sieve>);
 recipes.addShaped(<exnihilocreatio:block_sieve>, 
   [[ <ore:plankWood>, null, <ore:plankWood>],
    [ <ore:plankWood>, <ore:gearNickel>, <ore:plankWood>],
-   [ <ore:stick>, null, <ore:stick>]]);
+   [ <ore:stickWood>, null, <ore:stickWood>]]);
