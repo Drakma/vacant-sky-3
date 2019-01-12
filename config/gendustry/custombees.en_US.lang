@@ -55,6 +55,8 @@ gendustry.bees.species.andesite=Andesite
 gendustry.bees.species.diorite=Diorite
 gendustry.bees.species.granite=Granite
 gendustry.bees.species.marble=Marble
+gendustry.bees.species.wither=Wither
+gendustry.bees.species.end_stone=End Stone
 
 gendustry.bees.species.dirt.description=Dirt
 gendustry.bees.species.leaves.description=Leaves
@@ -107,3 +109,5 @@ gendustry.bees.species.andesite.description=Andesite
 gendustry.bees.species.diorite.description=Diorite
 gendustry.bees.species.granite.description=Granite
 gendustry.bees.species.marble.description=Marble
+gendustry.bees.species.wither.description=Wither
+gendustry.bees.species.end_stone.description=End Stone

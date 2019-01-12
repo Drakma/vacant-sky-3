@@ -1,6 +1,11 @@
 {
   "outputs": [
     {
+      "target": "red",
+      "weight": 300,
+      "id": "woot:stygianironore"
+    },
+    {
       "target": "crystal",
       "weight": 200,
       "id": "environmentaltech:litherite_crystal"

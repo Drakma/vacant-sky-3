@@ -43,3 +43,11 @@ mods.tconstruct.Casting.addTableRecipe(<enderio:item_material:13>, <thermalfound
 mods.tconstruct.Casting.removeTableRecipe(<enderio:item_material:73>); // Dark Bimetal Gear
 mods.tconstruct.Casting.addTableRecipe(<enderio:item_material:73>, <thermalfoundation:material:24>, <liquid:dark_steel>, 1296, true, 800);
 
+mods.tconstruct.Casting.addTableRecipe(<thermalfoundation:material:24>, <thermalfoundation:material:23>, <liquid:iron>, 1296, true, 800);
+
+// ======================================================================
+// Drakonium
+// ======================================================================
+mods.tconstruct.Melting.addRecipe(<liquid:drakonium> * 144, <contenttweaker:material_part:0>);
+mods.tconstruct.Melting.addRecipe(<liquid:drakonium> * 144, <contenttweaker:material_part:1>);
+mods.tconstruct.Melting.addRecipe(<liquid:drakonium> * 72, <contenttweaker:material_part:2>);

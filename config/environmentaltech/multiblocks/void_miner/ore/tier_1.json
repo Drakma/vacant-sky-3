@@ -1,6 +1,11 @@
 {
   "outputs": [
     {
+      "target": "red",
+      "weight": 300,
+      "id": "woot:stygianironore"
+    },
+    {
       "target": "black",
       "weight": 1000,
       "id": "OD:oreCoal"
