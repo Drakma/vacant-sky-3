@@ -107,7 +107,7 @@ key_enderio.keybind.fovminusfast:0
 key_key.conarm.toggle_helm.desc:0
 key_key.conarm.toggle_chest.desc:0
 key_key.conarm.toggle_leg.desc:0
-key_key.ftbquests.quests:34
+key_key.ftbquests.quests:38
 key_key.ftbutilities.warp:35
 key_key.ftbutilities.nbt:49:ALT
 key_key.fart.desc:34
