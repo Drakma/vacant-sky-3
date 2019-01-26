@@ -15,8 +15,8 @@ difficulty:2
 fancyGraphics:false
 ao:1
 renderClouds:false
-resourcePacks:["Faithful 1.12.2-rv4.zip","[1.10.2]Dramatic Skys [v1.7].zip","PackAssets"]
-incompatibleResourcePacks:["[1.10.2]Dramatic Skys [v1.7].zip","PackAssets"]
+resourcePacks:["Faithful 1.12.2-rv4.zip","PackAssets","[1.10.2]Dramatic Skys [v1.7].zip"]
+incompatibleResourcePacks:["PackAssets","[1.10.2]Dramatic Skys [v1.7].zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -85,10 +85,7 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
-key_Change Caster Focus:0
-key_Misc Caster Toggle:0
 key_keybind.baublesinventory:0
-key_keybind.hammercorerenderstack:77
 key_enderio.keybind.glidertoggle:0
 key_enderio.keybind.soundlocator:0
 key_enderio.keybind.nightvision:25
@@ -104,12 +101,13 @@ key_enderio.keybind.fovplus:0
 key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
+key_keybind.hammercorerenderstack:77
 key_key.conarm.toggle_helm.desc:0
 key_key.conarm.toggle_chest.desc:0
 key_key.conarm.toggle_leg.desc:0
-key_key.ftbquests.quests:38
 key_key.ftbutilities.warp:35
 key_key.ftbutilities.nbt:49:ALT
+key_key.ftbquests.quests:38
 key_key.fart.desc:34
 key_ingameinfoxml.key.toggle:0
 key_key.ironbackpacks.equip:35
@@ -119,11 +117,14 @@ key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_oreexcavation.key.excavate:41
 key_oreexcavation.key.shape:47
+key_key.stellarapi.focusgui.description:22:CONTROL
 key_key.thebomplugin.scrollmodifier:56
 key_key.toastcontrol.clear:0
 key_key.torcherino.useage_key:42
+key_key.open_wct.desc:0
 key_key.narrator:48:CONTROL
 key_smoothfont.key.guiOpen:199
+key_key.toggle_focus.desc:15
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -134,7 +135,7 @@ key_key.jei.previousPage:201
 key_key.jei.nextPage:209
 key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
-key_key.toggle_focus.desc:15
+key_key.cofh.multimode:47
 key_bbw.key.mode:0
 key_bbw.key.fluidmode:0
 key_mod.chiselsandbits.chiselmode.single:0
@@ -165,7 +166,6 @@ key_mod.chiselsandbits.other.offgrid:0
 key_mod.chiselsandbits.other.undo:44:CONTROL
 key_mod.chiselsandbits.other.redo:19:CONTROL
 key_mod.chiselsandbits.other.add_to_clipboard:0
-key_key.cofh.multimode:47
 key_key.craftingtweaks.rotate:0
 key_key.craftingtweaks.rotate_counter_clockwise:0
 key_key.craftingtweaks.balance:0
