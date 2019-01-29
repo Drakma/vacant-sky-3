@@ -129,16 +129,19 @@
 				"material": "minecraft:stone",
 				"cluster-size": 17
 			},
-			"cluster-count": 20,
+			"cluster-count": 0,
 			"min-height": 0,
-			"max-height": 128,
+			"max-height": 0,
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
 					-1,
-					1
+          0,
+          1,
+          1215,
+          1216
 				]
 			}
 		},
@@ -158,9 +161,12 @@
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
-					-1,
-					1
-				]
+          -1,
+          0,
+          1,
+          1215,
+          1216
+        ]
 			}
 		},
 
@@ -179,9 +185,12 @@
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
-					-1,
-					1
-				]
+          -1,
+          0,
+          1,
+          1215,
+          1216
+        ]
 			}
 		},
 
@@ -200,9 +209,12 @@
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
-					-1,
-					1
-				]
+          -1,
+          0,
+          1,
+          1215,
+          1216
+        ]
 			}
 		},
 
@@ -221,9 +233,12 @@
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
-					-1,
-					1
-				]
+          -1,
+          0,
+          1,
+          1215,
+          1216
+        ]
 			}
 		},
 
@@ -242,9 +257,12 @@
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
-					-1,
-					1
-				]
+          -1,
+          0,
+          1,
+          1215,
+          1216
+        ]
 			}
 		},
 
@@ -281,9 +299,12 @@
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
-					-1,
-					1
-				]
+          -1,
+          0,
+          1,
+          1215,
+          1216
+        ]
 			}
 		},
 
@@ -361,9 +382,12 @@
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
-					-1,
-					1
-				]
+          -1,
+          0,
+          1,
+          1215,
+          1216
+        ]
 			}
 		},
 
@@ -387,7 +411,16 @@
 					}
 				]
 			},
-			"dimension": "all"
-		}
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          -1,
+          0,
+          1,
+          1215,
+          1216
+        ]
+      }
+    }
 	}
 }

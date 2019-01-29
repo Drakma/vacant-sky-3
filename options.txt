@@ -105,7 +105,6 @@ key_keybind.hammercorerenderstack:77
 key_key.conarm.toggle_helm.desc:0
 key_key.conarm.toggle_chest.desc:0
 key_key.conarm.toggle_leg.desc:0
-key_key.ftbutilities.warp:35
 key_key.ftbutilities.nbt:49:ALT
 key_key.ftbquests.quests:38
 key_key.fart.desc:34
@@ -117,11 +116,13 @@ key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_oreexcavation.key.excavate:41
 key_oreexcavation.key.shape:47
-key_key.stellarapi.focusgui.description:22:CONTROL
 key_key.thebomplugin.scrollmodifier:56
 key_key.toastcontrol.clear:0
 key_key.torcherino.useage_key:42
 key_key.open_wct.desc:0
+key_Strip World:211
+key_Dress World:210
+key_Inspect Block:199
 key_key.narrator:48:CONTROL
 key_smoothfont.key.guiOpen:199
 key_key.toggle_focus.desc:15
