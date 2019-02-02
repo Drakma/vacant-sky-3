@@ -44,3 +44,8 @@ recipes.addShaped(<thermalfoundation:material:22>,
   [[ null, <ore:stickWood>, null],
    [ <ore:stickWood>, null, <ore:stickWood>],
    [ null, <ore:stickWood>, null]]);
+
+recipes.addShaped(<thermalfoundation:material:23>, 
+  [[ null, <ore:cobblestone>, null],
+   [ <ore:cobblestone>, <ore:gearWood>, <ore:cobblestone>],
+   [ null, <ore:cobblestone>, null]]);

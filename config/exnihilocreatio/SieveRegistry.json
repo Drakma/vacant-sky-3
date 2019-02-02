@@ -218,17 +218,17 @@
   "ore:dirt": [
     {
       "drop": "minecraft:wheat_seeds:-1",
-      "chance": 0.7,
+      "chance": 0.07,
       "meshLevel": 1
     },
     {
       "drop": "minecraft:melon_seeds:-1",
-      "chance": 0.35,
+      "chance": 0.05,
       "meshLevel": 1
     },
     {
       "drop": "minecraft:pumpkin_seeds:-1",
-      "chance": 0.35,
+      "chance": 0.05,
       "meshLevel": 1
     },
     {
@@ -250,6 +250,41 @@
       "drop": "exnihilocreatio:item_seed_potato:-1",
       "chance": 0.05,
       "meshLevel": 1
+    },
+    {
+      "drop": "minecraft:wheat_seeds:-1",
+      "chance": 0.15,
+      "meshLevel": 2
+    },
+    {
+      "drop": "minecraft:melon_seeds:-1",
+      "chance": 0.10,
+      "meshLevel": 2
+    },
+    {
+      "drop": "minecraft:pumpkin_seeds:-1",
+      "chance": 0.10,
+      "meshLevel": 2
+    },
+    {
+      "drop": "dynamictrees:cactusseed",
+      "chance": 0.10,
+      "meshLevel": 2
+    },
+    {
+      "drop": "exnihilocreatio:item_seed_sugarcane:-1",
+      "chance": 0.10,
+      "meshLevel": 2
+    },
+    {
+      "drop": "exnihilocreatio:item_seed_carrot:-1",
+      "chance": 0.10,
+      "meshLevel": 2
+    },
+    {
+      "drop": "exnihilocreatio:item_seed_potato:-1",
+      "chance": 0.10,
+      "meshLevel": 2
     },
     {
       "drop": {

@@ -57,6 +57,8 @@ gendustry.bees.species.granite=Granite
 gendustry.bees.species.marble=Marble
 gendustry.bees.species.wither=Wither
 gendustry.bees.species.end_stone=End Stone
+gendustry.bees.species.zombie=Zombie
+gendustry.bees.species.soul_sand=Soul Sand
 
 gendustry.bees.species.dirt.description=Dirt
 gendustry.bees.species.leaves.description=Leaves
@@ -111,3 +113,5 @@ gendustry.bees.species.granite.description=Granite
 gendustry.bees.species.marble.description=Marble
 gendustry.bees.species.wither.description=Wither
 gendustry.bees.species.end_stone.description=End Stone
+gendustry.bees.species.zombie.description=Zombie
+gendustry.bees.species.soul_sand.description=Soul Sand

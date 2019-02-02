@@ -5,13 +5,35 @@
   },
   "dimensions": [
     {
+      "dim": 0,
+      "biome": "plains",
+      "dimensiontype": {
+        "id": 0,
+        "name": "Overworld",
+        "suffix": "_dim0",
+        "keeploaded": true,
+        "worldprovider": "void"
+      },
+      "worldinfo_onetime": {
+        "raining": false,
+        "difficulty": "normal",
+        "GameRules": {
+          "doDaylightCycle": "false",
+          "doWeatherCycle": "false",
+          "naturalRegeneration": "true"
+        },
+        "DayTime": "7000",
+        "generatorName": "default"
+      }
+    },
+    {
       "dim": 1215,
       "biome": "ice_mountains",
       "dimensiontype": {
         "id": 1215,
         "name": "Cold Dark",
         "suffix": "_dim1215",
-        "keeploaded": false,
+        "keeploaded": true,
         "worldprovider": "WorldProviderSurfaceJED"
       },
       "worldinfo": {
@@ -40,7 +62,7 @@
         "id": 1216,
         "name": "Oven Baked",
         "suffix": "_dim1216",
-        "keeploaded": false,
+        "keeploaded": true,
         "worldprovider": "WorldProviderHellJED"
       },
       "jed": {
@@ -65,7 +87,7 @@
         "id": 1217,
         "name": "Deep Tan",
         "suffix": "_dim1217",
-        "keeploaded": false,
+        "keeploaded": true,
         "worldprovider": "WorldProviderSurfaceJED"
       },
       "jed": {
@@ -83,6 +105,33 @@
         },
         "generatorName": "default",
         "DayTime": "6000"
+      }
+    },
+    {
+      "dim": 1218,
+      "biome": "sky",
+      "dimensiontype": {
+        "id": 1217,
+        "name": "Faux End",
+        "suffix": "_dim1218",
+        "keeploaded": true,
+        "worldprovider": "WorldProviderEndJED"
+      },
+      "jed": {
+        "SkyColor": "111111",
+        "FogColor": "99aa99",
+        "CloudColor": "000000"
+      },
+      "worldinfo_onetime": {
+        "raining": "false",
+        "difficulty": "normal",
+        "GameRules": {
+          "doDaylightCycle": "false",
+          "doWeatherCycle": "false",
+          "naturalRegeneration": "false"
+        },
+        "generatorName": "default",
+        "DayTime": "19000"
       }
     }
   ]
