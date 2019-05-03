@@ -5,7 +5,7 @@ recipes.addShaped(<gendustry:industrial_apiary>,
    [ <ore:gearWood>, <ore:dropHoney>, <ore:gearWood>]]);
 <gendustry:industrial_apiary>.displayName = "Apiary";
 
-recipes.addShaped(<gendustry:upgrade_frame>,
-  [[ <ore:ingotTin>, <ore:plankWood>, <ore:ingotTin>],
-   [ <ore:ingotTin>, <ore:cobblestone>, <ore:ingotTin>],
-   [ <ore:ingotTin>, <ore:plankWood>, <ore:ingotTin>]]);
+recipes.addShaped(<gendustry:upgrade_frame> * 4,
+  [[ <ore:plateTin>, <ore:plankWood>, <ore:plateTin>],
+   [ <ore:plateTin>, <ore:cobblestone>, <ore:plateTin>],
+   [ <ore:plateTin>, <ore:plankWood>, <ore:plateTin>]]);

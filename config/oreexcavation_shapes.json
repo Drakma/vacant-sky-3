@@ -6,7 +6,7 @@
       "reticle": 12,
       "mask": [
         "OOOOO",
-        "OOOOO",
+        "OOXOO",
         "OOXOO",
         "OOXOO",
         "OOOOO"
@@ -34,6 +34,18 @@
         "XXXXX",
         "XXXXX",
         "XXXXX"
+      ]
+    },
+    {
+      "name": "New Shape",
+      "depth": -1,
+      "reticle": 12,
+      "mask": [
+        "OOOOO",
+        "OXXXO",
+        "OXXXO",
+        "OXXXO",
+        "OOOOO"
       ]
     }
   ]

@@ -123,6 +123,16 @@
   ],
   "ore:sand": [
     {
+      "drop": "minecraft:reads",
+      "chance": 0.15,
+      "meshLevel": 1
+    },
+    {
+      "drop": "minecraft:reads",
+      "chance": 0.35,
+      "meshLevel": 2
+    },
+    {
       "drop": {
         "name": "forestry:bee_princess_ge",
         "meta": 0,

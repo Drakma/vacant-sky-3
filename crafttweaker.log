@@ -1,0 +1,249 @@
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: casesframes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: contenttweaker\tweaks.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: exnihilo.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: forestry.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: furnace.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: gearsrodsplates.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: gendustry.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: minecraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: mystical-agriculture.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: pedestal-crafting.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: simple-networks.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: sky-orchards.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: storage-drawers.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: tconstruct.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: thermal-expansion.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: thermal-logistics.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: thermal.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: yabba.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 2ms
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [contenttweaker]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [contenttweaker]
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: casesframes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Loading Script: {[0:contenttweaker]: contenttweaker\tweaks.zs}
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: exnihilo.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: forestry.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: furnace.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: gearsrodsplates.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: gendustry.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: minecraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: mystical-agriculture.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: pedestal-crafting.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: simple-networks.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: sky-orchards.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: storage-drawers.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: tconstruct.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: thermal-expansion.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: thermal-logistics.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: thermal.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: yabba.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 353ms
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [contenttweaker], [recipeevent | crafttweaker]]
+[INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: casesframes.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: contenttweaker\tweaks.zs} as we are currently loading with a different loader
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: exnihilo.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: forestry.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: furnace.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: gearsrodsplates.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: gendustry.zs}
+[INITIALIZATION][CLIENT][INFO] Translating tile.gendustry.industrial_apiary.name to Apiary
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: minecraft.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: mystical-agriculture.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: pedestal-crafting.zs}
+[INITIALIZATION][CLIENT][INFO] Translating tile.pedestal.lapis.name to Pedestal
+[INITIALIZATION][CLIENT][INFO] Translating tile.pedestal_core.lapis.name to Pedestal Core
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Granite Sapling
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Diorite Sapling
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Andesite Sapling
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Marble Sapling
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Lumium Sapling
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Signalum Sapling
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Enderium Sapling
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Platinum Sapling
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: simple-networks.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: sky-orchards.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: storage-drawers.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: tconstruct.zs}
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:cast_custom:4>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <enderio:item_material:12>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <enderio:item_material:13>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <enderio:item_material:73>
+[INITIALIZATION][CLIENT][INFO] Altering Alloy Recipe(s) for <liquid:signalum>
+[INITIALIZATION][CLIENT][INFO] Altering Alloy Recipe(s) for <liquid:enderium>
+[INITIALIZATION][CLIENT][INFO] Altering Alloy Recipe(s) for <liquid:lumium>
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: thermal-expansion.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: thermal-logistics.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: thermal.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: yabba.zs}
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 205ms
+[INITIALIZATION][CLIENT][INFO] Translating tile.gendustry.industrial_apiary.name to Apiary
+[INITIALIZATION][CLIENT][INFO] Translating tile.pedestal.lapis.name to Pedestal
+[INITIALIZATION][CLIENT][INFO] Translating tile.pedestal_core.lapis.name to Pedestal Core
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sturdy Casing with name ct_shaped-1800605269
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Machine Frame with name ct_shaped-750307927
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Device Frame with name ct_shaped253841569
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Energy Cell Frame with name ct_shaped-1660420954
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Simple Machine Chassis with name ct_shaped157460789
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sieve with name ct_shaped-89678313
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Portable Analyzer with name ct_shaped1870785880
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Bee House with name ct_shaped-722352728
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wooden Gear with name ct_shaped11776001
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Stone Gear with name ct_shaped1301928487
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Apiary with name ct_shaped361251836
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Upgrade Frame with name ct_shaped-523844246
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Furnace with name ct_shaped1641947415
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Hopper with name ct_shaped734788294
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Pedestal with name ct_shaped875155697
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Pedestal Core with name ct_shaped1454404500
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Andesite with name ct_shaped-1618497995
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Andesite with name ct_shaped2010269749
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Diorite with name ct_shaped1687015479
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Diorite with name ct_shaped139874359
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Marble with name ct_shaped601696980
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Marble with name ct_shaped-1710012204
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Granite with name ct_shaped2026099897
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Granite with name ct_shaped-721726279
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Storage Network Master with name ct_shaped-341172573
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Storage Request Table with name ct_shaped487640646
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Storage Cable with name ct_shaped-1355001086
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Controller with name ct_shaped947315705
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lumium Amber with name ct_shaped-256629865
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Signalum Amber with name ct_shaped-979446601
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enderium Amber with name ct_shaped774201047
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Platinum Amber with name ct_shaped-732473801
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Drawer Controller with name ct_shaped-1545906003
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Terminal with name ct_shaped92819319
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Item Barrel Connector with name ct_shaped-806948001
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Item Barrel with name ct_shapeless-1443179488
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Tier with name ct_shaped-128343014
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gold Tier with name ct_shaped-1679682174
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Diamond Tier with name ct_shaped-1480768
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Infinite Capacity with name ct_shaped-212923144
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Items with name ct_shaped1314041511
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Collect Pickups with name ct_shapeless-2009917362
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Obsidian Shell with name ct_shaped-446483937
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Barrel Hammer with name ct_shaped1150293240
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Barrel Painter with name ct_shaped-1467806753
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Barrel Wrench with name ct_shaped-1932627052
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <minecraft:glass>
+[POSTINITIALIZATION][CLIENT][INFO] 2 recipes removed for: <minecraft:glass>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <minecraft:coal>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <minecraft:coal>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <minecraft:coal:1>
+[POSTINITIALIZATION][CLIENT][INFO] 28 recipes removed for: <minecraft:coal:1>
+[POSTINITIALIZATION][CLIENT][INFO] Applying MrCrayfish's Furniture Mod changes...
+[AVAILABLE][CLIENT][INFO] Altering Forestry Carpenter Recipe(s) for Portable Analyzer
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <mysticalagriculture:magnesium_seeds>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <mysticalagriculture:thorium_seeds>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <mysticalagriculture:boron_seeds>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <mysticalagriculture:lithium_seeds>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <mysticalagriculture:iridium_seeds>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <mysticalagriculture:uranium_seeds>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <contenttweaker:material_part:4>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <contenttweaker:material_part:6>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <contenttweaker:material_part:8>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <contenttweaker:material_part:10>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <contenttweaker:material_part:12>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <contenttweaker:material_part:14>
+[AVAILABLE][CLIENT][INFO] Altering Alloy Recipe(s) for <liquid:superium-_magnesium> * 1296
+[AVAILABLE][CLIENT][INFO] Altering Alloy Recipe(s) for <liquid:superium-_thorium> * 1296
+[AVAILABLE][CLIENT][INFO] Altering Alloy Recipe(s) for <liquid:superium-_boron> * 1296
+[AVAILABLE][CLIENT][INFO] Altering Alloy Recipe(s) for <liquid:superium-_lithium> * 1296
+[AVAILABLE][CLIENT][INFO] Altering Alloy Recipe(s) for <liquid:supremium-_iridium> * 1296
+[AVAILABLE][CLIENT][INFO] Altering Alloy Recipe(s) for <liquid:supremium-_uranium> * 1296
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:superium-_magnesium> * 144
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:superium-_thorium> * 144
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:superium-_boron> * 144
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:superium-_lithium> * 144
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:supremium-_iridium> * 144
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:supremium-_uranium> * 144
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:cast_custom:4>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:cast_custom:4>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:23>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:352>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:288>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <enderio:item_material:12>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <enderio:item_material:13>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <enderio:item_material:73>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:24>
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:drakonium> * 144
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:drakonium> * 144
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:drakonium> * 72
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <thermalfoundation:material:166> * 2
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <thermalfoundation:material:165> * 2
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <thermalfoundation:material:167> * 2
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <thermalfoundation:material:134> * 2
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_platinum:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_platinum>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_aluminum:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_aluminum>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_cobalt:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_cobalt>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_ardite:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_ardite>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_uranium:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_uranium>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_nickel:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_nickel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_silver:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_silver>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_lead:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_lead>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_aluminium:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_aluminium:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_aluminium>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_tin:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_tin>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_copper:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_copper>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_iron:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_iron>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_gold:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_gold>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:hammer_wood>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:hammer_stone>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:hammer_iron>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:hammer_diamond>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:hammer_gold>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_material:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_pebble>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_pebble:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_pebble:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_pebble:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_doll>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_doll:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_doll:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_doll:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_doll:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_doll:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_doll:6>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_doll:7>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_seed_oak>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_seed_spruce>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_seed_birch>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_seed_jungle>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_seed_acacia>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_seed_darkoak>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:block_dust>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:block_netherrack_crushed>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:block_endstone_crushed>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:block_skystone_crushed>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:block_andesite_crushed>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:block_diorite_crushed>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:block_granite_crushed>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:block_barrel0>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:block_barrel1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:block_crucible_wood>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forestry:apiary>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forestry:gear_bronze>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forestry:gear_tin>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forestry:gear_copper>
+[SERVER_STARTED][CLIENT][INFO] Fixed the RecipeBook

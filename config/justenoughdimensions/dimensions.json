@@ -12,96 +12,131 @@
         "name": "Overworld",
         "suffix": "_dim0",
         "keeploaded": true,
-        "worldprovider": "void"
+        "worldprovider": "WorldProviderSurfaceJED"
+      },
+      "jed": {
+        "CanRespawnHere": true,
+        "CanDoLightning": false,
+        "CanDoRainSnowIce": false,
+        "SkyColor": "666699",
+        "CanSpawnPeacefulMobs": false
       },
       "worldinfo_onetime": {
         "raining": false,
         "difficulty": "normal",
         "GameRules": {
-          "doDaylightCycle": "false",
-          "doWeatherCycle": "false",
-          "naturalRegeneration": "true"
+          "doDaylightCycle": false,
+          "doWeatherCycle": false,
+          "naturalRegeneration": true
         },
-        "DayTime": "7000",
-        "generatorName": "default"
+        "DayTime": "10000",
+        "generatorName": "voidworld"
       }
     },
     {
       "dim": 1215,
-      "biome": "ice_mountains",
+      "biome": "biomesoplenty:snowy_forest",
       "dimensiontype": {
         "id": 1215,
-        "name": "Cold Dark",
+        "name": "Deep Freeze",
         "suffix": "_dim1215",
-        "keeploaded": true,
+        "keeploaded": false,
         "worldprovider": "WorldProviderSurfaceJED"
       },
-      "worldinfo": {
-        "JED": {
-          "SkyColor": "111111",
-          "FogColor": "444444",
-          "CloudColor": "666666"
-        }
+      "jed": {
+        "CanRespawnHere": false,
+        "RespawnDimension": 0,
+        "CanSleepHere": "bed_explodes",
+        "CanDoLightning": true,
+        "CanDoRainSnowIce": true,
+        "SkyColor": "111111",
+        "FogColor": "444444",
+        "CloudColor": "666666",
+        "CanSpawnHostiles": false,
+        "CanSpawnPeacefulMobs": false
       },
       "worldinfo_onetime": {
-        "raining": "true",
-        "difficulty": "hard",
-        "thundering": "true",
+        "raining": true,
+        "difficulty": "normal",
+        "RandomSeed": "",
+        "thundering": true,
         "GameRules": {
-          "doDaylightCycle": "false",
-          "naturalRegeneration": "false"
+          "doDaylightCycle": false,
+          "naturalRegeneration": false
         },
         "DayTime": "17000",
-        "generatorName": "default"
+        "generatorName": "BIOMESOP"
       }
     },
     {
       "dim": 1216,
-      "biome": "hell",
+      "biome": "biomesoplenty:undergarden",
       "dimensiontype": {
         "id": 1216,
-        "name": "Oven Baked",
+        "name": "Limbo",
         "suffix": "_dim1216",
-        "keeploaded": true,
+        "keeploaded": false,
         "worldprovider": "WorldProviderHellJED"
       },
       "jed": {
         "SkyColor": "eeaaaa",
         "FogColor": "331111",
-        "CloudColor": "ee9999"
+        "CloudColor": "ee9999",
+        "CanRespawnHere": false,
+        "RespawnDimension": 0,
+        "CanSleepHere": "bed_explodes",
+        "CanDoLightning": false,
+        "CanDoRainSnowIce": false,
+        "CloudRenderer": "DummyRenderer",
+        "DisableDawnDuskColors": true,
+        "HasXZFog": true,
+        "IsSurfaceWorld": false,
+        "MovementFactor": 8,
+        "MusicType": "nether",
+        "SkyRenderer": "DummyRenderer",
+        "WeatherRenderer": "DummyRenderer",
+        "CanSpawnHostiles": false,
+        "CanSpawnPeacefulMobs": false
       },
       "worldinfo_onetime": {
-        "difficulty": "hard",
+        "difficulty": "normal",
+        "RandomSeed": "",
         "GameRules": {
-          "doDaylightCycle": "false",
-          "naturalRegeneration": "false"
+          "naturalRegeneration": false
         },
-        "generatorName": "default",
-        "DayTime": "18000"
+        "generatorName": "BIOMESOP"
       }
     },
     {
       "dim": 1217,
-      "biome": "desert_hills",
+      "biome": "desert",
       "dimensiontype": {
         "id": 1217,
-        "name": "Deep Tan",
+        "name": "Neverending Sun",
         "suffix": "_dim1217",
-        "keeploaded": true,
+        "keeploaded": false,
         "worldprovider": "WorldProviderSurfaceJED"
       },
       "jed": {
+        "CanRespawnHere": false,
+        "RespawnDimension": 0,
+        "CanSleepHere": "bed_explodes",
+        "CanDoLightning": false,
+        "CanDoRainSnowIce": false,
         "SkyColor": "666699",
         "FogColor": "9999aa",
-        "CloudColor": "9999ee"
+        "CloudColor": "9999ee",
+        "CanSpawnHostiles": false,
+        "CanSpawnPeacefulMobs": false
       },
       "worldinfo_onetime": {
-        "raining": "false",
-        "difficulty": "hard",
+        "RandomSeed": "",
+        "raining": false,
+        "difficulty": "normal",
         "GameRules": {
-          "doDaylightCycle": "false",
-          "doWeatherCycle": "false",
-          "naturalRegeneration": "false"
+          "doDaylightCycle": false,
+          "doWeatherCycle": false,
+          "naturalRegeneration": false
         },
         "generatorName": "default",
         "DayTime": "6000"
@@ -109,28 +144,68 @@
     },
     {
       "dim": 1218,
-      "biome": "sky",
+      "biome": "biomesoplenty:glacier",
       "dimensiontype": {
-        "id": 1217,
-        "name": "Faux End",
+        "id": 1218,
+        "name": "Penultimata",
         "suffix": "_dim1218",
-        "keeploaded": true,
+        "keeploaded": false,
         "worldprovider": "WorldProviderEndJED"
       },
       "jed": {
         "SkyColor": "111111",
-        "FogColor": "99aa99",
-        "CloudColor": "000000"
+        "CloudColor": "000000",
+        "DisableEnderDragon": true,
+        "DisableEndSpikes": true,
+        "CanSpawnHostiles": false,
+        "CanSpawnPeacefulMobs": false
       },
       "worldinfo_onetime": {
-        "raining": "false",
+        "RandomSeed": "",
+        "raining": false,
         "difficulty": "normal",
         "GameRules": {
-          "doDaylightCycle": "false",
-          "doWeatherCycle": "false",
-          "naturalRegeneration": "false"
+          "doDaylightCycle": false,
+          "doWeatherCycle": false,
+          "naturalRegeneration": false
         },
-        "generatorName": "default",
+        "generatorName": "BIOMESOP",
+        "DayTime": "19000"
+      }
+    },
+    {
+      "dim": 1220,
+      "biome": "biomesoplenty:ominous_woods",
+      "dimensiontype": {
+        "id": 1220,
+        "name": "Ominous Woods",
+        "suffix": "_dim1220",
+        "keeploaded": false,
+        "worldprovider": "WorldProviderSurfaceJED"
+      },
+      "jed": {
+        "SkyColor": "111111",
+        "CloudColor": "000000",
+        "CanRespawnHere": false,
+        "RespawnDimension": 0,
+        "CanSleepHere": "bed_explodes",
+        "CanDoLightning": true,
+        "CanDoRainSnowIce": true,
+        "DisableEnderDragon": true,
+        "DisableEndSpikes": true,
+        "CanSpawnHostiles": true,
+        "CanSpawnPeacefulMobs": false
+      },
+      "worldinfo_onetime": {
+        "RandomSeed": "",
+        "raining": false,
+        "difficulty": "hard",
+        "GameRules": {
+          "doDaylightCycle": false,
+          "doWeatherCycle": false,
+          "naturalRegeneration": false
+        },
+        "generatorName": "BIOMESOP",
         "DayTime": "19000"
       }
     }

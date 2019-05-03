@@ -1,4 +1,12 @@
+// ======================================================================
+// Forestry
+// ======================================================================
+
+// Remove and Hide
 mods.jei.JEI.removeAndHide(<forestry:apiary>);
+mods.jei.JEI.removeAndHide(<forestry:gear_bronze>);
+mods.jei.JEI.removeAndHide(<forestry:gear_tin>);
+mods.jei.JEI.removeAndHide(<forestry:gear_copper>);
 mods.forestry.Carpenter.removeRecipe(<forestry:portable_alyzer>);
 
 recipes.remove(<forestry:portable_alyzer>);

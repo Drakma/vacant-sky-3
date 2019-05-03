@@ -1,8 +1,20 @@
 {
   "materialMappings": {
     "drakonium_rod": 2,
+    "superium-_lithium_molten": 11,
+    "superium-_magnesium_ingot": 4,
     "drakonium_ingot": 1,
+    "superium-_boron_molten": 9,
+    "superium-_thorium_ingot": 6,
     "drakonium_molten": 3,
-    "drakonium_dust": 0
+    "drakonium_dust": 0,
+    "supremium-_uranium_molten": 15,
+    "superium-_lithium_ingot": 10,
+    "supremium-_iridium_ingot": 12,
+    "supremium-_iridium_molten": 13,
+    "superium-_thorium_molten": 7,
+    "supremium-_uranium_ingot": 14,
+    "superium-_boron_ingot": 8,
+    "superium-_magnesium_molten": 5
   }
 }

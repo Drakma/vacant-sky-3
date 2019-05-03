@@ -1,0 +1,319 @@
+[11:14:46] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[11:14:46] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[11:14:46] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2807 for Minecraft 1.12.2 loading
+[11:14:46] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_131, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_131
+[11:14:48] [main/INFO] [FML]: Searching C:\Users\Debra\Documents\Curse\Minecraft\Instances\Vacant Sky 3.0 (3) (1)\mods for mods
+[11:14:48] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in astralsorcery-1.12.2-1.10.10.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[11:14:48] [main/WARN] [FML]: The coremod hellfirepvp.astralsorcery.core.AstralCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[11:14:48] [main/INFO] [Astral Core]: [AstralCore] Initialized.
+[11:14:48] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[11:14:48] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Blur-1.0.4-14.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[11:14:48] [main/WARN] [FML]: The coremod com.tterrag.blur.BlurPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[11:14:48] [main/WARN] [FML]: The coremod BlurPlugin (com.tterrag.blur.BlurPlugin) is not signed!
+[11:14:48] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-0.3.3.22.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[11:14:48] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[11:14:48] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[11:14:48] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in EnderCore-1.12.2-0.5.43.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[11:14:48] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.10.3-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[11:14:48] [main/WARN] [FML]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[11:14:48] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[11:14:48] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[11:14:48] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[11:14:48] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in HammerCore-1.12.2-2.0.4.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[11:14:48] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[11:14:48] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[11:14:48] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from malisiscore-1.12.2-6.4.0.jar
+[11:14:48] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_E2.jar
+[11:14:48] [main/WARN] [FML]: The coremod com.therandomlabs.randompatches.core.RPCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[11:14:48] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ResourceLoader-MC1.12.1-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[11:14:48] [main/WARN] [FML]: The coremod lumien.resourceloader.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[11:14:48] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in SmoothFont-mc1.12.2-1.16.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[11:14:48] [main/WARN] [FML]: The coremod bre.smoothfont.asm.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[11:14:48] [main/WARN] [FML]: The coremod CorePlugin (bre.smoothfont.asm.CorePlugin) is not signed!
+[11:14:48] [main/WARN] [FML]: The coremod blusunrize.immersiveengineering.common.asm.IELoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[11:14:48] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:14:48] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[11:14:48] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[11:14:48] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.7.4 Source=file:/C:/Users/Debra/Documents/Curse/Minecraft/Instances/Vacant%20Sky%203.0%20(3)%20(1)/mods/malisiscore-1.12.2-6.4.0.jar Service=LaunchWrapper Env=CLIENT
+[11:14:48] [main/WARN] [FML]: The coremod net.malisis.core.asm.MalisisCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[11:14:48] [main/WARN] [FML]: The coremod MalisisCorePlugin (net.malisis.core.asm.MalisisCorePlugin) is not signed!
+[11:14:48] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[11:14:48] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[11:14:48] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[11:14:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:14:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:14:48] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[11:14:48] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[11:14:48] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[11:14:48] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:221]: OptiFine ClassTransformer
+[11:14:48] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:221]: OptiFine ZIP file: C:\Users\Debra\Documents\Curse\Minecraft\Instances\Vacant Sky 3.0 (3) (1)\mods\OptiFine_1.12.2_HD_U_E2.jar
+[11:14:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:14:51] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[11:14:51] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[11:14:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:14:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:14:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:14:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:14:51] [main/INFO] [SmoothFontCore ASM]: OptiFine was detected.
+[11:14:51] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[11:14:51] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@6a48a7f3
+[11:14:51] [main/INFO] [LaunchWrapper]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[11:14:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[11:14:51] [main/INFO] [Astral Core]: [AstralTransformer] Loading patches...
+[11:14:51] [main/INFO] [Astral Core]: [AstralTransformer] Found 0 Transformers! Trying to recover with direct references...
+[11:14:51] [main/INFO] [Astral Core]: [AstralTransformer] Initialized! Loaded 15 class patches!
+[11:14:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:14:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:14:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:14:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:14:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:14:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:14:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:14:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:14:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:14:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[11:14:52] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[11:14:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[11:14:52] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[11:14:52] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[11:14:52] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.world.World (amu)...
+[11:14:52] [main/INFO] [Hammer Core [ASM]]:   -Patching World...
+[11:14:52] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.com.zeitheron.hammercore.asm.HammerCoreTransformer' was detected and will no longer process meta class data
+[11:14:52] [main/INFO] [Astral Core]: [AstralTransformer] Transforming amu : net.minecraft.world.World with 2 patches!
+[11:14:52] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCLIENT
+[11:14:52] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCOMMON
+[11:14:52] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:112]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[11:14:52] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:149]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[11:14:52] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:65]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
+[11:14:52] [main/INFO] [Astral Core]: [AstralTransformer] Transforming axw : net.minecraft.world.chunk.Chunk with 1 patches!
+[11:14:52] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHBLOCKMODIFY
+[11:14:52] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:75]: Replaced NEW for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[11:14:52] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:87]: Replaced INVOKESPECIAL for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[11:14:52] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.pl.asie.foamfix.coremod.FoamFixTransformer' was detected and will no longer process meta class data
+[11:14:52] [main/INFO] [Astral Core]: [AstralTransformer] Transforming pa : net.minecraft.network.NetHandlerPlayServer with 1 patches!
+[11:14:52] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSERVEREXTENDENTITYINTERACTREACH
+[11:14:52] [main/INFO] [Astral Core]: [AstralTransformer] Transforming aip : net.minecraft.item.ItemStack with 2 patches!
+[11:14:52] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHMODIFYENCHANTMENTLEVELSTOOLTIP
+[11:14:52] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHMODIFYENCHANTMENTLEVELSTOOLTIPEVENT
+[11:14:53] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.com.therandomlabs.randompatches.core.RPTransformer' was detected and will no longer process meta class data
+[11:14:53] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.client.renderer.texture.TextureMap], Method [registerSprite]
+[11:14:53] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.client.renderer.texture.TextureMap Finished.
+[11:14:53] [main/INFO] [EnderCore ASM]: Transforming Class [net.minecraft.client.renderer.RenderItem], Method [func_180453_a, func_184391_a]
+[11:14:53] [main/INFO] [EnderCore ASM]: Transforming failed. Applying ersatz patch...
+[11:14:53] [main/WARN] [EnderCore ASM]: Ersatz patch applied, things may break!
+[11:14:53] [main/INFO] [EnderCore ASM]: Transforming net.minecraft.client.renderer.RenderItem Finished.
+[11:14:53] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[11:14:53] [main/INFO] [BetterFps]: Patching net.minecraft.client.Minecraft... (bib)
+[11:14:53] [main/INFO] [STDOUT]: [com.tterrag.blur.BlurTransformer:transform:30]: Transforming Class [net.minecraft.client.gui.GuiScreen], Method [drawWorldBackground]
+[11:14:53] [main/INFO] [STDOUT]: [com.tterrag.blur.BlurTransformer:transform:52]: Modifying GUI background darkness... 
+[11:14:53] [main/INFO] [STDOUT]: [com.tterrag.blur.BlurTransformer:transform:72]: Transforming net.minecraft.client.gui.GuiScreen Finished.
+[11:14:53] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.world.World (amu)...
+[11:14:53] [main/INFO] [Hammer Core [ASM]]:   -Patching World...
+[11:14:53] [main/INFO] [Astral Core]: [AstralTransformer] Transforming amu : net.minecraft.world.World with 2 patches!
+[11:14:53] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCLIENT
+[11:14:53] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCOMMON
+[11:14:53] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:112]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[11:14:53] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:149]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[11:14:53] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
+[11:14:53] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[11:14:53] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[11:14:54] [main/INFO] [SmoothFontCore ASM]: Transform: net.minecraftforge.client.GuiIngameForge
+[11:14:54] [main/INFO] [SmoothFontCore ASM]: Internal name = net.minecraftforge.client.GuiIngameForge
+[11:14:54] [main/INFO] [SmoothFontCore ASM]: Transformed name = net.minecraftforge.client.GuiIngameForge
+[11:14:54] [main/INFO] [SmoothFontCore ASM]: Modified renderExperience method.
+[11:14:54] [main/INFO] [SmoothFontCore ASM]: RENDER_EXPERIENCE:true
+[11:14:54] [main/INFO] [SmoothFontCore ASM]: ** GuiIngameForge was transformed successfully.
+[11:14:54] [main/INFO] [EnderCore ASM]: Transforming net.minecraft.entity.player.EntityPlayer finished, added func_184613_cA() overriding EntityLivingBase
+[11:14:54] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.entity.EntityLivingBase (vp)...
+[11:14:54] [main/INFO] [Hammer Core [ASM]]:   -Patching EntityLivingBase
+[11:14:54] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'onItemUseFinish': added event call.
+[11:14:54] [main/INFO] [Astral Core]: [AstralTransformer] Transforming vp : net.minecraft.entity.EntityLivingBase with 4 patches!
+[11:14:54] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHAPPLYPOTIONEFFECTEVENT
+[11:14:54] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHUPDATEELYTRA
+[11:14:54] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHENTITYLIVINGBASEWATERSLOWDOWN
+[11:14:54] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSETPLAYERATTRIBUTE
+[11:14:54] [main/INFO] [BetterFps]: Patching net.minecraft.client.entity.EntityPlayerSP... (bud)
+[11:14:54] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:65]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
+[11:14:54] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:125]: Spliced in METHOD: net.minecraft.client.util.SearchTreeManager.func_110549_a
+[11:14:54] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraftforge.client.ForgeHooksClient (net.minecraftforge.client.ForgeHooksClient)...
+[11:14:54] [main/INFO] [Hammer Core [ASM]]:   -Patching ForgeHooksClient
+[11:14:54] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraftforge.client.ForgeHooksClient], Method [getDamageModel]
+[11:14:54] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraftforge.client.ForgeHooksClient Finished.
+[11:14:54] [main/INFO] [Config]: [OptiFine] *** Reflector Forge ***
+[11:14:54] [main/INFO] [Config]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[11:14:54] [main/INFO] [Config]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[11:14:54] [main/INFO] [Astral Core]: [AstralTransformer] Transforming axw : net.minecraft.world.chunk.Chunk with 1 patches!
+[11:14:54] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHBLOCKMODIFY
+[11:14:54] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:75]: Replaced NEW for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[11:14:54] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:87]: Replaced INVOKESPECIAL for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[11:14:55] [main/INFO] [BetterFps]: Patching net.minecraft.client.renderer.EntityRenderer... (buq)
+[11:14:55] [main/INFO] [Astral Core]: [AstralTransformer] Transforming buq : net.minecraft.client.renderer.EntityRenderer with 1 patches!
+[11:14:55] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHENTITYRENDEREREXTENDEDENTITYREACH
+[11:14:55] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:125]: Spliced in METHOD: net.minecraft.block.state.BlockStateContainer.createState
+[11:14:55] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:125]: Spliced in METHOD: net.minecraftforge.common.property.ExtendedBlockState.createState
+[11:14:55] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
+[11:14:55] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[11:14:55] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[11:14:55] [main/INFO] [SmoothFontCore ASM]: Transform: net.minecraft.client.gui.ScaledResolution
+[11:14:55] [main/INFO] [SmoothFontCore ASM]: Internal name = bit
+[11:14:55] [main/INFO] [SmoothFontCore ASM]: Transformed name = net.minecraft.client.gui.ScaledResolution
+[11:14:55] [main/INFO] [SmoothFontCore ASM]: Inserted the hook in ScaledResolution.<init>.
+[11:14:55] [main/INFO] [SmoothFontCore ASM]: INIT:true
+[11:14:55] [main/INFO] [SmoothFontCore ASM]: ** ScaledResolution was transformed successfully.
+[11:14:55] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:125]: Spliced in METHOD: net.minecraft.tileentity.TileEntity.func_190559_a
+[11:14:55] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:75]: Replaced NEW for net/minecraft/client/renderer/texture/TextureAtlasSprite to pl/asie/foamfix/client/FastTextureAtlasSprite
+[11:14:55] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:87]: Replaced INVOKESPECIAL for net/minecraft/client/renderer/texture/TextureAtlasSprite to pl/asie/foamfix/client/FastTextureAtlasSprite
+[11:14:55] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.client.renderer.texture.TextureAtlasSprite], Method [updateAnimationInterpolated]
+[11:14:55] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.client.renderer.texture.TextureAtlasSprite Finished.
+[11:14:57] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:125]: Spliced in METHOD: net.minecraft.tileentity.MobSpawnerBaseLogic.func_98279_f
+[11:14:57] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:172]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCache
+[11:14:57] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:172]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCacheTime
+[11:14:57] [main/INFO] [STDERR]: [net.optifine.reflect.ReflectorClass:getTargetClass:55]: java.lang.ExceptionInInitializerError
+[11:14:57] [main/INFO] [STDERR]: [net.optifine.reflect.ReflectorClass:getTargetClass:55]: 	at net.minecraftforge.common.ForgeHooks.<clinit>(ForgeHooks.java:333)
+[11:14:57] [main/INFO] [STDERR]: [net.optifine.reflect.ReflectorClass:getTargetClass:55]: 	at java.lang.Class.forName0(Native Method)
+[11:14:57] [main/INFO] [STDERR]: [net.optifine.reflect.ReflectorClass:getTargetClass:55]: 	at java.lang.Class.forName(Unknown Source)
+[11:14:57] [main/INFO] [STDERR]: [net.optifine.reflect.ReflectorClass:getTargetClass:55]: 	at net.optifine.reflect.ReflectorClass.getTargetClass(ReflectorClass.java:47)
+[11:14:57] [main/INFO] [STDERR]: [net.optifine.reflect.ReflectorClass:getTargetClass:55]: 	at net.optifine.reflect.ReflectorClass.<init>(ReflectorClass.java:26)
+[11:14:57] [main/INFO] [STDERR]: [net.optifine.reflect.ReflectorClass:getTargetClass:55]: 	at net.optifine.reflect.ReflectorClass.<init>(ReflectorClass.java:17)
+[11:14:57] [main/INFO] [STDERR]: [net.optifine.reflect.ReflectorClass:getTargetClass:55]: 	at net.optifine.reflect.Reflector.<clinit>(Reflector.java:264)
+[11:14:57] [main/INFO] [STDERR]: [net.optifine.reflect.ReflectorClass:getTargetClass:55]: 	at net.minecraft.client.renderer.vertex.DefaultVertexFormats.<clinit>(DefaultVertexFormats.java:16)
+[11:14:57] [main/INFO] [STDERR]: [net.optifine.reflect.ReflectorClass:getTargetClass:55]: 	at net.minecraftforge.client.ForgeHooksClient$LightGatheringTransformer.<clinit>(ForgeHooksClient.java:599)
+[11:14:57] [main/INFO] [STDERR]: [net.optifine.reflect.ReflectorClass:getTargetClass:55]: 	at net.minecraftforge.client.ForgeHooksClient.<clinit>(ForgeHooksClient.java:642)
+[11:14:57] [main/INFO] [STDERR]: [net.optifine.reflect.ReflectorClass:getTargetClass:55]: 	at net.minecraft.client.Minecraft.<init>(Minecraft.java:335)
+[11:14:57] [main/INFO] [STDERR]: [net.optifine.reflect.ReflectorClass:getTargetClass:55]: 	at net.minecraft.client.main.Main.main(SourceFile:123)
+[11:14:57] [main/INFO] [STDERR]: [net.optifine.reflect.ReflectorClass:getTargetClass:55]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[11:14:57] [main/INFO] [STDERR]: [net.optifine.reflect.ReflectorClass:getTargetClass:55]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[11:14:57] [main/INFO] [STDERR]: [net.optifine.reflect.ReflectorClass:getTargetClass:55]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[11:14:57] [main/INFO] [STDERR]: [net.optifine.reflect.ReflectorClass:getTargetClass:55]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[11:14:57] [main/INFO] [STDERR]: [net.optifine.reflect.ReflectorClass:getTargetClass:55]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[11:14:57] [main/INFO] [STDERR]: [net.optifine.reflect.ReflectorClass:getTargetClass:55]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[11:14:57] [main/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:-1]: Caused by: java.lang.RuntimeException: Accessed Items before Bootstrap!
+[11:14:57] [main/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraft.init.Items.<clinit>(SourceFile:9)
+[11:14:57] [main/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:-1]: 	... 18 more
+[11:14:57] [main/INFO] [SmoothFontCore ASM]: Transform: net.minecraft.client.renderer.texture.TextureManager
+[11:14:57] [main/INFO] [SmoothFontCore ASM]: Internal name = cdr
+[11:14:57] [main/INFO] [SmoothFontCore ASM]: Transformed name = net.minecraft.client.renderer.texture.TextureManager
+[11:14:57] [main/INFO] [SmoothFontCore ASM]: Inserted the ExitHook in loadTexture() method.
+[11:14:57] [main/INFO] [SmoothFontCore ASM]: Inserted the ExitHook in loadTexture() method.
+[11:14:57] [main/INFO] [SmoothFontCore ASM]: LOAD_TEXTURE:true
+[11:14:57] [main/INFO] [SmoothFontCore ASM]: ** TextureManager was transformed successfully.
+[11:14:58] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.ReturnIfBooleanTruePatch:apply:91]: Added return if option true in net/minecraft/client/renderer/texture/TextureMap func_94248_c
+[11:14:58] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.client.renderer.texture.TextureMap], Method [registerSprite]
+[11:14:58] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.client.renderer.texture.TextureMap Finished.
+[11:14:58] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.client.renderer.texture.TextureAtlasSprite], Method [updateAnimationInterpolated]
+[11:14:58] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.client.renderer.texture.TextureAtlasSprite Finished.
+[11:14:58] [main/WARN] [mixin]: Injection warning: LVT in net/minecraft/client/renderer/texture/TextureMap::func_110571_b(Lnet/minecraft/client/resources/IResourceManager;)V has incompatible changes at opcode 1140 in callback net/minecraft/client/renderer/texture/TextureMap::handler$onLoadTextureAtlas$zzg000.
+Expected: [I, Lnet/minecraft/client/renderer/texture/Stitcher;, I, I, Lnet/minecraftforge/fml/common/ProgressManager$ProgressBar;]
+   Found: [I, Lnet/minecraft/client/renderer/texture/Stitcher;, I, I, I, I, I, Ljava/util/List;, I, I, Ljava/util/Map;]
+[11:14:58] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.client.renderer.RenderItem (bzw)...
+[11:14:58] [main/INFO] [Hammer Core [ASM]]:   -Coloring Item Glint...
+[11:14:58] [main/INFO] [Hammer Core [ASM]]:     -Sending instructions to RenderItem for function renderItem
+[11:14:58] [main/INFO] [Hammer Core [ASM]]:     -Sending instructions to RenderItem for function renderEffect
+[11:14:58] [main/INFO] [Hammer Core [ASM]]:     -Sending instructions to RenderItem for function renderItemModel
+[11:14:58] [main/INFO] [Hammer Core [ASM]]:     -Sending instructions to RenderItem for function renderItemModelIntoGUI
+[11:14:58] [main/INFO] [EnderCore ASM]: Transforming Class [net.minecraft.client.renderer.RenderItem], Method [func_180453_a, func_184391_a]
+[11:14:58] [main/INFO] [EnderCore ASM]: Transforming failed. Applying ersatz patch...
+[11:14:58] [main/WARN] [EnderCore ASM]: Ersatz patch applied, things may break!
+[11:14:58] [main/INFO] [EnderCore ASM]: Transforming net.minecraft.client.renderer.RenderItem Finished.
+[11:14:58] [main/INFO] [Astral Core]: [AstralTransformer] Transforming aip : net.minecraft.item.ItemStack with 2 patches!
+[11:14:58] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHMODIFYENCHANTMENTLEVELSTOOLTIP
+[11:14:58] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHMODIFYENCHANTMENTLEVELSTOOLTIPEVENT
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Transform: net.minecraft.client.gui.FontRenderer
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Internal name = bip
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Transformed name = net.minecraft.client.gui.FontRenderer
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: OptiFine (int)charWidth[] was found.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted the EnterHook in constructor.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted the ExitHook in constructor.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted the ExitHook in readFontTexture method.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted the ExitHook in readFontTexture method.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted the ExitHook in readFontTexture method.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted the ExitHook in readGlyphSizes method.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted the ExitHook in readGlyphSizes method.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted the ExitHook in readGlyphSizes method.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted the EnterHook in renderChar() method.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted renderCharGetCharIndexHook() in renderChar().
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted the EnterHook in renderDefaultChar method.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted the EnterHook in renderUnicodeChar() method.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted the EnterHook in renderStringAtPos method.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted renderStringAtPosGetCharIndexHook() in renderStringAtPos().
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Replaced unicodeFlag(x2) in renderStringAtPos().
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted boldFlag related code in renderStringAtPos().
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted the ExitHook in renderStringAtPos method.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted the EnterHook in doDraw method.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Modified doDraw method.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted the EnterHook in renderString method.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted the ExitHook in renderString method.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted the ExitHook in renderString method.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted the EnterHook in getStringWidth method.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted the EnterHook in getCharWidth method.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted getCharWidthFloatGetCharIndexHook() in getCharWidthFloat().
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted the EnterHook in trimStringToWidth method.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted the ExitHook in setUnicodeFlag method.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: Inserted the EnterHook in sizeStringToWidth method.
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: INIT:true
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: READ_FONT_TEXTURE:true
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: READ_GLYPH_SIZES:true
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: RENDER_CHAR:true
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: RENDER_DEFAULT_CHAR:true
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: RENDER_UNICODE_CHAR:true
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: RENDER_STRING_AT_POS:true
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: DO_DRAW:true
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: RENDER_STRING:true
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: GET_STRING_WIDTH:true
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: GET_CHAR_WIDTH:true
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: TRIM_STRING_TO_WIDTH:true
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: SET_UNICODE_FLAG:true
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: SIZE_STRING_TO_WIDTH:true
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: GET_CHAR_WIDTH_FLOAT:true
+[11:14:58] [main/INFO] [SmoothFontCore ASM]: ** FontRenderer was transformed successfully.
+[11:14:58] [main/INFO] [EnderCore ASM]: Transforming net.minecraft.entity.player.EntityPlayer finished, added func_184613_cA() overriding EntityLivingBase
+[11:14:58] [main/INFO] [BetterFps]: Patching net.minecraft.block.BlockHopper... (arl)
+[11:14:58] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:75]: Replaced NEW for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[11:14:58] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:87]: Replaced INVOKESPECIAL for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[11:14:59] [main/INFO] [Astral Core]: [AstralTransformer] Transforming wg : net.minecraft.entity.ai.attributes.AbstractAttributeMap with 1 patches!
+[11:14:59] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHADDPLAYERATTRIBUTE
+[11:14:59] [main/WARN] [Config]: [OptiFine] (Reflector) More than one method found: net.minecraft.potion.Potion.renderHUDEffect
+[11:14:59] [main/WARN] [Config]: [OptiFine] (Reflector)  - public void net.minecraft.potion.Potion.renderHUDEffect(net.minecraft.potion.PotionEffect,net.minecraft.client.gui.Gui,int,int,float,float)
+[11:14:59] [main/WARN] [Config]: [OptiFine] (Reflector)  - public void net.minecraft.potion.Potion.renderHUDEffect(int,int,net.minecraft.potion.PotionEffect,net.minecraft.client.Minecraft,float)
+[11:14:59] [main/INFO] [Config]: [OptiFine] *** Reflector Vanilla ***
+[11:15:00] [main/INFO] [EnderCore ASM]: Transforming Class [net.minecraft.inventory.ContainerFurnace], Method [func_82846_b]
+[11:15:00] [main/INFO] [EnderCore ASM]: Transforming net.minecraft.inventory.ContainerFurnace Finished.
+[11:15:00] [main/INFO] [BetterFps]: Patching net.minecraft.client.gui.GuiOptions... (ble)
+[11:15:00] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityBeacon... (avh)
+[11:15:00] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.tileentity.TileEntityLockableLoot (awa)...
+[11:15:00] [main/INFO] [Hammer Core [ASM]]:   -Patching TileEntityLockableLoot
+[11:15:00] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'fillWithLoot': added 'withPlayer(player)' after 'withLuck(player.getLuck())'
+[11:15:00] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: Drakma
+[11:15:01] [Client thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:125]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.equals
+[11:15:01] [Client thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:125]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.hashCode
+[11:15:01] [Client thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:172]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode
+[11:15:01] [Client thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:172]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode_calced
+[11:15:01] [Client thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:125]: Spliced in METHOD: net.minecraft.block.properties.PropertyInteger.hashCode
+[11:15:01] [Client thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:172]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode
+[11:15:01] [Client thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:172]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode_calced
+[11:15:01] [Client thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:125]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.equals
+[11:15:01] [Client thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:125]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.hashCode
+[11:15:01] [Client thread/INFO] [BetterFps]: Patching math utils with "RIVENS_HALF" algorithm
+[11:15:01] [Client thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:125]: Spliced in METHOD: net.minecraft.block.BlockBed.func_189540_a
+[11:15:01] [Client thread/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityHopper... (avw)
+[11:15:02] [Client thread/ERROR] [LaunchWrapper]: Unable to launch
+java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_131]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.NoClassDefFoundError: Could not initialize class net.minecraft.init.Items
+	at net.minecraft.potion.PotionHelper.func_185207_a(PotionHelper.java:154) ~[akh.class:?]
+	at net.minecraft.init.Bootstrap.func_151354_b(Bootstrap.java:504) ~[ni.class:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:365) ~[bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) ~[Main.class:?]
+	... 6 more
+[11:15:02] [Client thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: net.minecraftforge.fml.relauncher.FMLSecurityManager$ExitTrappedException
+[11:15:02] [Client thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraftforge.fml.relauncher.FMLSecurityManager.checkPermission(FMLSecurityManager.java:49)
+[11:15:02] [Client thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.SecurityManager.checkExit(Unknown Source)
+[11:15:02] [Client thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.Runtime.exit(Unknown Source)
+[11:15:02] [Client thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.System.exit(Unknown Source)
+[11:15:02] [Client thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:138)
+[11:15:02] [Client thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)

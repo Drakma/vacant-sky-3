@@ -4,26 +4,14 @@ mods.tconstruct.Casting.addTableRecipe(<tconstruct:cast_custom:4>, <thermalfound
 mods.tconstruct.Casting.addTableRecipe(<tconstruct:cast_custom:4>, <thermalfoundation:material:24>, <liquid:alubrass>, 288, true, 200);
 
 //Steel Press Molds
-mods.tconstruct.Casting.addTableRecipe(<immersiveengineering:mold:0>, <ore:plateSteel>, <liquid:steel>, 1296, true, 12000);
 mods.tconstruct.Casting.addTableRecipe(<thermalfoundation:material:23>, <appliedenergistics2:material:40>, <liquid:stone>, 576, true, 200);
 mods.tconstruct.Casting.addTableRecipe(<thermalfoundation:material:352>, <ore:plateIron>, <liquid:steel>, 1296, true, 200);
 
 // Steel Rod Molds
 val iron_rod = <tconstruct:tool_rod>.withTag({Material: "iron"});
-mods.tconstruct.Casting.addTableRecipe(<immersiveengineering:material:2>, iron_rod, <liquid:steel>, 432, true, 200);
-mods.tconstruct.Casting.addTableRecipe(<immersiveengineering:mold:2>, <immersiveengineering:material:2>, <liquid:steel>, 1296, true, 12000);
 
 // Steel Gear Molds
 mods.tconstruct.Casting.addTableRecipe(<thermalfoundation:material:288>, <ore:gearIron>, <liquid:steel>, 576, true, 200);
-mods.tconstruct.Casting.addTableRecipe(<immersiveengineering:mold:1>, <thermalfoundation:material:288>, <liquid:steel>, 1296, true, 12000);
-
-// Copper Wire
-val cast_string = <tconstruct:cast>.withTag({PartType: "tconstruct:bow_string"});
-mods.tconstruct.Casting.addTableRecipe(<immersiveengineering:material:20>, cast_string, <liquid:copper>, 144, false, 200);
-mods.tconstruct.Casting.addTableRecipe(<immersiveengineering:material:21>, cast_string, <liquid:electrum>, 144, false, 200);
-mods.tconstruct.Casting.addTableRecipe(<immersiveengineering:material:22>, cast_string, <liquid:aluminum>, 144, false, 200);
-mods.tconstruct.Casting.addTableRecipe(<immersiveengineering:material:23>, cast_string, <liquid:steel>, 144, false, 200);
-mods.tconstruct.Casting.addTableRecipe(<immersiveengineering:mold:4>, <immersiveengineering:material:23>, <liquid:steel>, 1296, true, 12000);
 
 // Enderio Gears
 // Gears
@@ -51,3 +39,10 @@ mods.tconstruct.Casting.addTableRecipe(<thermalfoundation:material:24>, <thermal
 mods.tconstruct.Melting.addRecipe(<liquid:drakonium> * 144, <contenttweaker:material_part:0>);
 mods.tconstruct.Melting.addRecipe(<liquid:drakonium> * 144, <contenttweaker:material_part:1>);
 mods.tconstruct.Melting.addRecipe(<liquid:drakonium> * 72, <contenttweaker:material_part:2>);
+
+// ======================================================================
+// Remove Thermal Foundation Smelting from tconstruct
+// ======================================================================
+mods.tconstruct.Alloy.removeRecipe(<liquid:signalum>);
+mods.tconstruct.Alloy.removeRecipe(<liquid:enderium>);
+mods.tconstruct.Alloy.removeRecipe(<liquid:lumium>);
