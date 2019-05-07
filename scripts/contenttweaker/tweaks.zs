@@ -29,3 +29,11 @@ superium_boron.registerParts(blend_parts);
 superium_lithium.registerParts(blend_parts);
 supremium_iridium.registerParts(blend_parts);
 supremium_uranium.registerParts(blend_parts);
+
+// ======================================================================
+// Botania
+// ======================================================================
+var botania_parts  = ["molten"] as string[];
+var flower_essence = MaterialSystem.getMaterialBuilder().setName("Flower Essence").setColor(Color.fromHex("D33A17")).build();
+
+flower_essence.registerParts(botania_parts);

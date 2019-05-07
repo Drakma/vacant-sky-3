@@ -86,6 +86,7 @@ key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
 key_keybind.baublesinventory:0
+key_enderio.keybind.inventory:23
 key_enderio.keybind.glidertoggle:0
 key_enderio.keybind.soundlocator:0
 key_enderio.keybind.nightvision:25
@@ -101,13 +102,12 @@ key_enderio.keybind.fovplus:0
 key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
-key_keybind.hammercorerenderstack:77
 key_key.conarm.toggle_helm.desc:0
 key_key.conarm.toggle_chest.desc:0
 key_key.conarm.toggle_leg.desc:0
-key_key.ftbutilities.nbt:49:ALT
 key_key.ftbquests.quests:34
-key_key.fart.desc:0
+key_key.ftbmoney.shop:0
+key_keybind.hammercorerenderstack:77
 key_ingameinfoxml.key.toggle:0
 key_key.ironbackpacks.equip:35
 key_key.ironbackpacks.open:23
@@ -125,6 +125,7 @@ key_key.toggle_focus.desc:15
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
+key_key.jei.toggleEditMode:0
 key_key.jei.showRecipe:19
 key_key.jei.showUses:22
 key_key.jei.recipeBack:14
@@ -135,6 +136,7 @@ key_key.jei.toggleBookmarkOverlay:0
 key_key.cofh.multimode:47
 key_bbw.key.mode:0
 key_bbw.key.fluidmode:0
+key_nei.options.keys.gui.botania_corporea_request:46
 key_mod.chiselsandbits.chiselmode.single:0
 key_mod.chiselsandbits.chiselmode.snap2:0
 key_mod.chiselsandbits.chiselmode.snap4:0
@@ -178,12 +180,15 @@ key_key.craftingtweaks.decompressStack:0
 key_key.craftingtweaks.decompressAll:0
 key_key.craftingtweaks.refill_last:15
 key_key.craftingtweaks.refill_last_stack:15
-key_key.toggleLiquids:38
-key_key.toggleVisible:0
+key_key.keyExtraInvo:45
+key_key.keyWheel:19
+key_key.keyExtraCraftin:46
 key_key.openhealthbox:35
 key_key.usehealthkit:46
 key_invtweaks.key.sort:19
 key_key.nutrition:49
+key_key.toggleLiquids:38
+key_key.toggleVisible:0
 key_key.craftingGrid:46
 key_key.control:29
 key_key.journeymap.zoom_in:13
@@ -191,6 +196,7 @@ key_key.journeymap.zoom_out:12
 key_key.journeymap.minimap_type:26
 key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:48
+key_key.journeymap.toggle_waypoints:44
 key_key.journeymap.fullscreen_create_waypoint:48
 key_key.journeymap.fullscreen_chat_position:46
 key_key.journeymap.map_toggle_alt:36

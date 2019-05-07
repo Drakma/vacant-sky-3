@@ -59,12 +59,6 @@
     },
     "done": true
   },
-  "astralsorcery:root": {
-    "criteria": {
-      "astralsorcery_present": "2019-01-29 21:30:17 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2019-01-31 19:57:05 -0600"
@@ -254,6 +248,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2019-01-31 21:55:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2019-05-04 15:39:55 -0500"
     },
     "done": true
   },
@@ -458,6 +458,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2019-05-04 14:08:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2019-01-31 21:24:54 -0600"
@@ -578,12 +584,6 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2019-01-31 16:41:07 -0600"
-    },
-    "done": true
-  },
-  "cfm:install": {
-    "criteria": {
-      "tick": "2019-01-29 21:30:17 -0600"
     },
     "done": true
   },
@@ -756,6 +756,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-01-31 21:20:48 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2019-05-04 14:08:23 -0500"
     },
     "done": true
   },
@@ -963,6 +969,18 @@
     },
     "done": true
   },
+  "botania:main/rune_pickup": {
+    "criteria": {
+      "rune": "2019-05-04 13:35:37 -0500"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2019-05-04 14:08:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2019-01-31 16:41:07 -0600"
@@ -990,6 +1008,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2019-01-31 21:12:55 -0600"
+    },
+    "done": true
+  },
+  "enderio:start/1_infinity_powder_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2019-05-06 20:25:23 -0500"
     },
     "done": true
   },
@@ -1095,6 +1119,12 @@
     },
     "done": true
   },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2019-05-04 14:08:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2019-01-31 16:41:07 -0600"
@@ -1110,6 +1140,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2019-02-06 15:23:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2019-05-04 15:39:55 -0500"
     },
     "done": true
   },
@@ -1239,9 +1275,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log2": "2019-05-04 15:39:56 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2019-02-01 21:12:07 -0600"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2019-05-06 19:16:29 -0500"
     },
     "done": true
   },
@@ -1404,12 +1452,6 @@
     },
     "done": true
   },
-  "notenoughroofs:ironingotadvancement": {
-    "criteria": {
-      "slateBrick_Advancement": "2019-02-01 20:17:29 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_red_flower": "2019-01-31 19:56:53 -0600"
@@ -1515,12 +1557,6 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2019-01-31 16:42:32 -0600"
-    },
-    "done": true
-  },
-  "cfm:root": {
-    "criteria": {
-      "tick": "2019-01-29 21:30:17 -0600"
     },
     "done": true
   },
