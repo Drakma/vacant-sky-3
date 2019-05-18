@@ -1,0 +1,1 @@
+recipes.remove(<cyclicmagic:glowing_chorus>);

@@ -372,6 +372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_iron_block": "2019-05-17 13:22:29 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2019-01-31 19:02:08 -0600"
@@ -779,6 +785,12 @@
     },
     "done": true
   },
+  "botania:main/functional_flower": {
+    "criteria": {
+      "code_triggered": "2019-05-17 18:05:35 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-02-03 23:42:14 -0600"
@@ -918,6 +930,12 @@
   "biomesoplenty:recipes/transportation/boat_palm": {
     "criteria": {
       "entered_water": "2019-02-05 22:27:59 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2019-05-17 13:22:29 -0500"
     },
     "done": true
   },
@@ -1390,6 +1408,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2019-05-17 17:57:13 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_ebony": {
     "criteria": {
       "entered_water": "2019-02-05 22:27:59 -0600"
@@ -1411,6 +1435,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2019-01-31 21:12:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2019-05-17 13:08:38 -0500"
     },
     "done": true
   },
@@ -1759,6 +1789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2019-05-17 18:07:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2019-02-05 22:10:02 -0600"
@@ -1794,6 +1830,12 @@
       "inv_changed-enderio:item_basic_item_filter2": "2019-05-13 19:12:09 -0500"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/tools/empty_jar": {
+    "criteria": {
+      "has_glass": "2019-05-16 20:45:16 -0500"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
@@ -1834,6 +1876,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-01-31 21:20:48 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2019-05-16 18:54:28 -0500"
     },
     "done": true
   },
@@ -1906,6 +1954,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-01-31 21:20:48 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2019-05-16 20:47:01 -0500"
     },
     "done": true
   },

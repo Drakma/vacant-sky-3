@@ -4,9 +4,9 @@ import mods.cyclicmagic.Hydrator;
 // Shaped Recipes
 // ======================================================================
 recipes.addShaped(<sky_orchards:amber_lumium>, 
-  [[ <sky_orchards:acorn_lumium>, <sky_orchards:resin_mumium>, <sky_orchards:acorn_lumium>],
-   [ <sky_orchards:resin_mumium>, <sky_orchards:acorn_lumium>, <sky_orchards:resin_mumium>],
-   [ <sky_orchards:acorn_lumium>, <sky_orchards:resin_mumium>, <sky_orchards:acorn_lumium>]]);
+  [[ <sky_orchards:acorn_lumium>, <sky_orchards:resin_lumium>, <sky_orchards:acorn_lumium>],
+   [ <sky_orchards:resin_lumium>, <sky_orchards:acorn_lumium>, <sky_orchards:resin_lumium>],
+   [ <sky_orchards:acorn_lumium>, <sky_orchards:resin_lumium>, <sky_orchards:acorn_lumium>]]);
 
 recipes.addShaped(<sky_orchards:amber_signalum>, 
   [[ <sky_orchards:acorn_signalum>, <sky_orchards:resin_signalum>, <sky_orchards:acorn_signalum>],
@@ -14,9 +14,9 @@ recipes.addShaped(<sky_orchards:amber_signalum>,
    [ <sky_orchards:acorn_signalum>, <sky_orchards:resin_signalum>, <sky_orchards:acorn_signalum>]]);
 
 recipes.addShaped(<sky_orchards:amber_enderium>, 
-  [[ <sky_orchards:acorn_enderium>, <sky_orchards:resin_signalum>, <sky_orchards:acorn_enderium>],
-   [ <sky_orchards:resin_signalum>, <sky_orchards:acorn_enderium>, <sky_orchards:resin_signalum>],
-   [ <sky_orchards:acorn_enderium>, <sky_orchards:resin_signalum>, <sky_orchards:acorn_enderium>]]);
+  [[ <sky_orchards:acorn_enderium>, <sky_orchards:resin_enderium>, <sky_orchards:acorn_enderium>],
+   [ <sky_orchards:resin_enderium>, <sky_orchards:acorn_enderium>, <sky_orchards:resin_enderium>],
+   [ <sky_orchards:acorn_enderium>, <sky_orchards:resin_enderium>, <sky_orchards:acorn_enderium>]]);
 
 recipes.addShaped(<sky_orchards:amber_platinum>, 
   [[ <sky_orchards:acorn_platinum>, <sky_orchards:resin_platinum>, <sky_orchards:acorn_platinum>],
@@ -92,6 +92,11 @@ recipes.addShaped(<sky_orchards:amber_fertilizer>,
   [[ <sky_orchards:acorn_fertilizer>, <sky_orchards:resin_fertilizer>, <sky_orchards:acorn_fertilizer>],
    [ <sky_orchards:resin_fertilizer>, <sky_orchards:acorn_fertilizer>, <sky_orchards:resin_fertilizer>],
    [ <sky_orchards:acorn_fertilizer>, <sky_orchards:resin_fertilizer>, <sky_orchards:acorn_fertilizer>]]);
+
+recipes.addShaped(<sky_orchards:amber_inferium>, 
+  [[ <sky_orchards:acorn_inferium>, <sky_orchards:resin_inferium>, <sky_orchards:acorn_inferium>],
+   [ <sky_orchards:resin_inferium>, <sky_orchards:acorn_inferium>, <sky_orchards:resin_inferium>],
+   [ <sky_orchards:acorn_inferium>, <sky_orchards:resin_inferium>, <sky_orchards:acorn_inferium>]]);
 
 // ======================================================================
 // Pedestal Crafting
@@ -279,7 +284,7 @@ mods.thermalexpansion.InductionSmelter.addRecipe(<enderio:item_alloy_ingot:3> * 
 mods.thermalexpansion.InductionSmelter.addRecipe(<tconstruct:ingots:3> * 2, <minecraft:sand>, <sky_orchards:amber_knightslime>, 3200);
 
 // ======================================================================
-// Dehydrator5
+// Dehydrator
 // output, input, ticks
 // ======================================================================
 Dehydrator.addRecipe(<minecraft:ender_pearl> * 2, <sky_orchards:amber_ender>, 400);
@@ -290,12 +295,14 @@ Dehydrator.addRecipe(<minecraft:prismarine_shard> * 4, <sky_orchards:amber_prism
 // Hydrator.addRecipe(<minecraft:dirt>, IArray, 10);
 // ======================================================================
 Hydrator.addRecipe(<botania:fertilizer> * 16, [<sky_orchards:amber_fertilizer>, <minecraft:dye:15>], 100);
+Hydrator.addRecipe(<mysticalagriculture:crafting> * 9, [<sky_orchards:amber_inferium>], 100);
 
 // ======================================================================
 // Casts
 // mods.tconstruct.Casting.addTableRecipe(IItemStack output, IIngredient cast, ILiquidStack fluid, int amount, @Optional boolean consumeCast, @Optional int time);
 // ======================================================================
 mods.tconstruct.Casting.addTableRecipe(<sky_orchards:sapling_inferium>, <sky_orchards:sapling_darksteel>, <liquid:inferium>, 225, true, 1000);
+mods.tconstruct.Casting.addTableRecipe(<sky_orchards:sapling_knightslime>, <sky_orchards:sapling_steel>, <liquid:knightslime>, 225, true, 1000);
 
 // ======================================================================
 // Remove Drops
@@ -333,3 +340,4 @@ mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:fertilizer", <sky_orchar
 // mods.bonsaitrees.TreeDrops.addTreeDrop("minecraft:oak", <minecraft:bucket>, 0.01);
 // ======================================================================
 mods.bonsaitrees.TreeDrops.addTreeDrop("sky_orchards:fertilizer", <botania:fertilizer>, 0.05);
+

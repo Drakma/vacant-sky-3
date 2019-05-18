@@ -5,6 +5,6 @@
 recipes.remove(<storagedrawers:controller>);
 
 recipes.addShaped(<storagedrawers:controller>, 
-  [[ <ore:blockStone>, <ore:blockStone>, <ore:blockStone>],
+  [[ <ore:ingotInvar>, <ore:ingotInvar>, <ore:ingotInvar>],
    [ <forestry:chipsets:0>, <storagenetwork:request>, <forestry:chipsets:0>],
-   [ <ore:blockStone>, <minecraft:diamond>, <ore:blockStone>]]);
+   [ <ore:ingotIron>, <minecraft:diamond>, <ore:ingotIron>]]);

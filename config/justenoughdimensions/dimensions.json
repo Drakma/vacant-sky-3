@@ -20,7 +20,7 @@
         "CanDoRainSnowIce": false,
         "SkyColor": "666699",
         "CanSpawnHostiles": true,
-        "CanSpawnPeacefulMobs": false
+        "CanSpawnPeacefulMobs": true
       },
       "worldinfo_onetime": {
         "raining": false,
@@ -36,7 +36,7 @@
     },
     {
       "dim": 1215,
-      "biome": "biomesoplenty:snowy_forest",
+      "biome": "ice_mountains",
       "dimensiontype": {
         "id": 1215,
         "name": "Deep Freeze",
@@ -53,8 +53,8 @@
         "SkyColor": "111111",
         "FogColor": "444444",
         "CloudColor": "666666",
-        "CanSpawnHostiles": true,
-        "CanSpawnPeacefulMobs": false
+        "CanSpawnHostiles": false,
+        "CanSpawnPeacefulMobs": true
       },
       "worldinfo_onetime": {
         "raining": true,
@@ -96,8 +96,8 @@
         "MusicType": "nether",
         "SkyRenderer": "DummyRenderer",
         "WeatherRenderer": "DummyRenderer",
-        "CanSpawnHostiles": true,
-        "CanSpawnPeacefulMobs": false
+        "CanSpawnHostiles": false,
+        "CanSpawnPeacefulMobs": true
       },
       "worldinfo_onetime": {
         "difficulty": "normal",
@@ -122,13 +122,13 @@
         "CanRespawnHere": false,
         "RespawnDimension": 0,
         "CanSleepHere": "bed_explodes",
-        "CanDoLightning": false,
-        "CanDoRainSnowIce": false,
+        "CanDoLightning": true,
+        "CanDoRainSnowIce": true,
         "SkyColor": "666699",
         "FogColor": "9999aa",
         "CloudColor": "9999ee",
-        "CanSpawnHostiles": true,
-        "CanSpawnPeacefulMobs": false
+        "CanSpawnHostiles": false,
+        "CanSpawnPeacefulMobs": true
       },
       "worldinfo_onetime": {
         "RandomSeed": "",
@@ -139,7 +139,7 @@
           "doWeatherCycle": false,
           "naturalRegeneration": false
         },
-        "generatorName": "default",
+        "generatorName": "BIOMESOP",
         "DayTime": "6000"
       }
     },
@@ -156,10 +156,12 @@
       "jed": {
         "SkyColor": "111111",
         "CloudColor": "000000",
+        "RespawnDimension": 0,
+        "CanSleepHere": "bed_explodes",
         "DisableEnderDragon": true,
         "DisableEndSpikes": true,
         "CanSpawnHostiles": false,
-        "CanSpawnPeacefulMobs": false,
+        "CanSpawnPeacefulMobs": true,
         "LightBrightness": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
       },
       "worldinfo_onetime": {
@@ -186,8 +188,9 @@
         "worldprovider": "WorldProviderSurfaceJED"
       },
       "jed": {
-        "SkyColor": "111111",
+        "SkyColor": "000000",
         "CloudColor": "000000",
+        "FogColor": "000000",
         "CanRespawnHere": false,
         "RespawnDimension": 0,
         "CanSleepHere": "bed_explodes",
@@ -196,7 +199,8 @@
         "DisableEnderDragon": true,
         "DisableEndSpikes": true,
         "CanSpawnHostiles": true,
-        "CanSpawnPeacefulMobs": false
+        "CanSpawnPeacefulMobs": true,
+        "LightBrightness": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
       },
       "worldinfo_onetime": {
         "RandomSeed": "",
@@ -204,11 +208,11 @@
         "difficulty": "hard",
         "GameRules": {
           "doDaylightCycle": false,
-          "doWeatherCycle": false,
+          "doWeatherCycle": true,
           "naturalRegeneration": false
         },
         "generatorName": "BIOMESOP",
-        "DayTime": "21000"
+        "DayTime": "14500"
       }
     }
   ]

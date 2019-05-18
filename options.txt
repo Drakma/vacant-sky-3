@@ -4,7 +4,7 @@ mouseSensitivity:0.5
 fov:0.35
 gamma:1.0
 saturation:0.0
-renderDistance:12
+renderDistance:10
 guiScale:3
 particles:0
 bobView:false
@@ -15,8 +15,8 @@ difficulty:2
 fancyGraphics:false
 ao:2
 renderClouds:false
-resourcePacks:["PackAssets"]
-incompatibleResourcePacks:["PackAssets"]
+resourcePacks:["Faithful 1.12.2-rv4.zip","[1.10.2]Dramatic Skys [v1.7].zip","PackAssets"]
+incompatibleResourcePacks:["[1.10.2]Dramatic Skys [v1.7].zip","PackAssets"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -106,8 +106,6 @@ key_key.ftbquests.quests:34
 key_key.ftbmoney.shop:0
 key_keybind.hammercorerenderstack:77
 key_ingameinfoxml.key.toggle:0
-key_key.ironbackpacks.equip:35
-key_key.ironbackpacks.open:23
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_neat.keybind.toggle:0

@@ -34,26 +34,26 @@ recipes.remove(<mysticalagriculture:crafting:21>); // Supremium
 mods.avaritia.ExtremeCrafting.addShaped("Tier 5 Crafting Seed", <mysticalagriculture:crafting:21>, 
   [[null, null,null,null,null,null,null,null,null],
    [null, null,null,null,<botania:fertilizer>,null,null,null,null],
-   [null, null,null,null,<ore:workbench>,null,null,null,null],
-   [null, null,null,null,<mysticalagriculture:crafting:4>,null,null,null,null],
+   [null, null,null,<avaritia:resource:1>,<ore:workbench>,<avaritia:resource:1>,null,null,null],
+   [null, null,<avaritia:resource:1>,<avaritia:resource:1>,<mysticalagriculture:crafting:4>,<avaritia:resource:1>,<avaritia:resource:1>,null,null],
    [null, <botania:fertilizer>,<ore:workbench>,<mysticalagriculture:crafting:4>,<mysticalagriculture:crafting:20>,<mysticalagriculture:crafting:4>,<ore:workbench>,<botania:fertilizer>,null],
-   [null, null,null,null,<mysticalagriculture:crafting:4>,null,null,null,null],
-   [null, null,null,null,<ore:workbench>,null,null,null,null],
+   [null, null,<avaritia:resource:1>,<avaritia:resource:1>,<mysticalagriculture:crafting:4>,<avaritia:resource:1>,<avaritia:resource:1>,null,null],
+   [null, null,null,<avaritia:resource:1>,<ore:workbench>,<avaritia:resource:1>,null,null,null],
    [null, null,null,null,<botania:fertilizer>,null,null,null,null],
    [null, null,null,null,null,null,null,null,null]]);
 
 recipes.remove(<mysticalagradditions:insanium:1>); // Insaium
 // mods.avaritia.ExtremeCrafting.addShaped("name",output, ingredients);
 mods.avaritia.ExtremeCrafting.addShaped("Tier 6 Crafting Seed", <mysticalagradditions:insanium:1>, 
-  [[null,null,null,null,null,null,null],
-   [null,null,null,null,null,null,null],
-   [null,null,null,null,null,null,null],
-   [null,null,null,null,null,null,null],
-   [null,null,null,null,null,null,null],
-   [null,null,null,null,null,null,null],
-   [null,null,null,null,null,null,null],
-   [null,null,null,null,null,null,null],
-   [null,null,null,null,null,null,null]]);
+  [[null,null,null,null,null,null,null,null,null],
+   [null,null,null,null,<mysticalagradditions:insanium>,null,null,null,null],
+   [null,null,null,<mysticalagradditions:insanium>,<avaritia:resource:1>,<mysticalagradditions:insanium>,null,null,null],
+   [null,null,<mysticalagradditions:insanium>,<avaritia:resource:1>,<mysticalagriculture:crafting:21>,<avaritia:resource:1>,<mysticalagradditions:insanium>,null,null],
+   [null,<mysticalagradditions:insanium>,<avaritia:resource:1>,<mysticalagriculture:crafting:21>,<mysticalagriculture:crafting:21>,<mysticalagriculture:crafting:21>,<avaritia:resource:1>,<mysticalagradditions:insanium>,null],
+   [null,null,<mysticalagradditions:insanium>,<avaritia:resource:1>,<mysticalagriculture:crafting:21>,<avaritia:resource:1>,<mysticalagradditions:insanium>,null,null],
+   [null,null,null,<mysticalagradditions:insanium>,<avaritia:resource:1>,<mysticalagradditions:insanium>,null,null,null],
+   [null,null,null,null,<mysticalagradditions:insanium>,null,null,null,null],
+   [null,null,null,null,null,null,null,null,null]]);
 
 // Tier 1
 recipes.remove(<mysticalagriculture:tier1_inferium_seeds>);
@@ -210,7 +210,7 @@ mods.pedestalcrafting.Pedestal.addRecipe(<mysticalagriculture:aluminum_brass_see
 ], [["endRod", "2"]], [["portal", "50"]], [["smoke", "25"], ["flame", "5"]]);
 
 recipes.remove(<mysticalagriculture:grains_of_infinity_seeds>);
-mods.thermalexpansion.Compactor.addPressRecipe(<minecraft:bedrock>, <minecraft:stone> * 64, 10000000);
+mods.thermalexpansion.Compactor.addPressRecipe(<minecraft:bedrock>, <minecraft:stone> * 64, 1000000);
 mods.pedestalcrafting.Pedestal.addRecipe(<mysticalagriculture:grains_of_infinity_seeds>, 160, <mysticalagriculture:crafting:18>, [
     <ore:dustBedrock>,
     <ore:dustBedrock>,
@@ -554,27 +554,235 @@ mods.botania.RuneAltar.addRecipe(<mysticalagriculture:energetic_alloy_seeds>,
 
 // Tier 5
 recipes.remove(<mysticalagriculture:tier5_inferium_seeds>);
+// mods.avaritia.ExtremeCrafting.addShaped("name",output, ingredients);
+mods.avaritia.ExtremeCrafting.addShaped("Tier 5 Inferium Seed", <mysticalagriculture:tier5_inferium_seeds>,
+  [
+    [<mysticalagriculture:storage:4>, <avaritia:resource:1>, <mysticalagriculture:storage:4>, <avaritia:resource:1>, <mysticalagriculture:storage:4>, <avaritia:resource:1>, <mysticalagriculture:storage:4>, <avaritia:resource:1>, <mysticalagriculture:storage:4>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<mysticalagriculture:storage:4>, null, null, null, null, null, null, null, <mysticalagriculture:storage:4>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<mysticalagriculture:storage:4>, null, null, null, <mysticalagriculture:crafting:21>, null, null, null, <mysticalagriculture:storage:4>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<mysticalagriculture:storage:4>, null, null, null, null, null, null, null, <mysticalagriculture:storage:4>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<mysticalagriculture:storage:4>, <avaritia:resource:1>, <mysticalagriculture:storage:4>, <avaritia:resource:1>, <mysticalagriculture:storage:4>, <avaritia:resource:1>, <mysticalagriculture:storage:4>, <avaritia:resource:1>, <mysticalagriculture:storage:4>],
+  ]);
+
 recipes.remove(<mysticalagriculture:diamond_seeds>);
+mods.avaritia.ExtremeCrafting.addShaped("Diamond Seed", <mysticalagriculture:diamond_seeds>,
+  [
+    [<ore:blockDiamond>, <avaritia:resource:1>, <ore:blockDiamond>, <avaritia:resource:1>, <ore:blockDiamond>, <avaritia:resource:1>, <ore:blockDiamond>, <avaritia:resource:1>, <ore:blockDiamond>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockDiamond>, null, null, null, null, null, null, null, <ore:blockDiamond>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockDiamond>, null, null, null, <mysticalagriculture:crafting:21>, null, null, null, <ore:blockDiamond>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockDiamond>, null, null, null, null, null, null, null, <ore:blockDiamond>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockDiamond>, <avaritia:resource:1>, <ore:blockDiamond>, <avaritia:resource:1>, <ore:blockDiamond>, <avaritia:resource:1>, <ore:blockDiamond>, <avaritia:resource:1>, <ore:blockDiamond>],
+  ]);
+
 recipes.remove(<mysticalagriculture:emerald_seeds>);
+mods.avaritia.ExtremeCrafting.addShaped("Diamond Seed", <mysticalagriculture:emerald_seeds>,
+  [
+    [<ore:blockEmerald>, <avaritia:resource:1>, <ore:blockEmerald>, <avaritia:resource:1>, <ore:blockEmerald>, <avaritia:resource:1>, <ore:blockEmerald>, <avaritia:resource:1>, <ore:blockEmerald>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockEmerald>, null, null, null, null, null, null, null, <ore:blockEmerald>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockEmerald>, null, null, null, <mysticalagriculture:crafting:21>, null, null, null, <ore:blockEmerald>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockEmerald>, null, null, null, null, null, null, null, <ore:blockEmerald>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockEmerald>, <avaritia:resource:1>, <ore:blockEmerald>, <avaritia:resource:1>, <ore:blockEmerald>, <avaritia:resource:1>, <ore:blockEmerald>, <avaritia:resource:1>, <ore:blockEmerald>],
+  ]);
+
 recipes.remove(<mysticalagriculture:wither_skeleton_seeds>);
 recipes.remove(<mysticalagriculture:chunk:20>);
+mods.avaritia.ExtremeCrafting.addShaped("Wither Seed", <mysticalagriculture:wither_skeleton_seeds>,
+  [
+    [<minecraft:skull:1>, <avaritia:resource:1>, <minecraft:skull:1>, <avaritia:resource:1>, <minecraft:skull:1>, <avaritia:resource:1>, <minecraft:skull:1>, <avaritia:resource:1>, <minecraft:skull:1>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<minecraft:skull:1>, null, null, null, null, null, null, null, <minecraft:skull:1>],
+    [<avaritia:resource:1>, null, null, null, <mysticalagriculture:chunk:20>, null, null, null, <avaritia:resource:1>],
+    [<minecraft:skull:1>, null, null, <mysticalagriculture:chunk:20>, <mysticalagriculture:crafting:21>, <mysticalagriculture:chunk:20>, null, null, <minecraft:skull:1>],
+    [<avaritia:resource:1>, null, null, null, <mysticalagriculture:chunk:20>, null, null, null, <avaritia:resource:1>],
+    [<minecraft:skull:1>, null, null, null, null, null, null, null, <minecraft:skull:1>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<minecraft:skull:1>, <avaritia:resource:1>, <minecraft:skull:1>, <avaritia:resource:1>, <minecraft:skull:1>, <avaritia:resource:1>, <minecraft:skull:1>, <avaritia:resource:1>, <minecraft:skull:1>],
+  ]);
 
 recipes.remove(<mysticalagriculture:uranium_seeds>);
+mods.avaritia.ExtremeCrafting.addShaped("Uranium Seed", <mysticalagriculture:uranium_seeds>,
+  [
+    [<ore:blockUranium>, <avaritia:resource:1>, <ore:blockUranium>, <avaritia:resource:1>, <ore:blockUranium>, <avaritia:resource:1>, <ore:blockUranium>, <avaritia:resource:1>, <ore:blockUranium>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockUranium>, null, null, null, null, null, null, null, <ore:blockUranium>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockUranium>, null, null, null, <mysticalagriculture:crafting:21>, null, null, null, <ore:blockUranium>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockUranium>, null, null, null, null, null, null, null, <ore:blockUranium>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockUranium>, <avaritia:resource:1>, <ore:blockUranium>, <avaritia:resource:1>, <ore:blockUranium>, <avaritia:resource:1>, <ore:blockUranium>, <avaritia:resource:1>, <ore:blockUranium>],
+  ]);
+
 recipes.remove(<mysticalagriculture:platinum_seeds>);
+mods.avaritia.ExtremeCrafting.addShaped("Platinum Seed", <mysticalagriculture:platinum_seeds>,
+  [
+    [<ore:blockPlatinum>, <avaritia:resource:1>, <ore:blockPlatinum>, <avaritia:resource:1>, <ore:blockPlatinum>, <avaritia:resource:1>, <ore:blockPlatinum>, <avaritia:resource:1>, <ore:blockPlatinum>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockPlatinum>, null, null, null, null, null, null, null, <ore:blockPlatinum>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockPlatinum>, null, null, null, <mysticalagriculture:crafting:21>, null, null, null, <ore:blockPlatinum>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockPlatinum>, null, null, null, null, null, null, null, <ore:blockPlatinum>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockPlatinum>, <avaritia:resource:1>, <ore:blockPlatinum>, <avaritia:resource:1>, <ore:blockPlatinum>, <avaritia:resource:1>, <ore:blockPlatinum>, <avaritia:resource:1>, <ore:blockPlatinum>],
+  ]);
+
 recipes.remove(<mysticalagriculture:iridium_seeds>);
+mods.avaritia.ExtremeCrafting.addShaped("Iridium Seed", <mysticalagriculture:iridium_seeds>,
+  [
+    [<ore:ingotIridium>, <avaritia:resource:1>, <ore:ingotIridium>, <avaritia:resource:1>, <ore:ingotIridium>, <avaritia:resource:1>, <ore:ingotIridium>, <avaritia:resource:1>, <ore:ingotIridium>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:ingotIridium>, null, null, null, null, null, null, null, <ore:ingotIridium>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:ingotIridium>, null, null, null, <mysticalagriculture:crafting:21>, null, null, null, <ore:ingotIridium>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:ingotIridium>, null, null, null, null, null, null, null, <ore:ingotIridium>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:ingotIridium>, <avaritia:resource:1>, <ore:ingotIridium>, <avaritia:resource:1>, <ore:ingotIridium>, <avaritia:resource:1>, <ore:ingotIridium>, <avaritia:resource:1>, <ore:ingotIridium>],
+  ]);
+
 recipes.remove(<mysticalagriculture:enderium_seeds>);
+mods.avaritia.ExtremeCrafting.addShaped("Enderium Seed", <mysticalagriculture:enderium_seeds>,
+  [
+    [<ore:blockEnderium>, <avaritia:resource:1>, <ore:blockEnderium>, <avaritia:resource:1>, <ore:blockEnderium>, <avaritia:resource:1>, <ore:blockEnderium>, <avaritia:resource:1>, <ore:blockEnderium>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockEnderium>, null, null, null, null, null, null, null, <ore:blockEnderium>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockEnderium>, null, null, null, <mysticalagriculture:crafting:21>, null, null, null, <ore:blockEnderium>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockEnderium>, null, null, null, null, null, null, null, <ore:blockEnderium>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockEnderium>, <avaritia:resource:1>, <ore:blockEnderium>, <avaritia:resource:1>, <ore:blockEnderium>, <avaritia:resource:1>, <ore:blockEnderium>, <avaritia:resource:1>, <ore:blockEnderium>],
+  ]);
+
 recipes.remove(<mysticalagriculture:manyullyn_seeds>);
+mods.avaritia.ExtremeCrafting.addShaped("Manyullyn Seed", <mysticalagriculture:manyullyn_seeds>,
+  [
+    [<ore:blockManyullyn>, <avaritia:resource:1>, <ore:blockManyullyn>, <avaritia:resource:1>, <ore:blockManyullyn>, <avaritia:resource:1>, <ore:blockManyullyn>, <avaritia:resource:1>, <ore:blockManyullyn>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockManyullyn>, null, null, null, null, null, null, null, <ore:blockManyullyn>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockManyullyn>, null, null, null, <mysticalagriculture:crafting:21>, null, null, null, <ore:blockManyullyn>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockManyullyn>, null, null, null, null, null, null, null, <ore:blockManyullyn>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockManyullyn>, <avaritia:resource:1>, <ore:blockManyullyn>, <avaritia:resource:1>, <ore:blockManyullyn>, <avaritia:resource:1>, <ore:blockManyullyn>, <avaritia:resource:1>, <ore:blockManyullyn>],
+  ]);
+
 recipes.remove(<mysticalagriculture:vibrant_alloy_seeds>);
+mods.avaritia.ExtremeCrafting.addShaped("Vibrant Alloy Seed", <mysticalagriculture:vibrant_alloy_seeds>,
+  [
+    [<ore:blockVibrantAlloy>, <avaritia:resource:1>, <ore:blockVibrantAlloy>, <avaritia:resource:1>, <ore:blockVibrantAlloy>, <avaritia:resource:1>, <ore:blockVibrantAlloy>, <avaritia:resource:1>, <ore:blockVibrantAlloy>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockVibrantAlloy>, null, null, null, null, null, null, null, <ore:blockVibrantAlloy>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockVibrantAlloy>, null, null, null, <mysticalagriculture:crafting:21>, null, null, null, <ore:blockVibrantAlloy>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockVibrantAlloy>, null, null, null, null, null, null, null, <ore:blockVibrantAlloy>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockVibrantAlloy>, <avaritia:resource:1>, <ore:blockVibrantAlloy>, <avaritia:resource:1>, <ore:blockVibrantAlloy>, <avaritia:resource:1>, <ore:blockVibrantAlloy>, <avaritia:resource:1>, <ore:blockVibrantAlloy>],
+  ]);
+
 recipes.remove(<mysticalagriculture:end_steel_seeds>);
+mods.avaritia.ExtremeCrafting.addShaped("End Steel Seed", <mysticalagriculture:end_steel_seeds>,
+  [
+    [<ore:blockEndSteel>, <avaritia:resource:1>, <ore:blockEndSteel>, <avaritia:resource:1>, <ore:blockEndSteel>, <avaritia:resource:1>, <ore:blockEndSteel>, <avaritia:resource:1>, <ore:blockEndSteel>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockEndSteel>, null, null, null, null, null, null, null, <ore:blockEndSteel>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockEndSteel>, null, null, null, <mysticalagriculture:crafting:21>, null, null, null, <ore:blockEndSteel>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockEndSteel>, null, null, null, null, null, null, null, <ore:blockEndSteel>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<ore:blockEndSteel>, <avaritia:resource:1>, <ore:blockEndSteel>, <avaritia:resource:1>, <ore:blockEndSteel>, <avaritia:resource:1>, <ore:blockEndSteel>, <avaritia:resource:1>, <ore:blockEndSteel>],
+  ]);
+
 recipes.remove(<mysticalagriculture:terrasteel_seeds>);
+mods.avaritia.ExtremeCrafting.addShaped("Terrasteel Seed", <mysticalagriculture:terrasteel_seeds>,
+  [
+    [<botania:storage:1>, <avaritia:resource:1>, <botania:storage:1>, <avaritia:resource:1>, <botania:storage:1>, <avaritia:resource:1>, <botania:storage:1>, <avaritia:resource:1>, <botania:storage:1>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<botania:storage:1>, null, null, null, null, null, null, null, <botania:storage:1>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<botania:storage:1>, null, null, null, <mysticalagriculture:crafting:21>, null, null, null, <botania:storage:1>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<botania:storage:1>, null, null, null, null, null, null, null, <botania:storage:1>],
+    [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
+    [<botania:storage:1>, <avaritia:resource:1>, <botania:storage:1>, <avaritia:resource:1>, <botania:storage:1>, <avaritia:resource:1>, <botania:storage:1>, <avaritia:resource:1>, <botania:storage:1>],
+  ]);
+
 mods.jei.JEI.removeAndHide(<mysticalagriculture:ender_amethyst_seeds>);
 
 // Tier 6
-recipes.remove(<mysticalagradditions:insanium:1>);
 recipes.remove(<mysticalagradditions:tier6_inferium_seeds>);
+// mods.avaritia.ExtremeCrafting.addShaped("name",output, ingredients);
+mods.avaritia.ExtremeCrafting.addShaped("Tier 6 Inferium Seed", <mysticalagradditions:tier6_inferium_seeds>,
+  [
+    [<mysticalagradditions:storage>, <avaritia:resource:4>, <mysticalagradditions:storage>, <avaritia:resource:4>, <mysticalagradditions:storage>, <avaritia:resource:4>, <mysticalagradditions:storage>, <avaritia:resource:4>, <mysticalagradditions:storage>],
+    [<avaritia:resource:4>, null, null, null, null, null, null, null, <avaritia:resource:4>],
+    [<mysticalagradditions:storage>, null, null, null, null, null, null, null, <mysticalagradditions:storage>],
+    [<avaritia:resource:4>, null, null, <avaritia:resource:6>, <avaritia:resource:6>, <avaritia:resource:6>, null, null, <avaritia:resource:4>],
+    [<mysticalagradditions:storage>, null, null, <avaritia:resource:6>, <mysticalagradditions:insanium:1>, <avaritia:resource:6>, null, null, <mysticalagradditions:storage>],
+    [<avaritia:resource:4>, null, null, <avaritia:resource:6>, <avaritia:resource:6>, <avaritia:resource:6>, null, null, <avaritia:resource:4>],
+    [<mysticalagradditions:storage>, null, null, null, null, null, null, null, <mysticalagradditions:storage>],
+    [<avaritia:resource:4>, null, null, null, null, null, null, null, <avaritia:resource:4>],
+    [<mysticalagradditions:storage>, <avaritia:resource:4>, <mysticalagradditions:storage>, <avaritia:resource:4>, <mysticalagradditions:storage>, <avaritia:resource:4>, <mysticalagradditions:storage>, <avaritia:resource:4>, <mysticalagradditions:storage>],
+  ]);
+
 recipes.remove(<mysticalagradditions:nether_star_seeds>);
+mods.avaritia.ExtremeCrafting.addShaped("Nether Star Seed", <mysticalagradditions:nether_star_seeds>,
+  [
+    [<minecraft:nether_star>, <avaritia:resource:4>, <minecraft:nether_star>, <avaritia:resource:4>, <minecraft:nether_star>, <avaritia:resource:4>, <minecraft:nether_star>, <avaritia:resource:4>, <minecraft:nether_star>],
+    [<avaritia:resource:4>, null, null, null, null, null, null, null, <avaritia:resource:4>],
+    [<minecraft:nether_star>, null, null, null, null, null, null, null, <minecraft:nether_star>],
+    [<avaritia:resource:4>, null, null, <avaritia:resource:6>, <avaritia:resource:6>, <avaritia:resource:6>, null, null, <avaritia:resource:4>],
+    [<minecraft:nether_star>, null, null, <avaritia:resource:6>, <mysticalagradditions:insanium:1>, <avaritia:resource:6>, null, null, <minecraft:nether_star>],
+    [<avaritia:resource:4>, null, null, <avaritia:resource:6>, <avaritia:resource:6>, <avaritia:resource:6>, null, null, <avaritia:resource:4>],
+    [<minecraft:nether_star>, null, null, null, null, null, null, null, <minecraft:nether_star>],
+    [<avaritia:resource:4>, null, null, null, null, null, null, null, <avaritia:resource:4>],
+    [<minecraft:nether_star>, <avaritia:resource:4>, <minecraft:nether_star>, <avaritia:resource:4>, <minecraft:nether_star>, <avaritia:resource:4>, <minecraft:nether_star>, <avaritia:resource:4>, <minecraft:nether_star>],
+  ]);
+
 recipes.remove(<mysticalagradditions:dragon_egg_seeds>);
+mods.avaritia.ExtremeCrafting.addShaped("Dragon Egg Seed", <mysticalagradditions:dragon_egg_seeds>,
+  [
+    [<minecraft:dragon_egg>, <avaritia:resource:4>, <minecraft:dragon_egg>, <avaritia:resource:4>, <minecraft:dragon_egg>, <avaritia:resource:4>, <minecraft:dragon_egg>, <avaritia:resource:4>, <minecraft:dragon_egg>],
+    [<avaritia:resource:4>, null, null, null, null, null, null, null, <avaritia:resource:4>],
+    [<minecraft:dragon_egg>, null, null, null, null, null, null, null, <minecraft:dragon_egg>],
+    [<avaritia:resource:4>, null, null, <avaritia:resource:6>, <avaritia:resource:6>, <avaritia:resource:6>, null, null, <avaritia:resource:4>],
+    [<minecraft:dragon_egg>, null, null, <avaritia:resource:6>, <mysticalagradditions:insanium:1>, <avaritia:resource:6>, null, null, <minecraft:dragon_egg>],
+    [<avaritia:resource:4>, null, null, <avaritia:resource:6>, <avaritia:resource:6>, <avaritia:resource:6>, null, null, <avaritia:resource:4>],
+    [<minecraft:dragon_egg>, null, null, null, null, null, null, null, <minecraft:dragon_egg>],
+    [<avaritia:resource:4>, null, null, null, null, null, null, null, <avaritia:resource:4>],
+    [<minecraft:dragon_egg>, <avaritia:resource:4>, <minecraft:dragon_egg>, <avaritia:resource:4>, <minecraft:dragon_egg>, <avaritia:resource:4>, <minecraft:dragon_egg>, <avaritia:resource:4>, <minecraft:dragon_egg>],
+  ]);
+
 recipes.remove(<mysticalagradditions:neutronium_seeds>);
+mods.avaritia.ExtremeCrafting.addShaped("Neutronium Seed", <mysticalagradditions:neutronium_seeds>,
+  [
+    [<avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>],
+    [<avaritia:resource:4>, null, null, null, null, null, null, null, <avaritia:resource:4>],
+    [<avaritia:resource:4>, null, null, null, null, null, null, null, <avaritia:resource:4>],
+    [<avaritia:resource:4>, null, null, <avaritia:resource:6>, <avaritia:resource:6>, <avaritia:resource:6>, null, null, <avaritia:resource:4>],
+    [<avaritia:resource:4>, null, null, <avaritia:resource:6>, <mysticalagradditions:insanium:1>, <avaritia:resource:6>, null, null, <avaritia:resource:4>],
+    [<avaritia:resource:4>, null, null, <avaritia:resource:6>, <avaritia:resource:6>, <avaritia:resource:6>, null, null, <avaritia:resource:4>],
+    [<avaritia:resource:4>, null, null, null, null, null, null, null, <avaritia:resource:4>],
+    [<avaritia:resource:4>, null, null, null, null, null, null, null, <avaritia:resource:4>],
+    [<avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>],
+  ]);
+
 
 
 // ======================================================================

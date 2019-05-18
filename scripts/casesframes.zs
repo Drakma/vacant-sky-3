@@ -17,9 +17,9 @@ recipes.addShaped(<forestry:sturdy_machine>,
 // ======================================================================
 recipes.remove(<thermalexpansion:frame>);
 recipes.addShaped(<thermalexpansion:frame>, 
-  [[ <ore:itemRubber>, <ore:plateSteel>, <ore:itemRubber>],
+  [[ <ore:itemRubber>, <ore:plateInvar>, <ore:itemRubber>],
    [ <ore:gearIron>, <forestry:hardened_machine>, <ore:gearIron>],
-   [ <ore:itemRubber>, <ore:plateSteel>, <ore:itemRubber>]]);
+   [ <ore:itemRubber>, <ore:plateInvar>, <ore:itemRubber>]]);
 
 recipes.remove(<thermalexpansion:frame:64>);
 recipes.addShaped(<thermalexpansion:frame:64>, 

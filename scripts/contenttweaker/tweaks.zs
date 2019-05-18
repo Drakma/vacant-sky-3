@@ -6,7 +6,6 @@ import mods.contenttweaker.MaterialPartData;
 import mods.contenttweaker.MaterialSystem;
 import mods.contenttweaker.ItemFood;
 
-
 #======================================================================
 # Drakonium
 #======================================================================
@@ -46,5 +45,8 @@ nature_essence.registerParts(botania_parts);
 // Edible Bees
 // ======================================================================
 var ebee = mods.contenttweaker.VanillaFactory.createItemFood("cooked_bee", 1);
+var cbee = mods.contenttweaker.VanillaFactory.createItemFood("chocolate_cooked_bee", 3);
+cbee.saturation = 1.5;
 
 ebee.register();
+cbee.register();

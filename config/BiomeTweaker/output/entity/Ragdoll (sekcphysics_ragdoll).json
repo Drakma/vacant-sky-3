@@ -1,6 +1,0 @@
-
-{
-  "Name": "Ragdoll",
-  "Registry ID": "sekcphysics:ragdoll",
-  "Class": "com.sekwah.sekcphysics.client.cliententity.EntityRagdoll"
-}
