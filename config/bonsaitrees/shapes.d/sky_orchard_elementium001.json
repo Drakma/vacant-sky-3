@@ -1,0 +1,51 @@
+{
+  "type": "sky_orchard:elementium",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "sky_orchards:leaves_elementium",
+      "meta": 8
+    },
+    "b": {
+      "name": "sky_orchards:log_elementium",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "aaaa ",
+      "aaaa ",
+      "     "
+    ],
+    [
+      "  a  ",
+      "  aa ",
+      "aaaaa",
+      "aaaaa",
+      "     "
+    ],
+    [
+      " aaa ",
+      " aba ",
+      "aabaa",
+      "aabaa",
+      "  b  "
+    ],
+    [
+      "  a  ",
+      "  aa ",
+      "aaaaa",
+      "aaaaa",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " aaa ",
+      " aaaa",
+      "     "
+    ]
+  ]
+}

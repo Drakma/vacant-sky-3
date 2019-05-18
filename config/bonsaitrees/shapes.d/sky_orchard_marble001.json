@@ -1,0 +1,51 @@
+{
+  "type": "sky_orchard:marble",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "sky_orchards:leaves_marble",
+      "meta": 8
+    },
+    "b": {
+      "name": "sky_orchards:log_marble",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "aaaaa",
+      " aaaa",
+      "     "
+    ],
+    [
+      "  a  ",
+      "  a  ",
+      "aaaaa",
+      "aaaaa",
+      "     "
+    ],
+    [
+      " aaa ",
+      " aba ",
+      "aabaa",
+      "aabaa",
+      "  b  "
+    ],
+    [
+      "  a  ",
+      "  a  ",
+      "aaaaa",
+      "aaaaa",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " aaa ",
+      "aaaaa",
+      "     "
+    ]
+  ]
+}

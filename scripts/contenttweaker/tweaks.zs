@@ -4,6 +4,8 @@ import mods.contenttweaker.Color;
 import mods.contenttweaker.Material;
 import mods.contenttweaker.MaterialPartData;
 import mods.contenttweaker.MaterialSystem;
+import mods.contenttweaker.ItemFood;
+
 
 #======================================================================
 # Drakonium
@@ -35,5 +37,14 @@ supremium_uranium.registerParts(blend_parts);
 // ======================================================================
 var botania_parts  = ["molten"] as string[];
 var flower_essence = MaterialSystem.getMaterialBuilder().setName("Flower Essence").setColor(Color.fromHex("D33A17")).build();
+var nature_essence = MaterialSystem.getMaterialBuilder().setName("Nature Crafting").setColor(Color.fromHex("E3901D")).build();
 
 flower_essence.registerParts(botania_parts);
+nature_essence.registerParts(botania_parts);
+
+// ======================================================================
+// Edible Bees
+// ======================================================================
+var ebee = mods.contenttweaker.VanillaFactory.createItemFood("cooked_bee", 1);
+
+ebee.register();

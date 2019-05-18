@@ -1,7 +1,10 @@
+// plateIron
+mods.tconstruct.Casting.addTableRecipe(<tconstruct:cast_custom:3>, <minecraft:stone_pressure_plate>, <liquid:gold>, 288, true, 200);
+mods.tconstruct.Casting.addTableRecipe(<tconstruct:cast_custom:3>, <minecraft:stone_pressure_plate>, <liquid:alubrass>, 144, true, 200);
 //Gears
 mods.tconstruct.Casting.removeTableRecipe(<tconstruct:cast_custom:4>);
 mods.tconstruct.Casting.addTableRecipe(<tconstruct:cast_custom:4>, <thermalfoundation:material:24>, <liquid:gold>, 288, true, 200);
-mods.tconstruct.Casting.addTableRecipe(<tconstruct:cast_custom:4>, <thermalfoundation:material:24>, <liquid:alubrass>, 288, true, 200);
+mods.tconstruct.Casting.addTableRecipe(<tconstruct:cast_custom:4>, <thermalfoundation:material:24>, <liquid:alubrass>, 144, true, 200);
 
 //Steel Press Molds
 mods.tconstruct.Casting.addTableRecipe(<thermalfoundation:material:23>, <appliedenergistics2:material:40>, <liquid:stone>, 576, true, 200);

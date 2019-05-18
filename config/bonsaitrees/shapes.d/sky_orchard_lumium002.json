@@ -1,0 +1,51 @@
+{
+  "type": "sky_orchard:lumium",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "sky_orchards:leaves_lumium",
+      "meta": 8
+    },
+    "b": {
+      "name": "sky_orchards:log_lumium",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      " aaa ",
+      " aaa ",
+      "     "
+    ],
+    [
+      "  a  ",
+      " aa  ",
+      "aaaaa",
+      "aaaaa",
+      "     "
+    ],
+    [
+      " aaa ",
+      " aba ",
+      "aabaa",
+      "aabaa",
+      "  b  "
+    ],
+    [
+      "  a  ",
+      "  a  ",
+      "aaaaa",
+      "aaaaa",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " aaaa",
+      " aaaa",
+      "     "
+    ]
+  ]
+}

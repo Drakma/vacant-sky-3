@@ -1,0 +1,61 @@
+{
+  "type": "sky_orchard:manyullyn",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "sky_orchards:leaves_manyullyn",
+      "meta": 8
+    },
+    "b": {
+      "name": "sky_orchards:log_manyullyn",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      " aaaa",
+      " aaaa",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  a  ",
+      " aaa ",
+      "aaaaa",
+      "aaaaa",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " aaa ",
+      " aba ",
+      "aabaa",
+      "aabaa",
+      "  b  ",
+      "  b  ",
+      "  b  "
+    ],
+    [
+      "  a  ",
+      " aa  ",
+      "aaaaa",
+      "aaaaa",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "aaaaa",
+      "aaaaa",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

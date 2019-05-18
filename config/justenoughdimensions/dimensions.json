@@ -19,6 +19,7 @@
         "CanDoLightning": false,
         "CanDoRainSnowIce": false,
         "SkyColor": "666699",
+        "CanSpawnHostiles": true,
         "CanSpawnPeacefulMobs": false
       },
       "worldinfo_onetime": {
@@ -52,7 +53,7 @@
         "SkyColor": "111111",
         "FogColor": "444444",
         "CloudColor": "666666",
-        "CanSpawnHostiles": false,
+        "CanSpawnHostiles": true,
         "CanSpawnPeacefulMobs": false
       },
       "worldinfo_onetime": {
@@ -95,7 +96,7 @@
         "MusicType": "nether",
         "SkyRenderer": "DummyRenderer",
         "WeatherRenderer": "DummyRenderer",
-        "CanSpawnHostiles": false,
+        "CanSpawnHostiles": true,
         "CanSpawnPeacefulMobs": false
       },
       "worldinfo_onetime": {
@@ -126,7 +127,7 @@
         "SkyColor": "666699",
         "FogColor": "9999aa",
         "CloudColor": "9999ee",
-        "CanSpawnHostiles": false,
+        "CanSpawnHostiles": true,
         "CanSpawnPeacefulMobs": false
       },
       "worldinfo_onetime": {
@@ -158,7 +159,8 @@
         "DisableEnderDragon": true,
         "DisableEndSpikes": true,
         "CanSpawnHostiles": false,
-        "CanSpawnPeacefulMobs": false
+        "CanSpawnPeacefulMobs": false,
+        "LightBrightness": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
       },
       "worldinfo_onetime": {
         "RandomSeed": "",
@@ -170,7 +172,7 @@
           "naturalRegeneration": false
         },
         "generatorName": "BIOMESOP",
-        "DayTime": "19000"
+        "DayTime": "21000"
       }
     },
     {
@@ -206,7 +208,7 @@
           "naturalRegeneration": false
         },
         "generatorName": "BIOMESOP",
-        "DayTime": "19000"
+        "DayTime": "21000"
       }
     }
   ]

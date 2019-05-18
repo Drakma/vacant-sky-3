@@ -1,0 +1,56 @@
+{
+  "type": "sky_orchard:redstonealloy",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "sky_orchards:leaves_redstonealloy",
+      "meta": 8
+    },
+    "b": {
+      "name": "sky_orchards:log_redstonealloy",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "aaaaa",
+      "aaaa ",
+      "     ",
+      "     "
+    ],
+    [
+      "  a  ",
+      " aaa ",
+      "aaaaa",
+      "aaaaa",
+      "     ",
+      "     "
+    ],
+    [
+      " aaa ",
+      " aba ",
+      "aabaa",
+      "aabaa",
+      "  b  ",
+      "  b  "
+    ],
+    [
+      "  a  ",
+      "  a  ",
+      "aaaaa",
+      "aaaaa",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "aaaaa",
+      " aaaa",
+      "     ",
+      "     "
+    ]
+  ]
+}

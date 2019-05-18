@@ -1,0 +1,64 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"top": "blocks/snow",
+		"ridge": "blocks/snow",
+		"base": "blocks/snow",
+		"particle": "blocks/snow"
+	},
+	"elements": [
+		{
+			"name": "Cube Bottom",
+			"from": [1, 0, 1],
+			"to": [15, 2, 15],
+			"faces": {
+				"north": {"uv": [0, 0, 14, 2], "texture": "#base"},
+				"east": {"uv": [0, 0, 14, 2], "texture": "#base"},
+				"south": {"uv": [0, 0, 14, 2], "texture": "#base"},
+				"west": {"uv": [0, 0, 14, 2], "texture": "#base"},
+				"up": {"uv": [0, 0, 14, 14], "texture": "#base"},
+				"down": {"uv": [0, 0, 14, 14], "texture": "#base"}
+			}
+		},
+		{
+			"name": "Ridge #ridge",
+			"from": [3, 2, 3],
+			"to": [13, 4, 13],
+			"faces": {
+				"north": {"uv": [0, 0, 10, 2], "texture": "#ridge"},
+				"east": {"uv": [0, 0, 10, 2], "texture": "#ridge"},
+				"south": {"uv": [0, 0, 10, 2], "texture": "#ridge"},
+				"west": {"uv": [0, 0, 10, 2], "texture": "#ridge"},
+				"up": {"uv": [3, 3, 13, 13], "texture": "#ridge"},
+				"down": {"uv": [3, 3, 13, 13], "texture": "#ridge"}
+			}
+		},
+		{
+			"name": "Cube Core",
+			"from": [5, 4, 5],
+			"to": [11, 11, 11],
+			"faces": {
+				"north": {"uv": [0, 0, 6, 10], "texture": "#base"},
+				"east": {"uv": [0, 0, 6, 10], "texture": "#base"},
+				"south": {"uv": [0, 0, 6, 10], "texture": "#base"},
+				"west": {"uv": [0, 0, 6, 10], "texture": "#base"},
+				"up": {"uv": [5, 5, 11, 11], "texture": "#base"},
+				"down": {"uv": [5, 5, 11, 11], "texture": "#base"}
+			}
+		},
+		{
+			"name": "Cube Top",
+			"from": [2, 11, 2],
+			"to": [14, 16, 14],
+			"faces": {
+				"north": {"uv": [2, 0, 14, 2], "texture": "#base"},
+				"east": {"uv": [2, 0, 14, 2], "texture": "#base"},
+				"south": {"uv": [2, 0, 14, 2], "texture": "#base"},
+				"west": {"uv": [2, 0, 14, 2], "texture": "#base"},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#top", "tintindex": 0},
+				"down": {"uv": [2, 2, 14, 14], "texture": "#base"}
+			}
+		}
+	],
+	"display": {}
+}

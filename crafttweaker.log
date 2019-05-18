@@ -1,8 +1,11 @@
 [PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
 [PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: biomes-o-plenty.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: botania.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: casesframes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ceramics.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: contenttweaker\tweaks.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: edible-bees.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: environmental-tech.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: exnihilo.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: forestry.zs} as we are currently loading with a different loader
@@ -14,19 +17,23 @@
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: pedestal-crafting.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: recipes.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: simple-networks.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: simply-jetpacks.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: sky-orchards.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: storage-drawers.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: tconstruct.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: thermal-expansion.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: thermal-logistics.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: thermal.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: yabba.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 3ms
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: zen-summoning.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 2ms
 [PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [contenttweaker]]
 [PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [contenttweaker]
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: biomes-o-plenty.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: botania.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: casesframes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ceramics.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Loading Script: {[0:contenttweaker]: contenttweaker\tweaks.zs}
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: edible-bees.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: environmental-tech.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: exnihilo.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: forestry.zs} as we are currently loading with a different loader
@@ -38,21 +45,25 @@
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: pedestal-crafting.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: recipes.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: simple-networks.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: simply-jetpacks.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: sky-orchards.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: storage-drawers.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: tconstruct.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: thermal-expansion.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: thermal-logistics.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: thermal.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: yabba.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 252ms
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: zen-summoning.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 185ms
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
 [INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [contenttweaker], [recipeevent | crafttweaker]]
 [INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: biomes-o-plenty.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: botania.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: casesframes.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ceramics.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: contenttweaker\tweaks.zs} as we are currently loading with a different loader
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: edible-bees.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: environmental-tech.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: exnihilo.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: forestry.zs}
@@ -64,12 +75,35 @@
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: mystical-agriculture.zs}
 [INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Tier 2 Crafting Seed
 [INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tier 5 crafting seed for Tier 5 Crafting Seed
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tier 6 crafting seed for Tier 6 Crafting Seed
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Inferium Seeds
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Fire Seeds
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Dye Seeds
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Nether Seeds
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Coal Seeds
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Pig Seeds
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Chicken Seeds
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Cow Seeds
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Sheep Seeds
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Slime Seeds
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Silicon Seeds
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Sulfur Seeds
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Aluminum Seeds
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Copper Seeds
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Aluminum Brass Seeds
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Grains of Infinity Seeds
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Mystical Flower Seeds
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Marble Seeds
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Limestone Seeds
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Basalt Seeds
+[INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Apatite Seeds
 [INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Prosperity Shard
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: pedestal-crafting.zs}
 [INITIALIZATION][CLIENT][INFO] Translating tile.pedestal.lapis.name to Pedestal
 [INITIALIZATION][CLIENT][INFO] Translating tile.pedestal_core.lapis.name to Pedestal Core
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: simple-networks.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: simply-jetpacks.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: sky-orchards.zs}
 [INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Coal Sapling
 [INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Granite Sapling
@@ -91,6 +125,33 @@
 [INITIALIZATION][CLIENT][INFO] Adding a Pedestal Crafting recipe for Prismarine Sapling
 [INITIALIZATION][CLIENT][INFO] Setting fuel for <sky_orchards:acorn_coal>
 [INITIALIZATION][CLIENT][INFO] Setting fuel for <sky_orchards:amber_coal>
+[INITIALIZATION][CLIENT][INFO] Removing 'Granite Amber' drop from tree type 'sky_orchards:granite'
+[INITIALIZATION][CLIENT][INFO] Removing 'Diorite Amber' drop from tree type 'sky_orchards:diorite'
+[INITIALIZATION][CLIENT][INFO] Removing 'Andesite Amber' drop from tree type 'sky_orchards:andesite'
+[INITIALIZATION][CLIENT][INFO] Removing 'Marble Amber' drop from tree type 'sky_orchards:marble'
+[INITIALIZATION][CLIENT][INFO] Removing 'Lumium Amber' drop from tree type 'sky_orchards:lumium'
+[INITIALIZATION][CLIENT][INFO] Removing 'Signalum Amber' drop from tree type 'sky_orchards:signalum'
+[INITIALIZATION][CLIENT][INFO] Removing 'Enderium Amber' drop from tree type 'sky_orchards:enderium'
+[INITIALIZATION][CLIENT][INFO] Removing 'Platinum Amber' drop from tree type 'sky_orchards:platinum'
+[INITIALIZATION][CLIENT][INFO] Removing 'Steel Amber' drop from tree type 'sky_orchards:steel'
+[INITIALIZATION][CLIENT][INFO] Removing 'Coal Amber' drop from tree type 'sky_orchards:coal'
+[INITIALIZATION][CLIENT][INFO] Removing 'Manyullyn Amber' drop from tree type 'sky_orchards:manyullyn'
+[INITIALIZATION][CLIENT][INFO] Removing 'Darksteel Amber' drop from tree type 'sky_orchards:darksteel'
+[INITIALIZATION][CLIENT][INFO] Removing 'Energetic Amber' drop from tree type 'sky_orchards:energetic'
+[INITIALIZATION][CLIENT][INFO] Removing 'Vibrant Amber' drop from tree type 'sky_orchards:vibrant'
+[INITIALIZATION][CLIENT][INFO] Removing 'Redstonealloy Amber' drop from tree type 'sky_orchards:redstonealloy'
+[INITIALIZATION][CLIENT][INFO] Removing 'Ender Amber' drop from tree type 'sky_orchards:ender'
+[INITIALIZATION][CLIENT][INFO] Removing 'Knightslime Amber' drop from tree type 'sky_orchards:knightslime'
+[INITIALIZATION][CLIENT][INFO] Removing 'Manasteel Amber' drop from tree type 'sky_orchards:manasteel'
+[INITIALIZATION][CLIENT][INFO] Removing 'Terrasteel Amber' drop from tree type 'sky_orchards:terrasteel'
+[INITIALIZATION][CLIENT][INFO] Removing 'Elementium Amber' drop from tree type 'sky_orchards:elementium'
+[INITIALIZATION][CLIENT][INFO] Removing 'Inferium Amber' drop from tree type 'sky_orchards:inferium'
+[INITIALIZATION][CLIENT][INFO] Removing 'Prismarine Amber' drop from tree type 'sky_orchards:prismarine'
+[INITIALIZATION][CLIENT][INFO] Removing 'Fertilizer Amber' drop from tree type 'sky_orchards:fertilizer'
+[INITIALIZATION][CLIENT][INFO] Removing 'Fertilizer Resin' drop from tree type 'sky_orchards:fertilizer'
+[INITIALIZATION][CLIENT][INFO] Removing 'Fertilizer Acorn' drop from tree type 'sky_orchards:fertilizer'
+[INITIALIZATION][CLIENT][INFO] Removing 'Fertilizer Leaves' drop from tree type 'sky_orchards:fertilizer'
+[INITIALIZATION][CLIENT][INFO] Adding 'Floral Fertilizer' drop to tree type 'sky_orchards:fertilizer'
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: storage-drawers.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: tconstruct.zs}
 [INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:cast_custom:4>
@@ -118,9 +179,9 @@
 [INITIALIZATION][CLIENT][INFO] Altering Alloy Recipe(s) for <liquid:bronze>
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: thermal-expansion.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: thermal-logistics.zs}
-[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: thermal.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: yabba.zs}
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 211ms
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: zen-summoning.zs}
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 255ms
 [INITIALIZATION][CLIENT][INFO] Translating tile.gendustry.industrial_apiary.name to Apiary
 [INITIALIZATION][CLIENT][INFO] Translating tile.pedestal.lapis.name to Pedestal
 [INITIALIZATION][CLIENT][INFO] Translating tile.pedestal_core.lapis.name to Pedestal Core
@@ -129,11 +190,14 @@
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Device Frame with name ct_shaped253841569
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Energy Cell Frame with name ct_shaped-1660420954
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Simple Machine Chassis with name ct_shaped157460789
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lava Clay Bucket with name ct_shaped-1012364249
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Litherite Crystal with name ct_shaped-1053746582
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Diode with name ct_shaped283209644
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sieve with name ct_shaped-89678313
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Portable Analyzer with name ct_shaped1870785880
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Bee House with name ct_shaped-722352728
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wood Drone with name ct_shaped-225003512
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wood Princess with name ct_shaped-110824058
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wooden Gear with name ct_shaped11776001
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Stone Gear with name ct_shaped1301928487
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Apiary with name ct_shaped361251836
@@ -173,6 +237,7 @@
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elementium Amber with name ct_shaped-1626136041
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Knightslime Amber with name ct_shaped2042418589
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Prismarine Amber with name ct_shaped-1014449417
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fertilizer Amber with name ct_shaped-866563977
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Drawer Controller with name ct_shaped-1545906003
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Terminal with name ct_shaped92819319
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Item Barrel Connector with name ct_shaped-806948001
@@ -193,12 +258,51 @@
 [POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <minecraft:coal>
 [POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <minecraft:coal:1>
 [POSTINITIALIZATION][CLIENT][INFO] 28 recipes removed for: <minecraft:coal:1>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <forestry:bee_drone_ge>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <forestry:bee_queen_ge>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <forestry:bee_princess_ge>
 [AVAILABLE][CLIENT][INFO] Attempting to remove Pure Daisy recipe for [<botania:livingrock>]
 [AVAILABLE][CLIENT][INFO] Removing 1 Botania PureDaisy Recipe(s) for <botania:livingrock>
 [AVAILABLE][CLIENT][INFO] Attempting to remove Pure Daisy recipe for [<botania:livingwood>]
 [AVAILABLE][CLIENT][INFO] Removing 1 Botania PureDaisy Recipe(s) for <botania:livingwood>
 [AVAILABLE][CLIENT][INFO] Attempting to remove mana infusion recipe for [<botania:manaresource>]
 [AVAILABLE][CLIENT][INFO] Removing 1 Botania Mana Infusion Recipe(s) for <botania:manaresource>
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreIron
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreOsmium
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreMythril
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreInfusedFire
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreMCropsEssence
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreChimerite
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreRuby
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreCinnabar
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreSapphire
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreCoal
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreVinteum
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreDiamond
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreTungsten
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreEmerald
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreDarkIron
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreUranium
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreNickel
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreInfusedEntropy
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreAdamantium
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreInfusedAir
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreInfusedEarth
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreFzDarkIron
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreAmber
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreOlivine
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreMithril
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreSilver
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreInfusedOrder
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreGold
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreGalena
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreBlueTopaz
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreDark
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreInfusedWater
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreZinc
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreQuartzBlack
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreYellorite
+[AVAILABLE][CLIENT][INFO] Removing Orechid Ore: oreApatite
 [AVAILABLE][CLIENT][INFO] Altering Forestry Carpenter Recipe(s) for Portable Analyzer
 [AVAILABLE][CLIENT][INFO] Attempting to remove Elven Trade recipe for [<botania:manaresource:7>]
 [AVAILABLE][CLIENT][INFO] Removing 1 Botania Eleven Trade Recipe(s) for [<botania:manaresource:7>]
@@ -214,9 +318,77 @@
 [AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <botania:fertilizer>
 [AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:flower_essence> * 10
 [AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <botania:manaresource>
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:for.honey> * 100
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <forestry:bee_chest>
 [AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <mysticalagriculture:crafting:17>
-[AVAILABLE][CLIENT][INFO] Adding 1 Botania Petal Recipe(s) for <mysticalagriculture:crafting:19>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:crafting:19>
 [AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:crafting:20>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <mysticalagriculture:tier1_inferium_seeds>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <mysticalagriculture:stone_seeds>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <mysticalagriculture:dirt_seeds>
+[AVAILABLE][CLIENT][INFO] Altering Forestry Squeezer Recipe(s) for <liquid:nature_crafting> * 250
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <mysticalagriculture:nature_seeds>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <mysticalagriculture:wood_seeds>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <mysticalagriculture:water_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania PureDaisy Recipe(s) for <mysticalagriculture:ice_crop>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <mysticalagriculture:zombie_seeds>
+[AVAILABLE][CLIENT][INFO] Altering Compactor Recipe(s) for <minecraft:bedrock> in mode: ALL
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <forestry:apatite> * 64
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:tier3_inferium_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:iron_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:nether_quartz_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:glowstone_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:redstone_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:obsidian_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:skeleton_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:creeper_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:spider_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:rabbit_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:guardian_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:saltpeter_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:tin_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:bronze_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:silver_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:lead_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:graphite_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:blizz_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:blitz_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:basalz_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:knightslime_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:ardite_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:electrical_steel_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:redstone_alloy_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:conductive_iron_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:manasteel_seeds>
+[AVAILABLE][CLIENT][INFO] Altering Compactor Recipe(s) for <appliedenergistics2:sky_stone_block> in mode: ALL
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:sky_stone_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:certus_quartz_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:tier4_inferium_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:gold_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:lapis_lazuli_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:end_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:experience_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:end_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:ghast_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:enderman_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:steel_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:nickel_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:constantan_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:electrum_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:invar_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:signalum_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:lumium_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:cobalt_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:soularium_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:dark_steel_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:pulsating_iron_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:elementium_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:boron_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:thorium_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:lithium_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:magnesium_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:fluix_seeds>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:energetic_alloy_seeds>
 [AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <mysticalagriculture:magnesium_seeds>
 [AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <mysticalagriculture:thorium_seeds>
 [AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <mysticalagriculture:boron_seeds>
@@ -260,6 +432,8 @@
 [AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <enderio:item_alloy_ingot:3> * 2
 [AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <tconstruct:ingots:3> * 2
 [AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <sky_orchards:sapling_inferium>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:cast_custom:3>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:cast_custom:3>
 [AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:cast_custom:4>
 [AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:cast_custom:4>
 [AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:23>
@@ -272,6 +446,26 @@
 [AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:drakonium> * 144
 [AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:drakonium> * 144
 [AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:drakonium> * 72
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <biomesoplenty:gem>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <biomesoplenty:gem:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <biomesoplenty:gem:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <biomesoplenty:gem:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <biomesoplenty:gem:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <biomesoplenty:gem:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <biomesoplenty:gem:6>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <biomesoplenty:gem:7>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:void_res_miner_cont_1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:void_res_miner_cont_2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:void_res_miner_cont_3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:void_res_miner_cont_4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:void_res_miner_cont_5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:void_res_miner_cont_6>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:void_botanic_miner_cont_1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:void_botanic_miner_cont_2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:void_botanic_miner_cont_3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:void_botanic_miner_cont_4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:void_botanic_miner_cont_5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:void_botanic_miner_cont_6>
 [AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_platinum:1>
 [AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_platinum>
 [AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_ore_aluminum:1>
@@ -347,4 +541,68 @@
 [AVAILABLE][CLIENT][INFO] Hiding item in JEI: <gendustry:apiary.upgrade:18>
 [AVAILABLE][CLIENT][INFO] Hiding item in JEI: <gendustry:apiary.upgrade:21>
 [AVAILABLE][CLIENT][INFO] Hiding item in JEI: <gendustry:apiary.upgrade:6>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:magma_cream>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mysticalagriculture:mithril_seeds>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mysticalagriculture:ruby_seeds>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mysticalagriculture:sapphire_seeds>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mysticalagriculture:peridot_seeds>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mysticalagriculture:amber_seeds>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mysticalagriculture:topaz_seeds>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mysticalagriculture:malachite_seeds>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mysticalagriculture:tanzanite_seeds>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mysticalagriculture:ender_amethyst_seeds>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal:7>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal:8>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal:9>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal:10>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal:11>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal_core:7>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal_core:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal_core:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal_core:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal_core:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal_core:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal_core>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal:15>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal:14>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal:13>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal:12>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal_core:8>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal_core:9>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal_core:10>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal_core:11>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal_core:12>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal_core:13>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal_core:14>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <pedestalcrafting:pedestal_core:15>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:itemjetpack>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:itemjetpack:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:itemjetpack:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:itemjetpack:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:itemjetpack:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:itemjetpack:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:itemjetpack:6>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:itemjetpack:7>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:itemjetpack:8>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:itemjetpack:9>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:metaitemmods:7>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:metaitemmods:8>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:metaitemmods:9>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:metaitemmods:10>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:metaitemmods:11>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:metaitemmods:12>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:metaitemmods:13>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:metaitemmods:14>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:metaitemmods:15>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:itemjetpack:18>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:metaitemmods:16>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:metaitemmods:17>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:metaitemmods:30>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:itemfluxpack:10>
 [SERVER_STARTED][CLIENT][INFO] Fixed the RecipeBook

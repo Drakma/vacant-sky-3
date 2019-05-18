@@ -1,0 +1,17 @@
+
+{
+    "name": "inspirations:mulch:6",
+    "mod": "inspirations",
+    "soil": {
+      "name": "inspirations:mulch",
+      "data": 6,
+      "ignoreMeta": false
+    },
+  
+    "modifiers": {
+      "growTime": 0.03,
+      "dropChance": 5.00
+    },
+  
+    "providedTags": [ "dirt", "grass" ]
+  }

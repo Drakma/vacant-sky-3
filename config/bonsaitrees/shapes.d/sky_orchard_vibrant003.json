@@ -1,0 +1,61 @@
+{
+  "type": "sky_orchard:vibrant",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "sky_orchards:log_vibrant",
+      "meta": 0
+    },
+    "b": {
+      "name": "sky_orchards:leaves_vibrant",
+      "meta": 8
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      " bbbb",
+      " bbb ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  b  ",
+      " bbb ",
+      "bbbbb",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " bbb ",
+      " bab ",
+      "bbabb",
+      "bbabb",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  b  ",
+      " bbb ",
+      "bbbbb",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "bbbb ",
+      "bbbb ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

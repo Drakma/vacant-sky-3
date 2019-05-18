@@ -36,3 +36,43 @@ mods.tconstruct.Melting.addRecipe(<liquid:flower_essence> * 10, <ore:flower>);
 // ======================================================================
 mods.botania.ManaInfusion.removeRecipe(<botania:manaresource>);
 mods.botania.ManaInfusion.addInfusion(<botania:manaresource>, <ore:ingotSteel>, 1000);
+
+// ======================================================================
+// Remove Orechid recipes
+// ======================================================================
+mods.botania.Orechid.removeOre("oreIron");
+mods.botania.Orechid.removeOre("oreOsmium");
+mods.botania.Orechid.removeOre("oreMythril");
+mods.botania.Orechid.removeOre("oreInfusedFire");
+mods.botania.Orechid.removeOre("oreMCropsEssence");
+mods.botania.Orechid.removeOre("oreChimerite");
+mods.botania.Orechid.removeOre("oreRuby");
+mods.botania.Orechid.removeOre("oreCinnabar");
+mods.botania.Orechid.removeOre("oreSapphire");
+mods.botania.Orechid.removeOre("oreCoal");
+mods.botania.Orechid.removeOre("oreVinteum");
+mods.botania.Orechid.removeOre("oreDiamond");
+mods.botania.Orechid.removeOre("oreTungsten");
+mods.botania.Orechid.removeOre("oreEmerald");
+mods.botania.Orechid.removeOre("oreDarkIron");
+mods.botania.Orechid.removeOre("oreUranium");
+mods.botania.Orechid.removeOre("oreNickel");
+mods.botania.Orechid.removeOre("oreInfusedEntropy");
+mods.botania.Orechid.removeOre("oreAdamantium");
+mods.botania.Orechid.removeOre("oreInfusedAir");
+mods.botania.Orechid.removeOre("oreInfusedEarth");
+mods.botania.Orechid.removeOre("oreFzDarkIron");
+mods.botania.Orechid.removeOre("oreAmber");
+mods.botania.Orechid.removeOre("oreOlivine");
+mods.botania.Orechid.removeOre("oreMithril");
+mods.botania.Orechid.removeOre("oreSilver");
+mods.botania.Orechid.removeOre("oreInfusedOrder");
+mods.botania.Orechid.removeOre("oreGold");
+mods.botania.Orechid.removeOre("oreGalena");
+mods.botania.Orechid.removeOre("oreBlueTopaz");
+mods.botania.Orechid.removeOre("oreDark");
+mods.botania.Orechid.removeOre("oreInfusedWater");
+mods.botania.Orechid.removeOre("oreZinc");
+mods.botania.Orechid.removeOre("oreQuartzBlack");
+mods.botania.Orechid.removeOre("oreYellorite");
+mods.botania.Orechid.removeOre("oreApatite");

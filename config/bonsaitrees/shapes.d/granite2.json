@@ -1,0 +1,57 @@
+{
+    "type": "sky_orchard:granite",
+    "version": 2,
+    "ref": {
+      "a": {
+        "name": "sky_orchards:leaves_granite",
+        "meta": 8
+      },
+      "b": {
+        "name": "sky_orchards:log_granite",
+        "meta": 0
+      }
+    },
+    "shape": [
+      [
+        "     ",
+        "     ",
+        "aaaa ",
+        " aaa ",
+        "     ",
+        "     "
+      ],
+      [
+        "  a  ",
+        "  aa ",
+        "aaaaa",
+        "aaaaa",
+        "     ",
+        "     "
+      ],
+      [
+        " aaa ",
+        " aba ",
+        "aabaa",
+        "aabaa",
+        "  b  ",
+        "  b  "
+      ],
+      [
+        "  a  ",
+        " aaa ",
+        "aaaaa",
+        "aaaaa",
+        "     ",
+        "     "
+      ],
+      [
+        "     ",
+        "     ",
+        " aaa ",
+        " aaaa",
+        "     ",
+        "     "
+      ]
+    ]
+  }
+  
