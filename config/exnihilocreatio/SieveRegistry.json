@@ -1,6 +1,346 @@
 {
   "minecraft:leaves:0": [
     {
+      "drop": {
+        "name": "biomesoplenty:sapling_0",
+        "meta": 0
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  
+      "drop": {
+        "name": "biomesoplenty:sapling_0",
+        "meta": 1
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_0",
+        "meta": 2
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_0",
+        "meta": 3
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_0",
+        "meta": 4
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_0",
+        "meta": 5
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_0",
+        "meta": 6
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_0",
+        "meta": 7
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_1",
+        "meta": 0
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_1",
+        "meta": 1
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_1",
+        "meta": 2
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_1",
+        "meta": 3
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_1",
+        "meta": 4
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_1",
+        "meta": 5
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_1",
+        "meta": 6
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_1",
+        "meta": 7
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_2",
+        "meta": 0
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_2",
+        "meta": 1
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_2",
+        "meta": 2
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_2",
+        "meta": 3
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_2",
+        "meta": 4
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_2",
+        "meta": 5
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_2",
+        "meta": 6
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_2",
+        "meta": 7
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+        {
+      "drop": {
+        "name": "biomesoplenty:sapling_0",
+        "meta": 0
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  
+      "drop": {
+        "name": "biomesoplenty:sapling_0",
+        "meta": 1
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_0",
+        "meta": 2
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_0",
+        "meta": 3
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_0",
+        "meta": 4
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_0",
+        "meta": 5
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_0",
+        "meta": 6
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_0",
+        "meta": 7
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_1",
+        "meta": 0
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_1",
+        "meta": 1
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_1",
+        "meta": 2
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_1",
+        "meta": 3
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_1",
+        "meta": 4
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_1",
+        "meta": 5
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_1",
+        "meta": 6
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_1",
+        "meta": 7
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_2",
+        "meta": 0
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_2",
+        "meta": 1
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_2",
+        "meta": 2
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_2",
+        "meta": 3
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_2",
+        "meta": 4
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_2",
+        "meta": 5
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_2",
+        "meta": 6
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {  "drop": {
+        "name": "biomesoplenty:sapling_2",
+        "meta": 7
+       },
+       "chance": 0.1,
+       "meshLevel": 1
+    },
+    {
       "drop": "dynamictrees:oakseed",
       "chance": 0.05,
       "meshLevel": 1

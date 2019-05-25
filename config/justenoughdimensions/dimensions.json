@@ -205,9 +205,9 @@
                 "worldprovider": "WorldProviderSurfaceJED"
             },
             "jed": {
-                "SkyColor": "000000",
-                "CloudColor": "000000",
-                "FogColor": "000000",
+                "SkyColor": "111111",
+                "FogColor": "444444",
+                "CloudColor": "666666",
                 "CanRespawnHere": false,
                 "RespawnDimension": 0,
                 "CanSleepHere": "bed_explodes",

@@ -3,100 +3,62 @@ import mods.cyclicmagic.Hydrator;
 // ======================================================================
 // Shaped Recipes
 // ======================================================================
-recipes.addShaped(<sky_orchards:amber_lumium>, 
-  [[ <sky_orchards:acorn_lumium>, <sky_orchards:resin_lumium>, <sky_orchards:acorn_lumium>],
-   [ <sky_orchards:resin_lumium>, <sky_orchards:acorn_lumium>, <sky_orchards:resin_lumium>],
-   [ <sky_orchards:acorn_lumium>, <sky_orchards:resin_lumium>, <sky_orchards:acorn_lumium>]]);
+recipes.addShapeless(<sky_orchards:amber_lumium>, 
+  [ <sky_orchards:resin_lumium>, <sky_orchards:resin_lumium>, <sky_orchards:resin_lumium>, <sky_orchards:resin_lumium>]);
 
-recipes.addShaped(<sky_orchards:amber_signalum>, 
-  [[ <sky_orchards:acorn_signalum>, <sky_orchards:resin_signalum>, <sky_orchards:acorn_signalum>],
-   [ <sky_orchards:resin_signalum>, <sky_orchards:acorn_signalum>, <sky_orchards:resin_signalum>],
-   [ <sky_orchards:acorn_signalum>, <sky_orchards:resin_signalum>, <sky_orchards:acorn_signalum>]]);
+recipes.addShapeless(<sky_orchards:amber_signalum>, 
+  [ <sky_orchards:resin_signalum>, <sky_orchards:resin_signalum>, <sky_orchards:resin_signalum>, <sky_orchards:resin_signalum>]);
 
-recipes.addShaped(<sky_orchards:amber_enderium>, 
-  [[ <sky_orchards:acorn_enderium>, <sky_orchards:resin_enderium>, <sky_orchards:acorn_enderium>],
-   [ <sky_orchards:resin_enderium>, <sky_orchards:acorn_enderium>, <sky_orchards:resin_enderium>],
-   [ <sky_orchards:acorn_enderium>, <sky_orchards:resin_enderium>, <sky_orchards:acorn_enderium>]]);
+recipes.addShapeless(<sky_orchards:amber_enderium>, 
+  [ <sky_orchards:resin_enderium>, <sky_orchards:resin_enderium>, <sky_orchards:resin_enderium>, <sky_orchards:resin_enderium>]);
 
-recipes.addShaped(<sky_orchards:amber_platinum>, 
-  [[ <sky_orchards:acorn_platinum>, <sky_orchards:resin_platinum>, <sky_orchards:acorn_platinum>],
-   [ <sky_orchards:resin_platinum>, <sky_orchards:acorn_platinum>, <sky_orchards:resin_platinum>],
-   [ <sky_orchards:acorn_platinum>, <sky_orchards:resin_platinum>, <sky_orchards:acorn_platinum>]]);
+recipes.addShapeless(<sky_orchards:amber_platinum>, 
+  [ <sky_orchards:resin_platinum>, <sky_orchards:resin_platinum>, <sky_orchards:resin_platinum>, <sky_orchards:resin_platinum>]);
 
-recipes.addShaped(<sky_orchards:amber_steel>, 
-  [[ <sky_orchards:acorn_steel>, <sky_orchards:resin_steel>, <sky_orchards:acorn_steel>],
-   [ <sky_orchards:resin_steel>, <sky_orchards:acorn_steel>, <sky_orchards:resin_steel>],
-   [ <sky_orchards:acorn_steel>, <sky_orchards:resin_steel>, <sky_orchards:acorn_steel>]]);
+recipes.addShapeless(<sky_orchards:amber_steel>, 
+  [ <sky_orchards:resin_steel>, <sky_orchards:resin_steel>, <sky_orchards:resin_steel>, <sky_orchards:resin_steel>]);
 
-recipes.addShaped(<sky_orchards:amber_coal>, 
-  [[ <sky_orchards:resin_coal>, <sky_orchards:resin_coal>, <sky_orchards:resin_coal>],
-   [ <sky_orchards:resin_coal>, <sky_orchards:resin_coal>, <sky_orchards:resin_coal>],
-   [ <sky_orchards:resin_coal>, <sky_orchards:resin_coal>, <sky_orchards:resin_coal>]]);
+recipes.addShapeless(<sky_orchards:amber_coal>, 
+  [ <sky_orchards:resin_coal>, <sky_orchards:resin_coal>, <sky_orchards:resin_coal>, <sky_orchards:resin_coal>]);
 
-recipes.addShaped(<sky_orchards:amber_manyullyn>, 
-  [[ <sky_orchards:acorn_manyullyn>, <sky_orchards:resin_manyullyn>, <sky_orchards:acorn_manyullyn>],
-   [ <sky_orchards:resin_manyullyn>, <sky_orchards:acorn_manyullyn>, <sky_orchards:resin_manyullyn>],
-   [ <sky_orchards:acorn_manyullyn>, <sky_orchards:resin_manyullyn>, <sky_orchards:acorn_manyullyn>]]);
+recipes.addShapeless(<sky_orchards:amber_manyullyn>, 
+  [ <sky_orchards:resin_manyullyn>, <sky_orchards:resin_manyullyn>, <sky_orchards:resin_manyullyn>, <sky_orchards:resin_manyullyn>]);
 
-recipes.addShaped(<sky_orchards:amber_darksteel>, 
-  [[ <sky_orchards:acorn_darksteel>, <sky_orchards:resin_darksteel>, <sky_orchards:acorn_darksteel>],
-   [ <sky_orchards:resin_darksteel>, <sky_orchards:acorn_darksteel>, <sky_orchards:resin_darksteel>],
-   [ <sky_orchards:acorn_darksteel>, <sky_orchards:resin_darksteel>, <sky_orchards:acorn_darksteel>]]);
+recipes.addShapeless(<sky_orchards:amber_darksteel>, 
+  [ <sky_orchards:resin_darksteel>, <sky_orchards:resin_darksteel>, <sky_orchards:resin_darksteel>, <sky_orchards:resin_darksteel>]);
 
-recipes.addShaped(<sky_orchards:amber_energetic>, 
-  [[ <sky_orchards:acorn_energetic>, <sky_orchards:resin_energetic>, <sky_orchards:acorn_energetic>],
-   [ <sky_orchards:resin_energetic>, <sky_orchards:acorn_energetic>, <sky_orchards:resin_energetic>],
-   [ <sky_orchards:acorn_energetic>, <sky_orchards:resin_energetic>, <sky_orchards:acorn_energetic>]]);
+recipes.addShapeless(<sky_orchards:amber_energetic>, 
+  [ <sky_orchards:resin_energetic>, <sky_orchards:resin_energetic>, <sky_orchards:resin_energetic>, <sky_orchards:resin_energetic>]);
 
-recipes.addShaped(<sky_orchards:amber_ender>, 
-  [[ <sky_orchards:acorn_ender>, <sky_orchards:resin_ender>, <sky_orchards:acorn_ender>],
-   [ <sky_orchards:resin_ender>, <sky_orchards:acorn_ender>, <sky_orchards:resin_ender>],
-   [ <sky_orchards:acorn_ender>, <sky_orchards:resin_ender>, <sky_orchards:acorn_ender>]]);
+recipes.addShapeless(<sky_orchards:amber_ender>, 
+  [ <sky_orchards:resin_ender>, <sky_orchards:resin_ender>, <sky_orchards:resin_ender>, <sky_orchards:resin_ender>]);
 
-recipes.addShaped(<sky_orchards:amber_redstonealloy>, 
-  [[ <sky_orchards:acorn_redstonealloy>, <sky_orchards:resin_redstonealloy>, <sky_orchards:acorn_redstonealloy>],
-   [ <sky_orchards:resin_redstonealloy>, <sky_orchards:acorn_redstonealloy>, <sky_orchards:resin_redstonealloy>],
-   [ <sky_orchards:acorn_redstonealloy>, <sky_orchards:resin_redstonealloy>, <sky_orchards:acorn_redstonealloy>]]);
+recipes.addShapeless(<sky_orchards:amber_redstonealloy>, 
+  [ <sky_orchards:resin_redstonealloy>, <sky_orchards:resin_redstonealloy>, <sky_orchards:resin_redstonealloy>, <sky_orchards:resin_redstonealloy>]);
 
-recipes.addShaped(<sky_orchards:amber_vibrant>, 
-  [[ <sky_orchards:acorn_vibrant>, <sky_orchards:resin_vibrant>, <sky_orchards:acorn_vibrant>],
-   [ <sky_orchards:resin_vibrant>, <sky_orchards:acorn_vibrant>, <sky_orchards:resin_vibrant>],
-   [ <sky_orchards:acorn_vibrant>, <sky_orchards:resin_vibrant>, <sky_orchards:acorn_vibrant>]]);
+recipes.addShapeless(<sky_orchards:amber_vibrant>, 
+  [ <sky_orchards:resin_vibrant>, <sky_orchards:resin_vibrant>, <sky_orchards:resin_vibrant>, <sky_orchards:resin_vibrant>]);
 
-recipes.addShaped(<sky_orchards:amber_manasteel>, 
-  [[ <sky_orchards:acorn_manasteel>, <sky_orchards:resin_manasteel>, <sky_orchards:acorn_manasteel>],
-   [ <sky_orchards:resin_manasteel>, <sky_orchards:acorn_manasteel>, <sky_orchards:resin_manasteel>],
-   [ <sky_orchards:acorn_manasteel>, <sky_orchards:resin_manasteel>, <sky_orchards:acorn_manasteel>]]);
+recipes.addShapeless(<sky_orchards:amber_manasteel>, 
+  [ <sky_orchards:resin_manasteel>, <sky_orchards:resin_manasteel>, <sky_orchards:resin_manasteel>, <sky_orchards:resin_manasteel>]);
 
-recipes.addShaped(<sky_orchards:amber_terrasteel>, 
-  [[ <sky_orchards:acorn_terrasteel>, <sky_orchards:resin_terrasteel>, <sky_orchards:acorn_terrasteel>],
-   [ <sky_orchards:resin_terrasteel>, <sky_orchards:acorn_terrasteel>, <sky_orchards:resin_terrasteel>],
-   [ <sky_orchards:acorn_terrasteel>, <sky_orchards:resin_terrasteel>, <sky_orchards:acorn_terrasteel>]]);
+recipes.addShapeless(<sky_orchards:amber_terrasteel>, 
+  [ <sky_orchards:resin_terrasteel>, <sky_orchards:resin_terrasteel>, <sky_orchards:resin_terrasteel>, <sky_orchards:resin_terrasteel>]);
 
-recipes.addShaped(<sky_orchards:amber_elementium>, 
-  [[ <sky_orchards:acorn_elementium>, <sky_orchards:resin_elementium>, <sky_orchards:acorn_elementium>],
-   [ <sky_orchards:resin_elementium>, <sky_orchards:acorn_elementium>, <sky_orchards:resin_elementium>],
-   [ <sky_orchards:acorn_elementium>, <sky_orchards:resin_elementium>, <sky_orchards:acorn_elementium>]]);
+recipes.addShapeless(<sky_orchards:amber_elementium>, 
+  [ <sky_orchards:resin_elementium>, <sky_orchards:resin_elementium>, <sky_orchards:resin_elementium>, <sky_orchards:resin_elementium>]);
 
-recipes.addShaped(<sky_orchards:amber_knightslime>, 
-  [[ <sky_orchards:acorn_knightslime>, <sky_orchards:resin_knightslime>, <sky_orchards:acorn_knightslime>],
-   [ <sky_orchards:resin_knightslime>, <sky_orchards:acorn_knightslime>, <sky_orchards:resin_knightslime>],
-   [ <sky_orchards:acorn_knightslime>, <sky_orchards:resin_knightslime>, <sky_orchards:acorn_knightslime>]]);
+recipes.addShapeless(<sky_orchards:amber_knightslime>, 
+  [ <sky_orchards:resin_knightslime>, <sky_orchards:resin_knightslime>, <sky_orchards:resin_knightslime>, <sky_orchards:resin_knightslime>]);
 
-recipes.addShaped(<sky_orchards:amber_prismarine>, 
-  [[ <sky_orchards:acorn_prismarine>, <sky_orchards:resin_prismarine>, <sky_orchards:acorn_prismarine>],
-   [ <sky_orchards:resin_prismarine>, <sky_orchards:acorn_prismarine>, <sky_orchards:resin_prismarine>],
-   [ <sky_orchards:acorn_prismarine>, <sky_orchards:resin_prismarine>, <sky_orchards:acorn_prismarine>]]);
+recipes.addShapeless(<sky_orchards:amber_prismarine>, 
+  [ <sky_orchards:resin_prismarine>, <sky_orchards:resin_prismarine>, <sky_orchards:resin_prismarine>, <sky_orchards:resin_prismarine>]);
 
-recipes.addShaped(<sky_orchards:amber_fertilizer>, 
-  [[ <sky_orchards:acorn_fertilizer>, <sky_orchards:resin_fertilizer>, <sky_orchards:acorn_fertilizer>],
-   [ <sky_orchards:resin_fertilizer>, <sky_orchards:acorn_fertilizer>, <sky_orchards:resin_fertilizer>],
-   [ <sky_orchards:acorn_fertilizer>, <sky_orchards:resin_fertilizer>, <sky_orchards:acorn_fertilizer>]]);
+recipes.addShapeless(<sky_orchards:amber_fertilizer>, 
+  [ <sky_orchards:resin_fertilizer>, <sky_orchards:resin_fertilizer>, <sky_orchards:resin_fertilizer>, <sky_orchards:resin_fertilizer>]);
 
-recipes.addShaped(<sky_orchards:amber_inferium>, 
-  [[ <sky_orchards:acorn_inferium>, <sky_orchards:resin_inferium>, <sky_orchards:acorn_inferium>],
-   [ <sky_orchards:resin_inferium>, <sky_orchards:acorn_inferium>, <sky_orchards:resin_inferium>],
-   [ <sky_orchards:acorn_inferium>, <sky_orchards:resin_inferium>, <sky_orchards:acorn_inferium>]]);
+recipes.addShapeless(<sky_orchards:amber_inferium>, 
+  [ <sky_orchards:resin_inferium>, <sky_orchards:resin_inferium>, <sky_orchards:resin_inferium>, <sky_orchards:resin_inferium>]);
 
 // ======================================================================
 // Pedestal Crafting
@@ -159,10 +121,10 @@ mods.pedestalcrafting.Pedestal.addRecipe(<sky_orchards:sapling_signalum>, 160, <
 ], [["endRod", "2"]], [["portal", "50"]], [["smoke", "25"], ["flame", "5"]]);
 
 mods.pedestalcrafting.Pedestal.addRecipe(<sky_orchards:sapling_enderium>, 160, <sky_orchards:sapling_coal>, [
-    <minecraft:ender_pearl>,
-    <minecraft:ender_pearl>,
-    <minecraft:ender_pearl>,
-    <minecraft:ender_pearl>,
+    <sky_orchards:amber_ender>,
+    <sky_orchards:amber_ender>,
+    <sky_orchards:amber_ender>,
+    <sky_orchards:amber_ender>,
     <thermalfoundation:material:70>,
     <thermalfoundation:material:67>,
     <thermalfoundation:material:67>,
@@ -211,9 +173,9 @@ mods.pedestalcrafting.Pedestal.addRecipe(<sky_orchards:sapling_ender>, 200, <sky
 ], [["endRod", "2"]], [["portal", "50"]], [["smoke", "25"], ["flame", "5"]]);
 
 mods.pedestalcrafting.Pedestal.addRecipe(<sky_orchards:sapling_vibrant>, 200, <sky_orchards:sapling_steel>, [
-    <sky_orchards:acorn_energetic>,
     <sky_orchards:resin_energetic>,
-    <sky_orchards:acorn_ender>,
+    <sky_orchards:resin_energetic>,
+    <sky_orchards:resin_ender>,
     <sky_orchards:resin_ender>
 ], [["endRod", "2"]], [["portal", "50"]], [["smoke", "25"], ["flame", "5"]]);
 
@@ -264,7 +226,7 @@ mods.botania.ElvenTrade.addRecipe([<sky_orchards:sapling_elementium>],[<sky_orch
 // Furnace Recipies
 // furnace.setFuel(IIngredient input, int burnTime);
 // ======================================================================
-furnace.setFuel(<sky_orchards:acorn_coal>, 300);
+furnace.setFuel(<sky_orchards:resin_coal>, 300);
 furnace.setFuel(<sky_orchards:amber_coal>, 3000);
 
 // ======================================================================
@@ -332,12 +294,51 @@ mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:inferium", <sky_orchards
 mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:prismarine", <sky_orchards:amber_prismarine>);
 mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:fertilizer", <sky_orchards:amber_fertilizer>);
 mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:fertilizer", <sky_orchards:resin_fertilizer>);
-mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:fertilizer", <sky_orchards:acorn_fertilizer>);
 mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:fertilizer", <sky_orchards:leaves_fertilizer>);
 
 // ======================================================================
-// Add Drops
+// Drops
 // mods.bonsaitrees.TreeDrops.addTreeDrop("minecraft:oak", <minecraft:bucket>, 0.01);
+// mods.bonsaitrees.TreeDrops.removeTreeDrop("minecraft:oak", <minecraft:bucket>);
 // ======================================================================
 mods.bonsaitrees.TreeDrops.addTreeDrop("sky_orchards:fertilizer", <botania:fertilizer>, 0.05);
 
+mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:lumium", <sky_orchards:acorn_lumium>);
+mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:signalum", <sky_orchards:acorn_signalum>);
+mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:enderium", <sky_orchards:acorn_enderium>);
+mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:platinum", <sky_orchards:acorn_platinum>);
+mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:steel", <sky_orchards:acorn_steel>);
+mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:coal", <sky_orchards:acorn_coal>);
+mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:manyullyn", <sky_orchards:acorn_manyullyn>);
+mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:darksteel", <sky_orchards:acorn_darksteel>);
+mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:energetic", <sky_orchards:acorn_energetic>);
+mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:ender", <sky_orchards:acorn_ender>);
+mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:redstonealloy", <sky_orchards:acorn_redstonealloy>);
+mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:vibrant", <sky_orchards:acorn_vibrant>);
+mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:manasteel", <sky_orchards:acorn_manasteel>);
+mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:terrasteel", <sky_orchards:acorn_manasteel>);
+mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:elementium", <sky_orchards:acorn_elementium>);
+mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:knightslime", <sky_orchards:acorn_knightslime>);
+mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:prismarine", <sky_orchards:acorn_prismarine>);
+mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:fertilizer", <sky_orchards:acorn_fertilizer>);
+mods.bonsaitrees.TreeDrops.removeTreeDrop("sky_orchards:inferium", <sky_orchards:acorn_inferium>);
+
+mods.jei.JEI.removeAndHide(<sky_orchards:acorn_lumium>);
+mods.jei.JEI.removeAndHide(<sky_orchards:acorn_signalum>);
+mods.jei.JEI.removeAndHide(<sky_orchards:acorn_enderium>);
+mods.jei.JEI.removeAndHide(<sky_orchards:acorn_platinum>);
+mods.jei.JEI.removeAndHide(<sky_orchards:acorn_steel>);
+mods.jei.JEI.removeAndHide(<sky_orchards:acorn_coal>);
+mods.jei.JEI.removeAndHide(<sky_orchards:acorn_manyullyn>);
+mods.jei.JEI.removeAndHide(<sky_orchards:acorn_darksteel>);
+mods.jei.JEI.removeAndHide(<sky_orchards:acorn_energetic>);
+mods.jei.JEI.removeAndHide(<sky_orchards:acorn_ender>);
+mods.jei.JEI.removeAndHide(<sky_orchards:acorn_redstonealloy>);
+mods.jei.JEI.removeAndHide(<sky_orchards:acorn_vibrant>);
+mods.jei.JEI.removeAndHide(<sky_orchards:acorn_manasteel>);
+mods.jei.JEI.removeAndHide(<sky_orchards:acorn_manasteel>);
+mods.jei.JEI.removeAndHide(<sky_orchards:acorn_elementium>);
+mods.jei.JEI.removeAndHide(<sky_orchards:acorn_knightslime>);
+mods.jei.JEI.removeAndHide(<sky_orchards:acorn_prismarine>);
+mods.jei.JEI.removeAndHide(<sky_orchards:acorn_fertilizer>);
+mods.jei.JEI.removeAndHide(<sky_orchards:acorn_inferium>);

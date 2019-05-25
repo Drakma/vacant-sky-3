@@ -1,7 +1,6 @@
 // ======================================================================
 // Remove and Hide
 // ======================================================================
-mods.jei.JEI.removeAndHide(<simplyjetpacks:itemjetpack>);
 mods.jei.JEI.removeAndHide(<simplyjetpacks:itemjetpack:1>);
 mods.jei.JEI.removeAndHide(<simplyjetpacks:itemjetpack:2>);
 mods.jei.JEI.removeAndHide(<simplyjetpacks:itemjetpack:3>);

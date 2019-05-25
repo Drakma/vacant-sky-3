@@ -53,8 +53,8 @@ mods.tconstruct.Casting.addTableRecipe(<contenttweaker:material_part:1>, <tconst
 // Alloys
 // mods.tconstruct.Alloy.addRecipe(ILiquidStack output, ILiquidStack[] inputs);
 // ======================================================================
-mods.tconstruct.Alloy.addRecipe(<liquid:drakonium> * 2421, [<liquid:xpjuice> * 125, <liquid:manyullyn> * 72, <liquid:knightslime> * 72]);
-mods.tconstruct.Alloy.addRecipe(<liquid:drakonium> * 2421, [<liquid:experience> * 125, <liquid:manyullyn> * 72, <liquid:knightslime> * 72]);
+mods.tconstruct.Alloy.addRecipe(<liquid:drakonium> * 269, [<liquid:xpjuice> * 125, <liquid:manyullyn> * 72, <liquid:knightslime> * 72]);
+mods.tconstruct.Alloy.addRecipe(<liquid:drakonium> * 269, [<liquid:experience> * 125, <liquid:manyullyn> * 72, <liquid:knightslime> * 72]);
 
 // ======================================================================
 // Remove Thermal Foundation Smelting from tconstruct

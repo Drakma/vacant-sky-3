@@ -2,6 +2,7 @@
 // Removes
 // ======================================================================
 mods.jei.JEI.removeAndHide(<minecraft:magma_cream>);
+mods.jei.JEI.removeAndHide(<minecraft:ender_chest>);
 
 // ======================================================================
 // Vanilla Minecraft Recipe Changes

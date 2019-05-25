@@ -52,17 +52,17 @@ recipes.addShaped(<yabba:upgrade_obsidian_shell>,
 recipes.remove(<yabba:hammer>);
 recipes.addShaped(<yabba:hammer>,
   [[<ore:cobblestone>,<ore:ingotTin>,<ore:cobblestone>],
-   [null,<ore:stick>,null],
-   [null,<ore:stick>,null]]);
+   [null,<ore:stickWood>,null],
+   [null,<ore:stickWood>,null]]);
 
 recipes.remove(<yabba:painter>);
 recipes.addShaped(<yabba:painter>,
   [[<ore:blockWool>,<ore:ingotTin>,<ore:blockWool>],
-   [null,<ore:stick>,null],
-   [null,<ore:stick>,null]]);
+   [null,<ore:stickWood>,null],
+   [null,<ore:stickWood>,null]]);
 
 recipes.remove(<yabba:wrench>);
 recipes.addShaped(<yabba:wrench>,
   [[<ore:ingotTin>,null,<ore:ingotTin>],
-   [null,<ore:stick>,null],
-   [null,<ore:stick>,null]]);
+   [null,<ore:stickWood>,null],
+   [null,<ore:stickWood>,null]]);

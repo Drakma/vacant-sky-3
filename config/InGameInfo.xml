@@ -95,7 +95,7 @@
             <max>
                 <var>potiondurationticks0</var>
                 <num>0.5</num>
-                <str>{potionduration0} {potionicon0}</str>
+                <str>{potioneffect0} {potionicon0} - {potionduration0} </str>
                 <str/>
             </max>
         </line>
@@ -103,7 +103,7 @@
             <max>
                 <var>potiondurationticks1</var>
                 <num>0.5</num>
-                <str>{potionduration1} {potionicon1}</str>
+                <str>{potioneffect1} {potionicon1} - {potionduration1} </str>
                 <str/>
             </max>
         </line>
@@ -111,7 +111,7 @@
             <max>
                 <var>potiondurationticks2</var>
                 <num>0.5</num>
-                <str>{potionduration2} {potionicon2}</str>
+                <str>{potioneffect2} {potionicon2} - {potionduration2} </str>
                 <str/>
             </max>
         </line>
@@ -119,7 +119,7 @@
             <max>
                 <var>potiondurationticks3</var>
                 <num>0.5</num>
-                <str>{potionduration3} {potionicon3}</str>
+                <str>{potioneffect3} {potionicon3} - {potionduration3} </str>
                 <str/>
             </max>
         </line>
@@ -127,7 +127,7 @@
             <max>
                 <var>potiondurationticks4</var>
                 <num>0.5</num>
-                <str>{potionduration4} {potionicon4}</str>
+                <str>{potioneffect4} {potionicon4} - {potionduration4} </str>
                 <str/>
             </max>
         </line>
@@ -135,7 +135,7 @@
             <max>
                 <var>potiondurationticks5</var>
                 <num>0.5</num>
-                <str>{potionduration5} {potionicon5}</str>
+                <str>{potioneffect5} {potionicon5} - {potionduration5} </str>
                 <str/>
             </max>
         </line>
@@ -143,7 +143,7 @@
             <max>
                 <var>potiondurationticks6</var>
                 <num>0.5</num>
-                <str>{potionduration6} {potionicon6}</str>
+                <str>{potioneffect6} {potionicon6} - {potionduration6} </str>
                 <str/>
             </max>
         </line>
@@ -151,7 +151,7 @@
             <max>
                 <var>potiondurationticks7</var>
                 <num>0.5</num>
-                <str>{potionduration7} {potionicon7}</str>
+                <str>{potioneffect7} {potionicon7} - {potionduration7} </str>
                 <str/>
             </max>
         </line>
@@ -159,7 +159,55 @@
             <max>
                 <var>potiondurationticks8</var>
                 <num>0.5</num>
-                <str>{potionduration8} {potionicon8}</str>
+                <str>{potioneffect8} {potionicon8} - {potionduration8} </str>
+                <str/>
+            </max>
+        </line>
+        <line>
+            <max>
+                <var>potiondurationticks9</var>
+                <num>0.5</num>
+                <str>{potioneffect9} {potionicon9} - {potionduration9} </str>
+                <str/>
+            </max>
+        </line>
+        <line>
+            <max>
+                <var>potiondurationticks10</var>
+                <num>0.5</num>
+                <str>{potioneffect10} {potionicon10} - {potionduration10} </str>
+                <str/>
+            </max>
+        </line>
+        <line>
+            <max>
+                <var>potiondurationticks11</var>
+                <num>0.5</num>
+                <str>{potioneffect11} {potionicon11} - {potionduration11} </str>
+                <str/>
+            </max>
+        </line>
+        <line>
+            <max>
+                <var>potiondurationticks12</var>
+                <num>0.5</num>
+                <str>{potioneffect12} {potionicon12} - {potionduration12} </str>
+                <str/>
+            </max>
+        </line>
+        <line>
+            <max>
+                <var>potiondurationticks13</var>
+                <num>0.5</num>
+                <str>{potioneffect13} {potionicon13} - {potionduration13} </str>
+                <str/>
+            </max>
+        </line>
+        <line>
+            <max>
+                <var>potiondurationticks14</var>
+                <num>0.5</num>
+                <str>{potioneffect14} {potionicon14} - {potionduration14} </str>
                 <str/>
             </max>
         </line>

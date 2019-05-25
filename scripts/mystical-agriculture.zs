@@ -9,7 +9,7 @@ recipes.addShaped(<mysticalagriculture:crafting:16>,
    [ <mysticalagriculture:crafting:5>, <mysticalagriculture:crafting:5>, <mysticalagriculture:crafting:5>]]);
 
 recipes.remove(<mysticalagriculture:crafting:17>); // Inferium
-mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:crafting:17>, <mysticalagriculture:crafting:16>, <liquid:inferium>, 200, true, 1000);
+mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:crafting:17>, <mysticalagriculture:crafting:16>, <liquid:inferium>, 200, true, 500);
 
 recipes.remove(<mysticalagriculture:crafting:18>); // Prudentium
 mods.pedestalcrafting.Pedestal.addRecipe(<mysticalagriculture:crafting:18>, 160, <mysticalagriculture:crafting:17>, [
@@ -57,29 +57,30 @@ mods.avaritia.ExtremeCrafting.addShaped("Tier 6 Crafting Seed", <mysticalagraddi
 
 // Tier 1
 recipes.remove(<mysticalagriculture:tier1_inferium_seeds>);
-mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:tier1_inferium_seeds>, <mysticalagriculture:crafting:17>, <liquid:inferium>, 225, true, 600);
+mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:tier1_inferium_seeds>, <mysticalagriculture:crafting:17>, <liquid:inferium>, 225, true, 500);
 
 recipes.remove(<mysticalagriculture:stone_seeds>);
-mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:stone_seeds>, <mysticalagriculture:crafting:17>, <liquid:stone>, 648, true, 600);
+mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:stone_seeds>, <mysticalagriculture:crafting:17>, <liquid:stone>, 648, true, 500);
 
 recipes.remove(<mysticalagriculture:dirt_seeds>);
-mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:dirt_seeds>, <mysticalagriculture:crafting:17>, <liquid:dirt>, 1296, true, 600);
+mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:dirt_seeds>, <mysticalagriculture:crafting:17>, <liquid:dirt>, 1296, true, 500);
 
 recipes.remove(<mysticalagriculture:nature_seeds>);
 mods.forestry.Squeezer.addRecipe(<liquid:nature_crafting> * 250, [<mysticalagriculture:crafting:6>], 60);
-mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:nature_seeds>, <mysticalagriculture:crafting:17>, <liquid:nature_crafting>, 1000, true, 600);
+mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:nature_seeds>, <mysticalagriculture:crafting:17>, <liquid:nature_crafting>, 1000, true, 500);
 
 recipes.remove(<mysticalagriculture:wood_seeds>);
-mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:wood_seeds>, <mysticalagriculture:crafting:17>, <liquid:sap>, 1000, true, 600);
+mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:wood_seeds>, <mysticalagriculture:crafting:17>, <liquid:sap>, 1000, true, 500);
 
 recipes.remove(<mysticalagriculture:water_seeds>);
-mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:water_seeds>, <mysticalagriculture:crafting:17>, <liquid:water>, 1000, true, 600);
+mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:water_seeds>, <mysticalagriculture:crafting:17>, <liquid:water>, 1000, true, 500);
 
 recipes.remove(<mysticalagriculture:ice_seeds>);
 mods.botania.PureDaisy.addRecipe(<mysticalagriculture:water_crop>, <mysticalagriculture:ice_crop>, 100);
+mods.jei.JEI.addDescription(<mysticalagriculture:ice_seeds>,  "Can only be created from the Ice Crop");
 
 recipes.remove(<mysticalagriculture:zombie_seeds>);
-mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:zombie_seeds>, <mysticalagriculture:crafting:17>, <liquid:blood>, 200, true, 600);
+mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:zombie_seeds>, <mysticalagriculture:crafting:17>, <liquid:blood>, 200, true, 500);
 
 // Tier 2
 recipes.remove(<mysticalagriculture:tier2_inferium_seeds>);
@@ -267,8 +268,8 @@ mods.botania.RuneAltar.addRecipe(<mysticalagriculture:tier3_inferium_seeds>,
 
 recipes.remove(<mysticalagriculture:iron_seeds>);
 mods.botania.RuneAltar.addRecipe(<mysticalagriculture:iron_seeds>,
-  [<mysticalagriculture:crafting:19>, <ore:ironIngot>, <ore:ironIngot>, 
-   <ore:ironIngot>, <ore:ironIngot>], 12500);
+  [<mysticalagriculture:crafting:19>, <ore:ingotIron>, <ore:ingotIron>, 
+   <ore:ingotIron>, <ore:ingotIron>], 12500);
 
 recipes.remove(<mysticalagriculture:nether_quartz_seeds>);
 mods.botania.RuneAltar.addRecipe(<mysticalagriculture:nether_quartz_seeds>,
@@ -322,8 +323,8 @@ mods.botania.RuneAltar.addRecipe(<mysticalagriculture:guardian_seeds>,
 
 recipes.remove(<mysticalagriculture:saltpeter_seeds>);
 mods.botania.RuneAltar.addRecipe(<mysticalagriculture:saltpeter_seeds>,
-  [<mysticalagriculture:crafting:19>, <thermalfoundation:material>, <thermalfoundation:material>, 
-   <thermalfoundation:material>, <thermalfoundation:material>], 12500);
+  [<mysticalagriculture:crafting:19>, <thermalfoundation:material:772>, <thermalfoundation:material:772>, 
+   <thermalfoundation:material:772>, <thermalfoundation:material:772>], 12500);
 
 recipes.remove(<mysticalagriculture:tin_seeds>);
 mods.botania.RuneAltar.addRecipe(<mysticalagriculture:tin_seeds>,
@@ -437,7 +438,7 @@ mods.botania.RuneAltar.addRecipe(<mysticalagriculture:experience_seeds>,
 
 recipes.remove(<mysticalagriculture:blaze_seeds>);
 recipes.remove(<mysticalagriculture:chunk:17>);
-mods.botania.RuneAltar.addRecipe(<mysticalagriculture:end_seeds>,
+mods.botania.RuneAltar.addRecipe(<mysticalagriculture:blaze_seeds>,
   [<mysticalagriculture:crafting:20>, <mysticalagriculture:chunk:17>, <mysticalagriculture:chunk:17>, 
    <mysticalagriculture:chunk:17>, <mysticalagriculture:chunk:17>], 50000);
 
@@ -583,7 +584,7 @@ mods.avaritia.ExtremeCrafting.addShaped("Diamond Seed", <mysticalagriculture:dia
   ]);
 
 recipes.remove(<mysticalagriculture:emerald_seeds>);
-mods.avaritia.ExtremeCrafting.addShaped("Diamond Seed", <mysticalagriculture:emerald_seeds>,
+mods.avaritia.ExtremeCrafting.addShaped("Emerald Seed", <mysticalagriculture:emerald_seeds>,
   [
     [<ore:blockEmerald>, <avaritia:resource:1>, <ore:blockEmerald>, <avaritia:resource:1>, <ore:blockEmerald>, <avaritia:resource:1>, <ore:blockEmerald>, <avaritia:resource:1>, <ore:blockEmerald>],
     [<avaritia:resource:1>, null, null, null, null, null, null, null, <avaritia:resource:1>],
@@ -789,12 +790,12 @@ mods.avaritia.ExtremeCrafting.addShaped("Neutronium Seed", <mysticalagradditions
 // Casts
 // mods.tconstruct.Casting.addTableRecipe(IItemStack output, IIngredient cast, ILiquidStack fluid, int amount, @Optional boolean consumeCast, @Optional int time);
 // ======================================================================
-mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:magnesium_seeds>, <mysticalagriculture:crafting:20>, <liquid:superium-_magnesium>, 1296, true, 1000);
-mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:thorium_seeds>, <mysticalagriculture:crafting:20>, <liquid:superium-_thorium>, 1296, true, 1000);
-mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:boron_seeds>, <mysticalagriculture:crafting:20>, <liquid:superium-_boron>, 1296, true, 1000);
-mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:lithium_seeds>, <mysticalagriculture:crafting:20>, <liquid:superium-_lithium>, 1296, true, 1000);
-mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:iridium_seeds>, <mysticalagriculture:crafting:21>, <liquid:supremium-_iridium>, 1296, true, 1000);
-mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:uranium_seeds>, <mysticalagriculture:crafting:21>, <liquid:supremium-_uranium>, 1296, true, 1000);
+// mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:magnesium_seeds>, <mysticalagriculture:crafting:20>, <liquid:superium-_magnesium>, 1296, true, 1000);
+// mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:thorium_seeds>, <mysticalagriculture:crafting:20>, <liquid:superium-_thorium>, 1296, true, 1000);
+// mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:boron_seeds>, <mysticalagriculture:crafting:20>, <liquid:superium-_boron>, 1296, true, 1000);
+// mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:lithium_seeds>, <mysticalagriculture:crafting:20>, <liquid:superium-_lithium>, 1296, true, 1000);
+// mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:iridium_seeds>, <mysticalagriculture:crafting:21>, <liquid:supremium-_iridium>, 1296, true, 1000);
+// mods.tconstruct.Casting.addTableRecipe(<mysticalagriculture:uranium_seeds>, <mysticalagriculture:crafting:21>, <liquid:supremium-_uranium>, 1296, true, 1000);
 
 mods.tconstruct.Casting.addTableRecipe(<contenttweaker:material_part:4>, <tconstruct:cast_custom>, <liquid:superium-_magnesium>, 144, false, 500);
 mods.tconstruct.Casting.addTableRecipe(<contenttweaker:material_part:6>, <tconstruct:cast_custom>, <liquid:superium-_thorium>, 144, false, 500);

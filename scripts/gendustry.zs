@@ -37,3 +37,19 @@ recipes.addShaped(<gendustry:upgrade_frame> * 4,
 
 recipes.addShapeless(<gendustry:upgrade_frame>, [<gendustry:upgrade_frame>]);
 
+recipes.remove(<gendustry:genetics_processor>);
+recipes.addShaped(<gendustry:genetics_processor> * 2,
+  [
+    [<ore:gemQuartz>, <ore:dustRedstone>, <ore:gemQuartz>],
+    [<ore:dustRedstone>, <ore:ingotGold>, <ore:dustRedstone>],
+    [<ore:gemQuartz>, <ore:dustRedstone>, <ore:gemQuartz>]
+  ]);
+
+recipes.remove(<gendustry:labware>);
+recipes.addShaped(<gendustry:labware> * 16,
+  [
+    [<ore:paneGlass>, null, <ore:paneGlass>],
+    [<ore:paneGlass>, null, <ore:paneGlass>],
+    [<ore:paneGlass>, <ore:gemQuartz>, <ore:paneGlass>]
+  ]);
+
