@@ -46,7 +46,7 @@ nature_essence.registerParts(botania_parts);
 // ======================================================================
 var ebee = mods.contenttweaker.VanillaFactory.createItemFood("cooked_bee", 1);
 var cbee = mods.contenttweaker.VanillaFactory.createItemFood("chocolate_cooked_bee", 9);
-cbee.saturation = 1.5;
+cbee.saturation = 0.75;
 
 ebee.register();
 cbee.register();

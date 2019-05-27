@@ -1,0 +1,184 @@
+import crafttweaker.item.IItemStack;
+import crafttweaker.item.IIngredient;
+import mods.zensummoning.SummoningDirector;
+import mods.zensummoning.SummoningAttempt;
+import mods.zensummoning.SummoningInfo;
+import mods.zensummoning.MobInfo;
+
+
+
+/* ===============================================================
+-minecraft:bat -- Bat
+-minecraft:blaze -- Blaze
+minecraft:cave_spider -- CaveSpider
+minecraft:chest_minecart -- MinecartChest
+minecraft:chicken -- Chicken
+minecraft:cow -- Cow
+minecraft:creeper -- Creeper
+minecraft:donkey -- Donkey
+minecraft:elder_guardian -- ElderGuardian
+minecraft:ender_crystal -- EnderCrystal
+minecraft:enderman -- Enderman
+minecraft:endermite -- Endermite
+minecraft:evocation_fangs -- EvocationFangs
+minecraft:evocation_illager -- EvocationIllager
+-minecraft:ghast -- Ghast
+minecraft:giant -- Giant
+-minecraft:guardian -- Guardian
+minecraft:horse -- Horse
+minecraft:husk -- Husk
+minecraft:illusion_illager -- IllusionIllager
+minecraft:llama -- Llama
+minecraft:magma_cube -- LavaSlime
+minecraft:mooshroom -- MushroomCow
+minecraft:mule -- Mule
+minecraft:ocelot -- Ozelot
+minecraft:painting -- Painting
+minecraft:parrot -- Parrot
+-minecraft:pig -- Pig
+minecraft:polar_bear -- PolarBear
+-minecraft:rabbit -- Rabbit
+-minecraft:sheep -- Sheep
+minecraft:shulker -- Shulker
+minecraft:silverfish -- Silverfish
+-minecraft:skeleton -- Skeleton
+minecraft:skeleton_horse -- SkeletonHorse
+-minecraft:slime -- Slime
+-minecraft:spider -- Spider
+-minecraft:squid -- Squid
+minecraft:stray -- Stray
+minecraft:vex -- Vex
+minecraft:villager -- Villager
+minecraft:villager_golem -- VillagerGolem
+minecraft:vindication_illager -- VindicationIllager
+minecraft:witch -- Witch
+minecraft:wither -- WitherBoss
+-minecraft:wither_skeleton -- WitherSkeleton
+minecraft:wolf -- Wolf
+-minecraft:zombie -- Zombie
+minecraft:zombie_horse -- ZombieHorse
+minecraft:zombie_pigman -- PigZombie
+minecraft:zombie_villager -- ZombieVillager
+-thermalfoundation:blizz
+-thermalfoundation:basalz
+-thermalfoundation:blitz
+*/
+
+/* 
+// Zombie 
+SummoningDirector.addSummonInfo(SummoningInfo.create().setCatalyst(<minecraft:stick>)
+  .setReagents([<minecraft:bone>, <minecraft:rotten_flesh>, <minecraft:beef>]).addMob(MobInfo.create()
+  .setMob("minecraft:zombie").setCount(1).setOffset(0,2,0).setSpread(1,1,1)));
+
+// Guardian 
+SummoningDirector.addSummonInfo(SummoningInfo.create().setCatalyst(<minecraft:stick>)
+  .setReagents([]).addMob(MobInfo.create()
+  .setMob("minecraft:guardian").setCount(1).setOffset(0,2,0).setSpread(1,1,1)));
+
+// Spider 
+SummoningDirector.addSummonInfo(SummoningInfo.create().setCatalyst(<minecraft:stick>)
+  .setReagents([]).addMob(MobInfo.create()
+  .setMob("minecraft:spider").setCount(1).setOffset(0,2,0).setSpread(1,1,1)));
+
+// Creeper 
+SummoningDirector.addSummonInfo(SummoningInfo.create().setCatalyst(<minecraft:stick>)
+  .setReagents([<minecraft:dye:2>, <minecraft:gunpowder>, <minecraft:porkchop>]).addMob(MobInfo.create()
+  .setMob("minecraft:creeper").setCount(1).setOffset(0,2,0).setSpread(1,1,1)));
+
+// Skeleton 
+SummoningDirector.addSummonInfo(SummoningInfo.create().setCatalyst(<minecraft:stick>)
+  .setReagents([<minecraft:bone>, <minecraft:arrow>, <minecraft:chicken>]).addMob(MobInfo.create()
+  .setMob("minecraft:creeper").setCount(1).setOffset(0,2,0).setSpread(1,1,1)));
+
+// Enderman 
+SummoningDirector.addSummonInfo(SummoningInfo.create().setCatalyst(<minecraft:stick>)
+  .setReagents([<minecraft:soul_sand>, <minecraft:ender_eye>, <sky_orchards:resin_ender>]).addMob(MobInfo.create()
+  .setMob("minecraft:creeper").setCount(1).setOffset(0,2,0).setSpread(1,1,1)));
+
+//  Blizz
+SummoningDirector.addSummonInfo(SummoningInfo.create().setCatalyst(<minecraft:stick>)
+  .setReagents([<minecraft:snow>, <minecraft:ender_eye>, <sky_orchards:resin_platinum>]).addMob(MobInfo.create()
+  .setMob("thermalfoundation:blizz").setCount(1).setOffset(0,2,0).setSpread(1,1,1)));
+
+// Basalz 
+SummoningDirector.addSummonInfo(
+  SummoningInfo.create()
+    .setCatalyst(<minecraft:stick>)
+    .setReagents([<minecraft:stone>, <minecraft:ender_eye>, <sky_orchards:resin_andesite>])
+    .addMob(MobInfo.create()
+      .setMob("thermalfoundation:basalz")
+      .setCount(1) 
+      .setOffset(0,2,0)
+      .setSpread(1,1,1)
+    )
+);
+
+// Blitz
+SummoningDirector.addSummonInfo(
+  SummoningInfo.create()
+    .setCatalyst(<minecraft:stick>)
+    .setReagents([<minecraft:sand>, <minecraft:ender_eye>, <minecraft:lava_bucket>])
+    .addMob(MobInfo.create()
+      .setMob("thermalfoundation:blitz")
+      .setCount(1)
+      .setOffset(0,2,0)
+      .setSpread(1,1,1)
+    )
+);
+
+// Wither Sekeleton
+SummoningDirector.addSummonInfo(
+  SummoningInfo.create()
+    .setCatalyst(<minecraft:stick>)
+    .setReagents([<minecraft:nether_brick>, <minecraft:skull:1>, <minecraft:netherrack>])
+    .addMob(MobInfo.create()
+      .setMob("minecraft:wither_skeleton")
+      .setCount(1)
+      .setOffset(0,2,0)
+      .setSpread(1,1,1)
+    )
+);
+
+*/
+
+// Slime
+SummoningDirector.addSummonInfo(
+  SummoningInfo.create()
+    .setCatalyst(<minecraft:stick>)
+    .setReagents([<minecraft:slime>, <tconstruct:slime_sapling>, <minecraft:slime_ball>])
+    .addMob(MobInfo.create()
+      .setMob("minecraft:slime")
+      .setCount(1)
+      .setOffset(0,2,0)
+      .setSpread(1,1,1)
+    )
+);
+
+// SummoningDirector.enableDebugging();
+// SummoningDirector.addSummonInfo(
+//     SummoningInfo.create()
+//         .setCatalyst(<minecraft:stick>)
+//         .setReagents([<minecraft:stone>, <minecraft:egg>*12])
+//         .addMob(MobInfo.create()
+//             .setMob("minecraft:cow")
+//             .setCount(4)
+//             .setOffset(0,4,0)
+//             .setSpread(1,1,1)
+//             .setData({"Health": 200, "Attributes":[{"Name":"generic.maxHealth","Base":200}]})
+//         )
+//         .addMob(MobInfo.create()
+//             .setMob("minecraft:blaze")
+//             .setCount(10)
+//             .setOffset(0,8,0)
+//             .setSpread(3,3,3)
+//             .setData({"Health": 2, "Attributes":[{"Name":"generic.maxHealth","Base":2}]})
+//         )
+//         .setMutator(function (attempt as SummoningAttempt) {
+//             if (attempt.world.raining) {
+//                 attempt.success = false;
+//                 attempt.message = "Can't summon this in the rain!";
+//             } else {
+//                 attempt.message = "Woohoo!";
+//             }
+//         })
+// );
