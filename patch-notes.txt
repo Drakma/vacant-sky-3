@@ -1,1 +1,5 @@
 Fixed various grammatical and spelling errors
+Cyclic Emerald Armor removed
+Zen Summoning Fixed
+Environmental Tech Crystals added back in
+Changed several quest to ignore NBT data

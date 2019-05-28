@@ -1,6 +1,11 @@
 {
   "outputs": [
     {
+      "target": "green",
+      "weight": 500,
+      "id": "OD:crystalLitherite"
+    },
+    {
       "target": "black",
       "weight": 1000,
       "id": "OD:oreCoal"

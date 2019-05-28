@@ -5,6 +5,7 @@ import mods.zensummoning.SummoningAttempt;
 import mods.zensummoning.SummoningInfo;
 import mods.zensummoning.MobInfo;
 
+# ----------------------------------- Blizz ---------------------------------- #
 SummoningDirector.addSummonInfo(
   SummoningInfo.create()
     .setCatalyst(<minecraft:stick>)
@@ -19,6 +20,7 @@ SummoningDirector.addSummonInfo(
     )
 );
 
+# ----------------------------------- Slime ---------------------------------- #
 SummoningDirector.addSummonInfo(
   SummoningInfo.create()
     .setCatalyst(<tconstruct:slime_sapling>)
@@ -33,6 +35,7 @@ SummoningDirector.addSummonInfo(
     )
 );
 
+# ---------------------------------- Zombie ---------------------------------- #
 SummoningDirector.addSummonInfo(
   SummoningInfo.create()
     .setCatalyst(<minecraft:bone>)
@@ -47,6 +50,7 @@ SummoningDirector.addSummonInfo(
     )
 );
 
+# --------------------------------- Guardian --------------------------------- #
 SummoningDirector.addSummonInfo(
   SummoningInfo.create()
     .setCatalyst(<harvestcraft:fishtrapbaititem>)
@@ -61,6 +65,7 @@ SummoningDirector.addSummonInfo(
     )
 );
 
+# ---------------------------------- Spider ---------------------------------- #
 SummoningDirector.addSummonInfo(
   SummoningInfo.create()
     .setCatalyst(<minecraft:wheat_seeds>)
@@ -75,12 +80,13 @@ SummoningDirector.addSummonInfo(
     )
 );
 
+# ---------------------------------- Creeper --------------------------------- #
 SummoningDirector.addSummonInfo(
   SummoningInfo.create()
     .setCatalyst(<minecraft:string>)
     .setReagents([<minecraft:dye:2>, <minecraft:gunpowder>, <minecraft:porkchop>])
     .addMob(MobInfo.create()
-      .setMob("minecraft:spider")
+      .setMob("minecraft:creeper")
       .setOffset(1,2,1)
       .setSpread(1,1,1)
       .setData({
@@ -89,6 +95,7 @@ SummoningDirector.addSummonInfo(
     )
 );
 
+# --------------------------------- Skeleton --------------------------------- #
 SummoningDirector.addSummonInfo(
   SummoningInfo.create()
     .setCatalyst(<minecraft:bow>)
@@ -103,6 +110,7 @@ SummoningDirector.addSummonInfo(
     )
 );
 
+# --------------------------------- Enderman --------------------------------- #
 SummoningDirector.addSummonInfo(
   SummoningInfo.create()
     .setCatalyst(<minecraft:ender_pearl>)
@@ -117,6 +125,7 @@ SummoningDirector.addSummonInfo(
     )
 );
 
+# ---------------------------------- Basalz ---------------------------------- #
 SummoningDirector.addSummonInfo(
   SummoningInfo.create()
     .setCatalyst(<minecraft:stone:1>)
@@ -131,6 +140,7 @@ SummoningDirector.addSummonInfo(
     )
 );
 
+# ----------------------------------- Blitz ---------------------------------- #
 SummoningDirector.addSummonInfo(
   SummoningInfo.create()
     .setCatalyst(<tconstruct:seared:0>)
@@ -145,6 +155,7 @@ SummoningDirector.addSummonInfo(
     )
 );
 
+# ------------------------------ Wither Skeleton ----------------------------- #
 SummoningDirector.addSummonInfo(
   SummoningInfo.create()
     .setCatalyst(<minecraft:nether_wart>)
@@ -159,6 +170,7 @@ SummoningDirector.addSummonInfo(
     )
 );
 
+# ----------------------------------- Giant ---------------------------------- #
 SummoningDirector.addSummonInfo(
   SummoningInfo.create()
     .setCatalyst(<minecraft:grass>)

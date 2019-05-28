@@ -1,6 +1,11 @@
 {
   "outputs": [
     {
+      "target": "blue",
+      "weight": 300,
+      "id": "OD:crystalPladium"
+    },
+    {
       "target": "black",
       "weight": 1000,
       "id": "OD:oreCoal"
